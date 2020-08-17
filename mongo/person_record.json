@@ -1,0 +1,780 @@
+{ 
+    "_id" : "22f7e5ee-408a-416f-ba39-519109ca0ff9", 
+    "issueNum" : "202007", 
+    "description" : "2020年07月个人指标配置", 
+    "deployDate" : "2020-07-27", 
+    "deployDateTime" : "2020-07-27 15:22:31", 
+    "applyNum" : "1293079", 
+    "normNum" : "2933", 
+    "initialValue" : "617934", 
+    "lotRate" : "0.0023", 
+    "_class" : "com.car.data.entity.PersonRecord"
+}
+{ 
+    "_id" : "f8fe9d5a-9d00-460c-b16f-bc6de9798d6c", 
+    "issueNum" : "202006", 
+    "description" : "2020年06月个人指标配置", 
+    "deployDate" : "2020-06-28", 
+    "deployDateTime" : "2020-06-28 15:22:42", 
+    "applyNum" : "1290865", 
+    "normNum" : "2933", 
+    "initialValue" : "587436", 
+    "lotRate" : "0.0023", 
+    "_class" : "com.car.data.entity.PersonRecord"
+}
+{ 
+    "_id" : "059b32f8-b2f3-43ea-b66f-5700acd24f6e", 
+    "issueNum" : "202005", 
+    "description" : "2020年05月个人指标配置", 
+    "deployDate" : "2020-05-26", 
+    "deployDateTime" : "2020-05-26 15:09:26", 
+    "applyNum" : "1295229", 
+    "normNum" : "2933", 
+    "initialValue" : "168925", 
+    "lotRate" : "0.0023", 
+    "_class" : "com.car.data.entity.PersonRecord"
+}
+{ 
+    "_id" : "ffd5a085-30b6-4165-ab62-fb2219377666", 
+    "issueNum" : "202004", 
+    "description" : "2020年04月个人指标配置", 
+    "deployDate" : "2020-04-26", 
+    "deployDateTime" : "2020-04-26 15:09:52", 
+    "applyNum" : "1266953", 
+    "normNum" : "2934", 
+    "initialValue" : "806754", 
+    "lotRate" : "0.0023", 
+    "_class" : "com.car.data.entity.PersonRecord"
+}
+{ 
+    "_id" : "58d28aa7-697c-4bd2-b0fe-6d6ecc2e6088", 
+    "issueNum" : "202003", 
+    "description" : "2020年03月个人指标配置", 
+    "deployDate" : "2020-03-26", 
+    "deployDateTime" : "2020-03-26 15:09:48", 
+    "applyNum" : "1261903", 
+    "normNum" : "2934", 
+    "initialValue" : "653105", 
+    "lotRate" : "0.0023", 
+    "_class" : "com.car.data.entity.PersonRecord"
+}
+{ 
+    "_id" : "c5ab4ffe-e5e0-4439-8656-a7adea37babb", 
+    "issueNum" : "202002", 
+    "description" : "2020年02月个人指标配置", 
+    "deployDate" : "2020-02-26", 
+    "deployDateTime" : "2020-02-26 15:14:43", 
+    "applyNum" : "1273569", 
+    "normNum" : "5868", 
+    "initialValue" : "682580", 
+    "lotRate" : "0.0046", 
+    "_class" : "com.car.data.entity.PersonRecord"
+}
+{ 
+    "_id" : "dfbad934-386e-4653-9df7-9ccdbf56587a", 
+    "issueNum" : "201912", 
+    "description" : "2019年12月个人指标配置", 
+    "deployDate" : "2019-12-26", 
+    "deployDateTime" : "2019-12-26 15:24:29", 
+    "applyNum" : "1250438", 
+    "normNum" : "2933", 
+    "initialValue" : "731165", 
+    "lotRate" : "0.0023", 
+    "_class" : "com.car.data.entity.PersonRecord"
+}
+{ 
+    "_id" : "5b4841b7-1067-4032-8556-c5e0e05b7232", 
+    "issueNum" : "201911", 
+    "description" : "2019年11月个人指标配置", 
+    "deployDate" : "2019-11-26", 
+    "deployDateTime" : "2019-11-26 15:25:08", 
+    "applyNum" : "1260775", 
+    "normNum" : "2933", 
+    "initialValue" : "848976", 
+    "lotRate" : "0.0023", 
+    "_class" : "com.car.data.entity.PersonRecord"
+}
+{ 
+    "_id" : "10e6a6a2-0cef-4b9d-8c96-e5f9335d1de0", 
+    "issueNum" : "201910", 
+    "description" : "2019年10月个人指标配置", 
+    "deployDate" : "2019-10-28", 
+    "deployDateTime" : "2019-10-28 15:22:39", 
+    "applyNum" : "1241431", 
+    "normNum" : "2933", 
+    "initialValue" : "493746", 
+    "lotRate" : "0.0024", 
+    "_class" : "com.car.data.entity.PersonRecord"
+}
+{ 
+    "_id" : "82d74005-c393-45fa-ae81-ebad76893789", 
+    "issueNum" : "201909", 
+    "description" : "2019年09月个人指标配置", 
+    "deployDate" : "2019-09-26", 
+    "deployDateTime" : "2019-09-26 15:22:19", 
+    "applyNum" : "1287434", 
+    "normNum" : "2933", 
+    "initialValue" : "676588", 
+    "lotRate" : "0.0023", 
+    "_class" : "com.car.data.entity.PersonRecord"
+}
+{ 
+    "_id" : "8d2afcbd-b60b-430e-a1c8-cd11eadc7361", 
+    "issueNum" : "201908", 
+    "description" : "2019年08月个人指标配置", 
+    "deployDate" : "2019-08-26", 
+    "deployDateTime" : "2019-08-26 15:24:26", 
+    "applyNum" : "1288121", 
+    "normNum" : "5133", 
+    "initialValue" : "438044", 
+    "lotRate" : "0.0040", 
+    "_class" : "com.car.data.entity.PersonRecord"
+}
+{ 
+    "_id" : "16cebc6a-bcf4-4fbd-ae57-02fe38a88edb", 
+    "issueNum" : "201907", 
+    "description" : "2019年07月个人指标配置", 
+    "deployDate" : "2019-07-26", 
+    "deployDateTime" : "2019-07-26 15:24:25", 
+    "applyNum" : "1300204", 
+    "normNum" : "5133", 
+    "initialValue" : "944338", 
+    "lotRate" : "0.0039", 
+    "_class" : "com.car.data.entity.PersonRecord"
+}
+{ 
+    "_id" : "658cd3ea-468d-4623-806d-49e14eb512d8", 
+    "issueNum" : "201906", 
+    "description" : "2019年06月个人指标配置", 
+    "deployDate" : "2019-07-05", 
+    "deployDateTime" : "2019-07-05 15:23:33", 
+    "applyNum" : "1321421", 
+    "normNum" : "7333", 
+    "initialValue" : "649912", 
+    "lotRate" : "0.0055", 
+    "_class" : "com.car.data.entity.PersonRecord"
+}
+{ 
+    "_id" : "da93ef50-c5d9-4365-a21e-779a9b03bbb5", 
+    "issueNum" : "201905", 
+    "description" : "2019年05月个人指标配置", 
+    "deployDate" : "2019-05-27", 
+    "deployDateTime" : "2019-05-27 15:24:00", 
+    "applyNum" : "1230909", 
+    "normNum" : "2933", 
+    "initialValue" : "634666", 
+    "lotRate" : "0.0024", 
+    "_class" : "com.car.data.entity.PersonRecord"
+}
+{ 
+    "_id" : "a718f1f9-52f1-4a0b-bee4-aa412ddad22e", 
+    "issueNum" : "201904", 
+    "description" : "2019年04月个人指标配置", 
+    "deployDate" : "2019-04-26", 
+    "deployDateTime" : "2019-04-26 15:25:11", 
+    "applyNum" : "1209531", 
+    "normNum" : "2934", 
+    "initialValue" : "049882", 
+    "lotRate" : "0.0024", 
+    "_class" : "com.car.data.entity.PersonRecord"
+}
+{ 
+    "_id" : "56c8f0b8-8860-424d-9ea7-71b7ea5f0157", 
+    "issueNum" : "201903", 
+    "description" : "2019年03月个人指标配置", 
+    "deployDate" : "2019-03-26", 
+    "deployDateTime" : "2019-03-26 15:22:59", 
+    "applyNum" : "1179469", 
+    "normNum" : "2934", 
+    "initialValue" : "717475", 
+    "lotRate" : "0.0025", 
+    "_class" : "com.car.data.entity.PersonRecord"
+}
+{ 
+    "_id" : "c97d540b-40d5-41fa-9092-54776af255ba", 
+    "issueNum" : "201902", 
+    "description" : "2019年02月个人指标配置", 
+    "deployDate" : "2019-02-26", 
+    "deployDateTime" : "2019-02-26 15:23:10", 
+    "applyNum" : "1122238", 
+    "normNum" : "2934", 
+    "initialValue" : "641910", 
+    "lotRate" : "0.0026", 
+    "_class" : "com.car.data.entity.PersonRecord"
+}
+{ 
+    "_id" : "17bf3de8-9963-4e0b-863b-8de3a635b2d1", 
+    "issueNum" : "201901", 
+    "description" : "2019年01月个人指标配置", 
+    "deployDate" : "2019-01-28", 
+    "deployDateTime" : "2019-01-28 15:25:16", 
+    "applyNum" : "1143583", 
+    "normNum" : "2934", 
+    "initialValue" : "483893", 
+    "lotRate" : "0.0026", 
+    "_class" : "com.car.data.entity.PersonRecord"
+}
+{ 
+    "_id" : "d2832907-e4cb-4608-8f65-4af8d34dc81b", 
+    "issueNum" : "201812", 
+    "description" : "2018年12月个人指标配置", 
+    "deployDate" : "2018-12-26", 
+    "deployDateTime" : "2018-12-26 15:23:38", 
+    "applyNum" : "1147085", 
+    "normNum" : "2933", 
+    "initialValue" : "235813", 
+    "lotRate" : "0.0026", 
+    "_class" : "com.car.data.entity.PersonRecord"
+}
+{ 
+    "_id" : "9eef23b4-36ce-48ed-9c8c-626d1769f9d8", 
+    "issueNum" : "201811", 
+    "description" : "2018年11月个人指标配置", 
+    "deployDate" : "2018-11-26", 
+    "deployDateTime" : "2018-11-26 15:21:18", 
+    "applyNum" : "1147564", 
+    "normNum" : "2933", 
+    "initialValue" : "641862", 
+    "lotRate" : "0.0026", 
+    "_class" : "com.car.data.entity.PersonRecord"
+}
+{ 
+    "_id" : "0da3a13a-b9e0-43da-b5b4-936151b3def2", 
+    "issueNum" : "201810", 
+    "description" : "2018年10月个人指标配置", 
+    "deployDate" : "2018-10-26", 
+    "deployDateTime" : "2018-10-26 15:21:00", 
+    "applyNum" : "1126521", 
+    "normNum" : "2933", 
+    "initialValue" : "086906", 
+    "lotRate" : "0.0026", 
+    "_class" : "com.car.data.entity.PersonRecord"
+}
+{ 
+    "_id" : "1db19a42-8cb6-48ec-814d-32ae264f79b1", 
+    "issueNum" : "201809", 
+    "description" : "2018年09月个人指标配置", 
+    "deployDate" : "2018-09-26", 
+    "deployDateTime" : "2018-09-26 15:21:51", 
+    "applyNum" : "1126790", 
+    "normNum" : "2933", 
+    "initialValue" : "619555", 
+    "lotRate" : "0.0026", 
+    "_class" : "com.car.data.entity.PersonRecord"
+}
+{ 
+    "_id" : "1ce5e0db-c993-4939-9c9d-de279922f702", 
+    "issueNum" : "201808", 
+    "description" : "2018年08月个人指标配置", 
+    "deployDate" : "2018-08-27", 
+    "deployDateTime" : "2018-08-27 15:21:42", 
+    "applyNum" : "1112115", 
+    "normNum" : "2933", 
+    "initialValue" : "808173", 
+    "lotRate" : "0.0026", 
+    "_class" : "com.car.data.entity.PersonRecord"
+}
+{ 
+    "_id" : "2aedd1c7-5af2-43aa-a519-9305b9c2deeb", 
+    "issueNum" : "201807", 
+    "description" : "2018年07月个人指标配置", 
+    "deployDate" : "2018-07-26", 
+    "deployDateTime" : "2018-07-26 15:22:20", 
+    "applyNum" : "1092754", 
+    "normNum" : "2933", 
+    "initialValue" : "235660", 
+    "lotRate" : "0.0027", 
+    "_class" : "com.car.data.entity.PersonRecord"
+}
+{ 
+    "_id" : "39fc2242-b3fd-46fa-aeca-a271f81b2cb1", 
+    "issueNum" : "201806", 
+    "description" : "2018年06月个人指标配置", 
+    "deployDate" : "2018-06-26", 
+    "deployDateTime" : "2018-06-26 15:22:20", 
+    "applyNum" : "1076721", 
+    "normNum" : "2933", 
+    "initialValue" : "513539", 
+    "lotRate" : "0.0027", 
+    "_class" : "com.car.data.entity.PersonRecord"
+}
+{ 
+    "_id" : "f51ebbef-3033-4dcf-a702-166758012645", 
+    "issueNum" : "201805", 
+    "description" : "2018年05月个人指标配置", 
+    "deployDate" : "2018-05-28", 
+    "deployDateTime" : "2018-05-28 15:22:13", 
+    "applyNum" : "1050469", 
+    "normNum" : "2933", 
+    "initialValue" : "064849", 
+    "lotRate" : "0.0028", 
+    "_class" : "com.car.data.entity.PersonRecord"
+}
+{ 
+    "_id" : "9e654d39-0273-41f5-84f1-e0bcb3184851", 
+    "issueNum" : "201804", 
+    "description" : "2018年04月个人指标配置", 
+    "deployDate" : "2018-04-26", 
+    "deployDateTime" : "2018-04-26 15:22:36", 
+    "applyNum" : "1018135", 
+    "normNum" : "2934", 
+    "initialValue" : "629748", 
+    "lotRate" : "0.0029", 
+    "_class" : "com.car.data.entity.PersonRecord"
+}
+{ 
+    "_id" : "ab19ea5b-d51b-40bd-aad5-b6e3f4dc5acf", 
+    "issueNum" : "201803", 
+    "description" : "2018年03月个人指标配置", 
+    "deployDate" : "2018-03-26", 
+    "deployDateTime" : "2018-03-26 15:22:00", 
+    "applyNum" : "979297", 
+    "normNum" : "2934", 
+    "initialValue" : "776792", 
+    "lotRate" : "0.0030", 
+    "_class" : "com.car.data.entity.PersonRecord"
+}
+{ 
+    "_id" : "c25b039a-fd35-4439-a2b5-1d152b3acf25", 
+    "issueNum" : "201802", 
+    "description" : "2018年02月个人指标配置", 
+    "deployDate" : "2018-02-26", 
+    "deployDateTime" : "2018-02-26 15:25:22", 
+    "applyNum" : "955763", 
+    "normNum" : "2934", 
+    "initialValue" : "184271", 
+    "lotRate" : "0.0031", 
+    "_class" : "com.car.data.entity.PersonRecord"
+}
+{ 
+    "_id" : "4fa7ccf0-0110-4879-8fc8-32a78f4ab97f", 
+    "issueNum" : "201801", 
+    "description" : "2018年01月个人指标配置", 
+    "deployDate" : "2018-01-26", 
+    "deployDateTime" : "2018-01-26 15:22:38", 
+    "applyNum" : "950786", 
+    "normNum" : "2934", 
+    "initialValue" : "093061", 
+    "lotRate" : "0.0031", 
+    "_class" : "com.car.data.entity.PersonRecord"
+}
+{ 
+    "_id" : "30516bbf-eacb-4755-a2a8-b2e9edb198f7", 
+    "issueNum" : "201712", 
+    "description" : "2017年12月个人指标配置", 
+    "deployDate" : "2017-12-26", 
+    "deployDateTime" : "2017-12-26 15:45:37", 
+    "applyNum" : "902364", 
+    "normNum" : "2933", 
+    "initialValue" : "674938", 
+    "lotRate" : "0.0033", 
+    "_class" : "com.car.data.entity.PersonRecord"
+}
+{ 
+    "_id" : "f6c813e1-aea5-458f-9ee2-d592d256c712", 
+    "issueNum" : "201711", 
+    "description" : "2017年11月个人指标配置", 
+    "deployDate" : "2017-11-27", 
+    "deployDateTime" : "2017-11-27 15:38:11", 
+    "applyNum" : "864895", 
+    "normNum" : "2933", 
+    "initialValue" : "138615", 
+    "lotRate" : "0.0034", 
+    "_class" : "com.car.data.entity.PersonRecord"
+}
+{ 
+    "_id" : "eb3ed043-5e32-4f9b-bf31-2d9da5cfba47", 
+    "issueNum" : "201710", 
+    "description" : "2017年10月个人指标配置", 
+    "deployDate" : "2017-10-26", 
+    "deployDateTime" : "2017-10-26 15:24:06", 
+    "applyNum" : "812940", 
+    "normNum" : "2933", 
+    "initialValue" : "294258", 
+    "lotRate" : "0.0036", 
+    "_class" : "com.car.data.entity.PersonRecord"
+}
+{ 
+    "_id" : "08f44970-52e4-443c-a375-1d35d359a75a", 
+    "issueNum" : "201709", 
+    "description" : "2017年09月个人指标配置", 
+    "deployDate" : "2017-09-26", 
+    "deployDateTime" : "2017-09-26 15:25:47", 
+    "applyNum" : "779591", 
+    "normNum" : "2933", 
+    "initialValue" : "563081", 
+    "lotRate" : "0.0038", 
+    "_class" : "com.car.data.entity.PersonRecord"
+}
+{ 
+    "_id" : "c60ac0b1-a93a-4f17-9f15-e44c432a5c46", 
+    "issueNum" : "201708", 
+    "description" : "2017年08月个人指标配置", 
+    "deployDate" : "2017-08-28", 
+    "deployDateTime" : "2017-08-28 15:26:22", 
+    "applyNum" : "726382", 
+    "normNum" : "2933", 
+    "initialValue" : "028663", 
+    "lotRate" : "0.0040", 
+    "_class" : "com.car.data.entity.PersonRecord"
+}
+{ 
+    "_id" : "e75597be-7115-462b-a5ea-eed912305516", 
+    "issueNum" : "201707", 
+    "description" : "2017年07月个人指标配置", 
+    "deployDate" : "2017-07-26", 
+    "deployDateTime" : "2017-07-26 15:26:02", 
+    "applyNum" : "710346", 
+    "normNum" : "2933", 
+    "initialValue" : "565658", 
+    "lotRate" : "0.0041", 
+    "_class" : "com.car.data.entity.PersonRecord"
+}
+{ 
+    "_id" : "c7facbc6-3b1d-46ab-8451-ef30f5e3e777", 
+    "issueNum" : "201706", 
+    "description" : "2017年06月个人指标配置", 
+    "deployDate" : "2017-06-26", 
+    "deployDateTime" : "2017-06-26 15:33:12", 
+    "applyNum" : "697290", 
+    "normNum" : "2933", 
+    "initialValue" : "449627", 
+    "lotRate" : "0.0042", 
+    "_class" : "com.car.data.entity.PersonRecord"
+}
+{ 
+    "_id" : "3ba3bc97-2236-47ec-a127-4a8ad8d7d8df", 
+    "issueNum" : "201705", 
+    "description" : "2017年05月个人指标配置", 
+    "deployDate" : "2017-05-26", 
+    "deployDateTime" : "2017-05-26 15:23:30", 
+    "applyNum" : "685788", 
+    "normNum" : "2933", 
+    "initialValue" : "648125", 
+    "lotRate" : "0.0043", 
+    "_class" : "com.car.data.entity.PersonRecord"
+}
+{ 
+    "_id" : "5ec9a67a-a535-4d81-9902-21f2e911cc0b", 
+    "issueNum" : "201704", 
+    "description" : "2017年04月个人指标配置", 
+    "deployDate" : "2017-04-26", 
+    "deployDateTime" : "2017-04-26 15:28:03", 
+    "applyNum" : "672234", 
+    "normNum" : "2934", 
+    "initialValue" : "845775", 
+    "lotRate" : "0.0044", 
+    "_class" : "com.car.data.entity.PersonRecord"
+}
+{ 
+    "_id" : "b097b83d-0729-4a40-b591-1d061bf879a5", 
+    "issueNum" : "201703", 
+    "description" : "2017年03月个人指标配置", 
+    "deployDate" : "2017-03-27", 
+    "deployDateTime" : "2017-03-27 15:28:01", 
+    "applyNum" : "651886", 
+    "normNum" : "2934", 
+    "initialValue" : "081590", 
+    "lotRate" : "0.0045", 
+    "_class" : "com.car.data.entity.PersonRecord"
+}
+{ 
+    "_id" : "5ff5f8b0-2efb-4a4a-bbf9-94f783abd93e", 
+    "issueNum" : "201702", 
+    "description" : "2017年02月个人指标配置", 
+    "deployDate" : "2017-02-27", 
+    "deployDateTime" : "2017-02-27 15:22:26", 
+    "applyNum" : "626233", 
+    "normNum" : "2934", 
+    "initialValue" : "892169", 
+    "lotRate" : "0.0047", 
+    "_class" : "com.car.data.entity.PersonRecord"
+}
+{ 
+    "_id" : "33dc804a-419e-40ca-9e6b-41768b26fecf", 
+    "issueNum" : "201701", 
+    "description" : "2017年01月个人指标配置", 
+    "deployDate" : "2017-01-26", 
+    "deployDateTime" : "2017-01-26 15:23:49", 
+    "applyNum" : "619969", 
+    "normNum" : "2934", 
+    "initialValue" : "370677", 
+    "lotRate" : "0.0047", 
+    "_class" : "com.car.data.entity.PersonRecord"
+}
+{ 
+    "_id" : "8db7104d-6356-431b-84ad-b80d6d736054", 
+    "issueNum" : "201612", 
+    "description" : "2016年12月个人指标配置", 
+    "deployDate" : "2016-12-26", 
+    "deployDateTime" : "2016-12-26 15:28:00", 
+    "applyNum" : "608910", 
+    "normNum" : "2933", 
+    "initialValue" : "622803", 
+    "lotRate" : "0.0048", 
+    "_class" : "com.car.data.entity.PersonRecord"
+}
+{ 
+    "_id" : "48ed97b9-e011-4c6a-9b14-a6994d1ef36f", 
+    "issueNum" : "201611", 
+    "description" : "2016年11月个人指标配置", 
+    "deployDate" : "2016-11-28", 
+    "deployDateTime" : "2016-11-28 15:27:50", 
+    "applyNum" : "598459", 
+    "normNum" : "2933", 
+    "initialValue" : "887328", 
+    "lotRate" : "0.0049", 
+    "_class" : "com.car.data.entity.PersonRecord"
+}
+{ 
+    "_id" : "b84de9e0-8511-4ad9-892d-c21cee284cff", 
+    "issueNum" : "201610", 
+    "description" : "2016年10月个人指标配置", 
+    "deployDate" : "2016-10-26", 
+    "deployDateTime" : "2016-10-26 15:23:46", 
+    "applyNum" : "580381", 
+    "normNum" : "2933", 
+    "initialValue" : "039966", 
+    "lotRate" : "0.0051", 
+    "_class" : "com.car.data.entity.PersonRecord"
+}
+{ 
+    "_id" : "0da1236e-173d-4a11-affc-00a6de2ad4be", 
+    "issueNum" : "201609", 
+    "description" : "2016年09月个人指标配置", 
+    "deployDate" : "2016-09-26", 
+    "deployDateTime" : "2016-09-26 15:19:27", 
+    "applyNum" : "566144", 
+    "normNum" : "2933", 
+    "initialValue" : "592635", 
+    "lotRate" : "0.0052", 
+    "_class" : "com.car.data.entity.PersonRecord"
+}
+{ 
+    "_id" : "e7cfff58-731e-4af4-8503-1f3d2560dc1e", 
+    "issueNum" : "201608", 
+    "description" : "2016年08月个人指标配置", 
+    "deployDate" : "2016-08-26", 
+    "deployDateTime" : "2016-08-26 15:26:51", 
+    "applyNum" : "548472", 
+    "normNum" : "2933", 
+    "initialValue" : "083100", 
+    "lotRate" : "0.0053", 
+    "_class" : "com.car.data.entity.PersonRecord"
+}
+{ 
+    "_id" : "4318e904-a150-41a5-ae47-6fe7e272ad97", 
+    "issueNum" : "201607", 
+    "description" : "2016年07月个人指标配置", 
+    "deployDate" : "2016-07-26", 
+    "deployDateTime" : "2016-07-26 15:20:34", 
+    "applyNum" : "539430", 
+    "normNum" : "2933", 
+    "initialValue" : "682144", 
+    "lotRate" : "0.0054", 
+    "_class" : "com.car.data.entity.PersonRecord"
+}
+{ 
+    "_id" : "3b022c24-f625-44b2-bf43-cda48da8211c", 
+    "issueNum" : "201606", 
+    "description" : "2016年06月个人指标配置", 
+    "deployDate" : "2016-06-27", 
+    "deployDateTime" : "2016-06-27 15:24:46", 
+    "applyNum" : "519625", 
+    "normNum" : "2933", 
+    "initialValue" : "372398", 
+    "lotRate" : "0.0056", 
+    "_class" : "com.car.data.entity.PersonRecord"
+}
+{ 
+    "_id" : "2cd6100e-30d2-4222-8a81-b188d0fbaa2e", 
+    "issueNum" : "201605", 
+    "description" : "2016年05月个人指标配置", 
+    "deployDate" : "2016-05-26", 
+    "deployDateTime" : "2016-05-26 15:19:53", 
+    "applyNum" : "492818", 
+    "normNum" : "2933", 
+    "initialValue" : "444936", 
+    "lotRate" : "0.0060", 
+    "_class" : "com.car.data.entity.PersonRecord"
+}
+{ 
+    "_id" : "16c201a1-b653-4836-a6d1-7b414aab1af2", 
+    "issueNum" : "201604", 
+    "description" : "2016年04月个人指标配置", 
+    "deployDate" : "2016-04-26", 
+    "deployDateTime" : "2016-04-26 15:19:51", 
+    "applyNum" : "452932", 
+    "normNum" : "2934", 
+    "initialValue" : "755014", 
+    "lotRate" : "0.0065", 
+    "_class" : "com.car.data.entity.PersonRecord"
+}
+{ 
+    "_id" : "4c866724-c8a6-4258-b87e-c6d608f0cc61", 
+    "issueNum" : "201603", 
+    "description" : "2016年03月个人指标配置", 
+    "deployDate" : "2016-03-28", 
+    "deployDateTime" : "2016-03-28 15:24:17", 
+    "applyNum" : "416642", 
+    "normNum" : "2934", 
+    "initialValue" : "186356", 
+    "lotRate" : "0.0070", 
+    "_class" : "com.car.data.entity.PersonRecord"
+}
+{ 
+    "_id" : "33f79b26-a1fd-4fc4-9cc3-c2c4737f273b", 
+    "issueNum" : "201602", 
+    "description" : "2016年02月个人指标配置", 
+    "deployDate" : "2016-02-26", 
+    "deployDateTime" : "2016-02-26 15:22:34", 
+    "applyNum" : "381653", 
+    "normNum" : "2934", 
+    "initialValue" : "980429", 
+    "lotRate" : "0.0077", 
+    "_class" : "com.car.data.entity.PersonRecord"
+}
+{ 
+    "_id" : "d5b0205b-34cc-4a3c-b905-e1ac16035cf9", 
+    "issueNum" : "201601", 
+    "description" : "2016年01月个人指标配置", 
+    "deployDate" : "2016-01-26", 
+    "deployDateTime" : "2016-01-26 15:22:31", 
+    "applyNum" : "379929", 
+    "normNum" : "2934", 
+    "initialValue" : "388408", 
+    "lotRate" : "0.0077", 
+    "_class" : "com.car.data.entity.PersonRecord"
+}
+{ 
+    "_id" : "d5875f72-c34b-4db0-9d38-8d9df7d37a12", 
+    "issueNum" : "201512", 
+    "description" : "2015年12月个人指标配置", 
+    "deployDate" : "2015-12-28", 
+    "deployDateTime" : "2015-12-28 15:22:01", 
+    "applyNum" : "361681", 
+    "normNum" : "2933", 
+    "initialValue" : "831599", 
+    "lotRate" : "0.0081", 
+    "_class" : "com.car.data.entity.PersonRecord"
+}
+{ 
+    "_id" : "08b252ed-4c2f-4bc4-a2e4-5b422eb67321", 
+    "issueNum" : "201511", 
+    "description" : "2015年11月个人指标配置", 
+    "deployDate" : "2015-11-26", 
+    "deployDateTime" : "2015-11-26 15:22:07", 
+    "applyNum" : "348134", 
+    "normNum" : "2933", 
+    "initialValue" : "647164", 
+    "lotRate" : "0.0084", 
+    "_class" : "com.car.data.entity.PersonRecord"
+}
+{ 
+    "_id" : "155b7e26-2306-4038-94a2-892ef108d67a", 
+    "issueNum" : "201510", 
+    "description" : "2015年10月个人指标配置", 
+    "deployDate" : "2015-10-26", 
+    "deployDateTime" : "2015-10-26 15:21:23", 
+    "applyNum" : "329295", 
+    "normNum" : "2933", 
+    "initialValue" : "230343", 
+    "lotRate" : "0.0089", 
+    "_class" : "com.car.data.entity.PersonRecord"
+}
+{ 
+    "_id" : "50843c3d-a019-4c49-a43c-78ed35d1d3f3", 
+    "issueNum" : "201509", 
+    "description" : "2015年09月个人指标配置", 
+    "deployDate" : "2015-09-28", 
+    "deployDateTime" : "2015-09-28 15:23:50", 
+    "applyNum" : "302602", 
+    "normNum" : "2933", 
+    "initialValue" : "142026", 
+    "lotRate" : "0.0097", 
+    "_class" : "com.car.data.entity.PersonRecord"
+}
+{ 
+    "_id" : "e265caa5-b318-435c-a29b-d503e0790333", 
+    "issueNum" : "201508", 
+    "description" : "2015年08月个人指标配置", 
+    "deployDate" : "2015-08-26", 
+    "deployDateTime" : "2015-08-26 15:23:59", 
+    "applyNum" : "257421", 
+    "normNum" : "2933", 
+    "initialValue" : "123474", 
+    "lotRate" : "0.0114", 
+    "_class" : "com.car.data.entity.PersonRecord"
+}
+{ 
+    "_id" : "3d24f075-7735-4825-bf5f-2667d11370d3", 
+    "issueNum" : "201507", 
+    "description" : "2015年07月个人指标配置", 
+    "deployDate" : "2015-07-27", 
+    "deployDateTime" : "2015-07-27 15:21:00", 
+    "applyNum" : "234652", 
+    "normNum" : "2933", 
+    "initialValue" : "028570", 
+    "lotRate" : "0.0125", 
+    "_class" : "com.car.data.entity.PersonRecord"
+}
+{ 
+    "_id" : "91481115-36c2-46ba-bb5e-6159577c486f", 
+    "issueNum" : "201506", 
+    "description" : "2015年06月个人指标配置", 
+    "deployDate" : "2015-06-26", 
+    "deployDateTime" : "2015-06-26 15:23:14", 
+    "applyNum" : "221483", 
+    "normNum" : "2933", 
+    "initialValue" : "856774", 
+    "lotRate" : "0.0132", 
+    "_class" : "com.car.data.entity.PersonRecord"
+}
+{ 
+    "_id" : "e63ebef8-e044-4294-9ed1-a1205f9861bb", 
+    "issueNum" : "201505", 
+    "description" : "2015年05月个人指标配置", 
+    "deployDate" : "2015-05-26", 
+    "deployDateTime" : "2015-05-26 15:24:58", 
+    "applyNum" : "204694", 
+    "normNum" : "2933", 
+    "initialValue" : "824920", 
+    "lotRate" : "0.0143", 
+    "_class" : "com.car.data.entity.PersonRecord"
+}
+{ 
+    "_id" : "b60752a4-4a54-4917-a4bc-d1fd3f641a1e", 
+    "issueNum" : "201504", 
+    "description" : "2015年04月个人指标配置", 
+    "deployDate" : "2015-04-27", 
+    "deployDateTime" : "2015-04-27 15:23:43", 
+    "applyNum" : "200420", 
+    "normNum" : "3912", 
+    "initialValue" : "983618", 
+    "lotRate" : "0.0195", 
+    "_class" : "com.car.data.entity.PersonRecord"
+}
+{ 
+    "_id" : "d38e71e7-3f49-440a-a4ca-d5b2a5c6218a", 
+    "issueNum" : "201503", 
+    "description" : "2015年03月个人指标配置", 
+    "deployDate" : "2015-03-26", 
+    "deployDateTime" : "2015-03-26 15:26:14", 
+    "applyNum" : "158389", 
+    "normNum" : "3912", 
+    "initialValue" : "422689", 
+    "lotRate" : "0.0247", 
+    "_class" : "com.car.data.entity.PersonRecord"
+}
+{ 
+    "_id" : "cd44f6ff-dc93-4975-a2de-dea806e3eb3a", 
+    "issueNum" : "201502", 
+    "description" : "2015年02月个人指标配置", 
+    "deployDate" : "2015-03-09", 
+    "deployDateTime" : "2015-03-09 15:23:46", 
+    "applyNum" : "122574", 
+    "normNum" : "3912", 
+    "initialValue" : "682936", 
+    "lotRate" : "0.0319", 
+    "_class" : "com.car.data.entity.PersonRecord"
+}

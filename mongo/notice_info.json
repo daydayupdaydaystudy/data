@@ -1,0 +1,3303 @@
+{ 
+    "_id" : "0db340f4-336b-46bb-8eb2-ef0d1cb42a6b", 
+    "name" : "深圳市2020年第8期普通小汽车增量指标配置数量公告", 
+    "date" : "2020-08-07", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20200805/1596613422099_1.html", 
+    "type" : "5", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "beac9f74-f22b-459b-bdb2-cc8fe32cb95a", 
+    "name" : "深圳市2020年第7期普通小汽车增量指标摇号结果公告", 
+    "date" : "2020-07-27", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20200727/1595814716547_1.html", 
+    "type" : "1", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "e7f0a334-f10c-45fb-b259-a69f5ac2e19f", 
+    "name" : "深圳市2020年第7期普通小汽车增量指标竞价情况", 
+    "date" : "2020-07-27", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20200727/1595814597395_1.html", 
+    "type" : "2", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "130e16d7-2acc-404d-8f75-09e1e7bcbb35", 
+    "name" : "深圳市2020年第7期普通小汽车增量指标摇号公告", 
+    "date" : "2020-07-22", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20200722/1595381984424_1.html", 
+    "type" : "3", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "e3947bc8-efe6-4f79-b229-25729fad69e5", 
+    "name" : "深圳市2020年第7期普通小汽车增量指标竞价公告", 
+    "date" : "2020-07-15", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20200713/1594624396255_1.html", 
+    "type" : "4", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "ad6522b4-e7af-488d-8fe2-b0544167d162", 
+    "name" : "深圳市2020年第7期普通小汽车增量指标配置数量公告", 
+    "date" : "2020-07-08", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20200708/1594173305081_1.html", 
+    "type" : "5", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "b3a658d8-2f8d-427c-97ed-495a8df1cffd", 
+    "name" : "深圳市2020年第6期普通小汽车增量指标摇号结果公告", 
+    "date" : "2020-06-28", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20200628/1593308839424_1.html", 
+    "type" : "1", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "ebe1505b-c25c-4055-b20c-b37217d12333", 
+    "name" : "深圳市2020年第6期普通小汽车增量指标竞价情况", 
+    "date" : "2020-06-28", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20200628/1593308726666_1.html", 
+    "type" : "2", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "1e7959ce-1242-4511-a401-2afd89e7fd5b", 
+    "name" : "深圳市2020年第6期普通小汽车增量指标摇号公告", 
+    "date" : "2020-06-22", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20200622/1592791512242_1.html", 
+    "type" : "3", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "37c9a3fc-803b-45b2-86fa-638d0995cd6c", 
+    "name" : "深圳市交通运输局关于调整新能源小汽车增量指标申请条件的通告", 
+    "date" : "2020-06-12", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20200612/1591947091391_1.html", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "ff96b6ce-4c93-4aba-87ac-7919447b2003", 
+    "name" : "深圳市2020年第6期普通小汽车增量指标竞价公告", 
+    "date" : "2020-06-15", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20200612/1591944580568_1.html", 
+    "type" : "4", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "8f17b776-b878-4105-9d2b-db6532f76280", 
+    "name" : "关于深圳市小汽车增量调控竞价平台系统更新维护暂停服务公告", 
+    "date" : "2020-06-10", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20200610/1591785497624_1.html", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "65091e93-ed6a-45af-9b1b-e20542a3a875", 
+    "name" : "深圳市2020年第6期普通小汽车增量指标配置数量公告", 
+    "date" : "2020-06-08", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20200604/1591258331580_1.html", 
+    "type" : "5", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "44e174ef-758d-4d76-a4b1-3df0a16dfc2a", 
+    "name" : "深圳市2020年第5期普通小汽车增量指标摇号结果公告", 
+    "date" : "2020-05-26", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20200526/1590459223359_1.html", 
+    "type" : "1", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "0b57aef0-2239-49b4-803e-e33bb81a7221", 
+    "name" : "深圳市2020年第5期普通小汽车增量指标竞价情况", 
+    "date" : "2020-05-25", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20200525/1590395434849_1.html", 
+    "type" : "2", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "1dd4ba44-9517-4826-9aaa-8200706bbddb", 
+    "name" : "深圳市2020年第5期普通小汽车增量指标摇号公告", 
+    "date" : "2020-05-22", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20200521/1590048613758_1.html", 
+    "type" : "3", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "a5c93e4c-51d8-4813-86a7-463ac2da4075", 
+    "name" : "深圳市2020年第5期普通小汽车增量指标竞价公告", 
+    "date" : "2020-05-15", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20200514/1589441822918_1.html", 
+    "type" : "4", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "2abda5e5-de45-41c4-9453-830028dfb256", 
+    "name" : "深圳市2020年第5期普通小汽车增量指标配置数量公告", 
+    "date" : "2020-05-08", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20200508/1588906061794_1.html", 
+    "type" : "5", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "c62edffa-73bd-41ba-ab06-8fcf7f3fa9d8", 
+    "name" : "关于延长部分小汽车更新指标申请资格有效期的公告", 
+    "date" : "2020-05-07", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20200507/1588844722297_1.html", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "ca636233-99de-45a3-ba5d-9289af5f08dd", 
+    "name" : "深圳市2020年第4期普通小汽车增量指标竞价情况", 
+    "date" : "2020-04-26", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20200426/1587890198835_1.html", 
+    "type" : "2", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "55fc96b6-5c08-4019-afb5-c2171aae2d6b", 
+    "name" : "深圳市2020年第4期普通小汽车增量指标摇号结果公告", 
+    "date" : "2020-04-26", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20200426/1587864991813_1.html", 
+    "type" : "1", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "3f254808-c56d-4752-a79c-9fb4f3d0dced", 
+    "name" : "深圳市2020年第4期普通小汽车增量指标摇号公告", 
+    "date" : "2020-04-22", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20200421/1587454058510_1.html", 
+    "type" : "3", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "a60646d2-0eab-4e08-873d-e0b9afd17b84", 
+    "name" : "深圳市2020年第4期普通小汽车增量指标竞价公告", 
+    "date" : "2020-04-16", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20200414/1586830953565_1.html", 
+    "type" : "4", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "66cd0661-9b91-48e4-a209-00d780fa9dd8", 
+    "name" : "深圳市交通运输局关于新增特定小汽车指标的通告", 
+    "date" : "2020-04-09", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20200409/1586426686249_1.html", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "67e81401-8933-4e5a-ae1f-bc5439046ce4", 
+    "name" : "深圳市2020年第4期普通小汽车增量指标配置数量公告", 
+    "date" : "2020-04-08", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20200407/1586223840475_1.html", 
+    "type" : "5", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "1938d22e-9272-4591-af52-eec283640de6", 
+    "name" : "深圳市2020年第3期普通小汽车增量指标摇号结果公告", 
+    "date" : "2020-03-26", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20200326/1585192140940_1.html", 
+    "type" : "1", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "3a5b083f-913e-461b-8741-1c74989c64a1", 
+    "name" : "深圳市2020年第3期普通小汽车增量指标竞价情况", 
+    "date" : "2020-03-25", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20200325/1585125042656_1.html", 
+    "type" : "2", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "99503759-381c-41b2-ada4-055eb12b0637", 
+    "name" : "深圳市2020年第3期普通小汽车增量指标摇号公告", 
+    "date" : "2020-03-22", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20200322/1584842658490_1.html", 
+    "type" : "3", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "e3446931-7d32-4a09-8b71-537fc603d17c", 
+    "name" : "深圳市2020年第3期普通小汽车增量指标竞价公告", 
+    "date" : "2020-03-16", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20200316/1584323412412_1.html", 
+    "type" : "4", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "33cf2e52-22b1-48cf-ac3b-f4a0cfa33278", 
+    "name" : "深圳市2020年第3期普通小汽车增量指标配置数量公告", 
+    "date" : "2020-03-09", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20200306/1583481742269_1.html", 
+    "type" : "5", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "8f954b25-c9ca-404a-9db2-d20045ae2562", 
+    "name" : "深圳市2020年第2期（含第1期）普通小汽车增量指标摇号结果公告", 
+    "date" : "2020-02-26", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20200226/1582699656518_1.html", 
+    "type" : "1", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "69a48a13-cc60-4921-a7b8-0fa72f9a509a", 
+    "name" : "深圳市2020年第2期（含第1期）普通小汽车增量指标竞价情况", 
+    "date" : "2020-02-25", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20200225/1582618844514_1.html", 
+    "type" : "2", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "8b90394e-1bbf-4afe-a96e-5362e590f9af", 
+    "name" : "深圳市2020年第2期（含第1期）普通小汽车增量指标摇号公告", 
+    "date" : "2020-02-22", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20200222/1582347384469_1.html", 
+    "type" : "3", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "f988fb97-130b-4ba4-bc7f-123da3039a4a", 
+    "name" : "深圳市2020年第2期普通小汽车增量指标竞价公告", 
+    "date" : "2020-02-10", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20200210/1581300161413_1.html", 
+    "type" : "4", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "29af7fc8-42b1-4cda-87d8-7adb46db1d6a", 
+    "name" : "深圳市2020年第2期普通小汽车增量指标配置数量公告", 
+    "date" : "2020-02-08", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20200207/1581059041585_1.html", 
+    "type" : "5", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "caa543c1-4952-4ac4-a93b-d713cd6a8da0", 
+    "name" : "关于深圳市小汽车增量调控管理有关调整事项的公告", 
+    "date" : "2020-01-29", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20200129/1580278740104_1.html", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "5d86d64f-824e-4667-9913-778fc47a1613", 
+    "name" : "深圳市2020年第1期普通小汽车增量指标摇号公告", 
+    "date" : "2020-01-22", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20200122/1579656829829_1.html", 
+    "type" : "3", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "fad17946-70b3-4324-8bd2-d3f877748dc7", 
+    "name" : "深圳市2020年第1期普通小汽车增量指标竞价公告", 
+    "date" : "2020-01-15", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20200113/1578880775684_1.html", 
+    "type" : "4", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "ba9283b7-1312-4601-ba98-5b2e787937d4", 
+    "name" : "深圳市2020年第1期普通小汽车增量指标配置数量公告", 
+    "date" : "2020-01-08", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20200108/1578465696536_1.html", 
+    "type" : "5", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "d4fc2c6c-0d57-4788-a700-6cf64248efc7", 
+    "name" : "网站维护公告", 
+    "date" : "2020-01-07", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20200106/1578292477684_1.html", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "380f412f-e377-4ff3-9a59-671b282f5abd", 
+    "name" : "关于深圳市2020年第1期普通小汽车增量指标摇号和竞价时间顺延的公告", 
+    "date" : "2020-01-02", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20191231/1577778408739_1.html", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "cbd4e2eb-01c1-407f-8493-ed77f7b3cac0", 
+    "name" : "深圳市2019年第12期普通小汽车增量指标摇号结果公告", 
+    "date" : "2019-12-26", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20191226/1577343505229_1.html", 
+    "type" : "1", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "c4d7be93-5436-497a-b3b9-54fb1167a6d7", 
+    "name" : "深圳市2019年第12期普通小汽车增量指标竞价情况", 
+    "date" : "2019-12-25", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20191225/1577262173838_1.html", 
+    "type" : "2", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "2f52f289-4640-40f1-9b86-d6b7bbe3077a", 
+    "name" : "深圳市2019年第12期普通小汽车增量指标摇号公告", 
+    "date" : "2019-12-22", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20191220/1576811768537_1.html", 
+    "type" : "3", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "4ea47c9f-4f7d-4d80-9ac8-22b1375352ef", 
+    "name" : "深圳市2019年第12期普通小汽车增量指标竞价公告", 
+    "date" : "2019-12-16", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20191212/1576131379666_1.html", 
+    "type" : "4", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "39b78017-1dda-4bc5-81b3-5f92029e2df2", 
+    "name" : "深圳市2019年第12期普通小汽车增量指标配置数量公告", 
+    "date" : "2019-12-09", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20191209/1575855912086_1.html", 
+    "type" : "5", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "96f7e1a3-41f5-4942-8f70-c4ac4c243f99", 
+    "name" : "深圳市2019年第11期普通小汽车增量指标摇号结果公告", 
+    "date" : "2019-11-26", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20191126/1574750187365_1.html", 
+    "type" : "1", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "3c5b426f-8c80-40c4-bc4a-f506b2b10466", 
+    "name" : "深圳市2019年第11期普通小汽车增量指标竞价情况", 
+    "date" : "2019-11-25", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20191125/1574670681892_1.html", 
+    "type" : "2", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "86ec6b1e-0fe0-4bb6-9e4f-3f8b95669fea", 
+    "name" : "深圳市2019年第11期普通小汽车增量指标摇号公告", 
+    "date" : "2019-11-22", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20191122/1574406015830_1.html", 
+    "type" : "3", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "0800ea8b-c5e0-4e22-9ca9-f43fb3a3e1d8", 
+    "name" : "深圳市2019年第11期普通小汽车增量指标竞价公告", 
+    "date" : "2019-11-15", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20191115/1573781023133_1.html", 
+    "type" : "4", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "160e5a6b-1427-46bd-b24f-399a95930035", 
+    "name" : "深圳市2019年第11期普通小汽车增量指标配置数量公告", 
+    "date" : "2019-11-08", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20191108/1573176041760_1.html", 
+    "type" : "5", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "e5c957ee-414a-49e6-964e-627c4ce1807e", 
+    "name" : "深圳市2019年第10期普通小汽车增量指标摇号结果公告", 
+    "date" : "2019-10-28", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20191028/1572234637793_1.html", 
+    "type" : "1", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "379a3547-c3af-4470-a0f8-f2e644c053b9", 
+    "name" : "深圳市2019年第10期普通小汽车增量指标竞价情况", 
+    "date" : "2019-10-25", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20191025/1571992155556_1.html", 
+    "type" : "2", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "e6217eff-0906-4263-9cb9-3d0851c743c5", 
+    "name" : "深圳市2019年第10期普通小汽车增量指标摇号公告", 
+    "date" : "2019-10-22", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20191022/1571707606252_1.html", 
+    "type" : "3", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "67110482-771e-4ffa-8c24-38b579688769", 
+    "name" : "深圳市2019年第10期普通小汽车增量指标竞价公告", 
+    "date" : "2019-10-15", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20191014/1571045081975_1.html", 
+    "type" : "4", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "6b9492c7-946f-44d6-8e36-04bba39af9bb", 
+    "name" : "深圳市2019年第10期小汽车增量指标配置数量公告", 
+    "date" : "2019-10-08", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20191008/1570504660279_1.html", 
+    "type" : "5", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "6aa358be-79e8-4eef-b732-2551b063f34d", 
+    "name" : "深圳市2019年第9期普通小汽车增量指标摇号结果公告", 
+    "date" : "2019-09-26", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20190926/1569480633586_1.html", 
+    "type" : "1", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "d9d2817d-8a49-4186-8960-bb5d647d28b3", 
+    "name" : "深圳市2019年第9期小汽车增量指标竞价情况", 
+    "date" : "2019-09-25", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20190925/1569399978957_1.html", 
+    "type" : "2", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "07199c11-671c-4896-b92d-3ca0515b6327", 
+    "name" : "深圳市2019年第9期普通小汽车增量指标摇号公告", 
+    "date" : "2019-09-22", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20190922/1569118601097_1.html", 
+    "type" : "3", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "71db3a6d-56e0-429c-b1fa-da1d725488a9", 
+    "name" : "深圳市2019年第9期小汽车增量指标竞价公告", 
+    "date" : "2019-09-16", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20190916/1568600733822_1.html", 
+    "type" : "4", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "7a102ba5-755e-4c2d-b66f-2351da55f557", 
+    "name" : "深圳市2019年第9期小汽车增量指标配置数量公告", 
+    "date" : "2019-09-09", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20190909/1567992937435_1.html", 
+    "type" : "5", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "37567665-3c38-46cc-aa29-dd66c827565b", 
+    "name" : "深圳市2019年第8期小汽车增量指标竞价情况", 
+    "date" : "2019-08-26", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20190826/1566808042196_1.html", 
+    "type" : "2", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "bff28f62-8555-48b8-9a0b-d32f9e90dbd8", 
+    "name" : "深圳市2019年第8期普通小汽车增量指标摇号结果公告", 
+    "date" : "2019-08-26", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20190826/1566800952911_1.html", 
+    "type" : "1", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "fc666e41-a6e8-48ee-bebc-2423bb1773b3", 
+    "name" : "深圳市2019年第8期普通小汽车增量指标摇号公告", 
+    "date" : "2019-08-22", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20190822/1566441071397_1.html", 
+    "type" : "3", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "2c793e26-fbac-4390-bc3e-08f9a0bf0e0c", 
+    "name" : "深圳市2019年第8期小汽车增量指标竞价公告", 
+    "date" : "2019-08-16", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20190815/1565856210251_1.html", 
+    "type" : "4", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "98ae8b40-8fa6-4f6a-b65b-78ecb30fe2a2", 
+    "name" : "深圳市2019年第8期小汽车增量指标配置数量公告", 
+    "date" : "2019-08-08", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20190808/1565227789305_1.html", 
+    "type" : "5", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "fb365df1-bcc4-4dcd-941f-45c30f035359", 
+    "name" : "深圳市2019年第7期普通小汽车增量指标摇号结果公告", 
+    "date" : "2019-07-26", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20190726/1564122058241_1.html", 
+    "type" : "1", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "8e60d036-6b46-4ea6-9d16-2b83790b8fe8", 
+    "name" : "深圳市2019年第7期小汽车增量指标竞价情况", 
+    "date" : "2019-07-25", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20190725/1564043089745_1.html", 
+    "type" : "2", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "bfd4cbe4-18c2-4dd7-af75-af0c1878a72a", 
+    "name" : "深圳市2019年第7期普通小汽车增量指标摇号公告", 
+    "date" : "2019-07-25", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20190723/1563863592752_1.html", 
+    "type" : "3", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "71cd361f-28df-4498-b47a-ecbf1899d738", 
+    "name" : "深圳市2019年第7期小汽车增量指标竞价公告", 
+    "date" : "2019-07-15", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20190715/1563158715104_1.html", 
+    "type" : "4", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "6a71575d-34fa-4edd-976c-eae41f04061c", 
+    "name" : "深圳市2019年第7期小汽车增量指标配置数量公告", 
+    "date" : "2019-07-12", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20190712/1562918120651_1.html", 
+    "type" : "5", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "6864828c-dcac-4c89-af65-8fa23492af8c", 
+    "name" : "深圳市2019年第6期小汽车增量指标竞价情况", 
+    "date" : "2019-07-05", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20190705/1562315395375_1.html", 
+    "type" : "2", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "37154bf9-e3b5-4514-b731-e29b5c5caf57", 
+    "name" : "深圳市2019年第6期普通小汽车增量指标摇号结果公告", 
+    "date" : "2019-07-05", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20190705/1562310536169_1.html", 
+    "type" : "1", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "a5e4d7fe-41c8-4936-aae1-4a18630a3c64", 
+    "name" : "深圳市2019年第6期普通小汽车增量指标摇号公告", 
+    "date" : "2019-07-02", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20190702/1562033407765_1.html", 
+    "type" : "3", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "936394d6-a0db-4e9a-9762-33c61aeed665", 
+    "name" : "深圳市2019年第6期小汽车增量指标竞价调整公告", 
+    "date" : "2019-06-21", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20190621/1561129658681_1.html", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "da197817-5041-4a64-bf36-bf67fb93d79d", 
+    "name" : "深圳市2019年第6期小汽车增量指标配置数量调整公告", 
+    "date" : "2019-06-21", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20190621/1561129368969_1.html", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "e925ebbe-3db3-46c7-a500-4b35daa00404", 
+    "name" : "市交通运输局关于调整我市2019年新增普通小汽车增量指标月度分配方案的通告", 
+    "date" : "2019-06-21", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20190621/1561105482673_1.html", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "58a77a7c-3d9f-4dc3-b577-a31b6ce21c5e", 
+    "name" : "2019年第6期深圳市小汽车增量指标竞价公告", 
+    "date" : "2019-06-14", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20190613/1560394799196_1.html", 
+    "type" : "4", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "1b936de3-3d61-49e5-a7de-b0e2fed6d5be", 
+    "name" : "深圳市2019年第6期小汽车增量指标配置数量公告", 
+    "date" : "2019-06-10", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20190610/1560129905757_1.html", 
+    "type" : "5", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "bb262284-4a31-4513-9358-eef42efac6c2", 
+    "name" : "深圳市交通运输局关于调整我市小汽车调控增量指标配置额度的通告", 
+    "date" : "2019-06-02", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20190602/1559464995884_1.html", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "56494422-f094-4ba4-8f40-595dbaed15a0", 
+    "name" : "深圳市2019年第5期小汽车增量指标竞价情况", 
+    "date" : "2019-05-27", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20190527/1558944991974_1.html", 
+    "type" : "2", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "89cdec86-0b1f-46a6-a232-689dc6d92039", 
+    "name" : "深圳市2019年第5期普通小汽车增量指标摇号结果公告", 
+    "date" : "2019-05-27", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20190527/1558937749968_1.html", 
+    "type" : "1", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "816e1f84-102f-4883-b1b5-268ee58489fc", 
+    "name" : "深圳市2019年第5期普通小汽车摇号公告", 
+    "date" : "2019-05-22", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20190522/1558505730026_1.html", 
+    "type" : "3", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "85187e84-21fc-4ff8-a0ee-9d5571f63703", 
+    "name" : "深圳市2019年第5期小汽车增量指标竞价公告", 
+    "date" : "2019-05-17", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20190517/1558056555507_1.html", 
+    "type" : "4", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "990af76a-a871-4189-bc47-8adf38bce6e5", 
+    "name" : "深圳市2019年第5期小汽车增量指标配置数量公告", 
+    "date" : "2019-05-08", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20190508/1557279920044_1.html", 
+    "type" : "5", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "3a70ebe1-40bc-4172-88c3-74810a948c1f", 
+    "name" : "深圳市2019年第4期普通小汽车增量指标摇号结果公告", 
+    "date" : "2019-04-30", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20190426/1556262551392_1.html", 
+    "type" : "1", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "20cdc015-0834-4d23-b1fb-528b4ba4fe44", 
+    "name" : "深圳市2019年第4期小汽车增量指标竞价情况", 
+    "date" : "2019-04-25", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20190425/1556180921858_1.html", 
+    "type" : "2", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "14f8a218-a9e6-4248-9b2c-2c1ddb4bcda0", 
+    "name" : "深圳市2019年第4期普通小汽车摇号公告", 
+    "date" : "2019-04-22", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20190422/1555903553402_1.html", 
+    "type" : "3", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "f3fb4a1f-319f-48a9-8dba-ae53e50b508f", 
+    "name" : "深圳市2019年第4期小汽车增量指标竞价公告", 
+    "date" : "2019-04-15", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20190415/1555290466464_1.html", 
+    "type" : "4", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "1b8e4fc8-ad3d-414d-9c31-5359801e5f70", 
+    "name" : "深圳市2019年第4期小汽车增量指标配置数量公告", 
+    "date" : "2019-04-08", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20190408/1554704201495_1.html", 
+    "type" : "5", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "48402cbd-1ec9-4014-8e35-5cf87b7fff6e", 
+    "name" : "深圳市2019年第3期普通小汽车增量指标摇号结果公告", 
+    "date" : "2019-03-26", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20190326/1553570376378_1.html", 
+    "type" : "1", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "80d37694-97ad-44a8-88b2-f1c322529a8a", 
+    "name" : "深圳市2019年第3期小汽车增量指标竞价情况", 
+    "date" : "2019-03-25", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20190325/1553502353439_1.html", 
+    "type" : "2", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "f15383c6-d709-485e-bb84-8be093f9e16b", 
+    "name" : "深圳市2019年第3期普通小汽车摇号公告", 
+    "date" : "2019-03-22", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20190322/1553235094246_1.html", 
+    "type" : "3", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "ce62e743-85b0-4286-b04d-5bb948897da7", 
+    "name" : "深圳市2019年第3期小汽车增量指标竞价公告", 
+    "date" : "2019-03-15", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20190315/1552614261364_1.html", 
+    "type" : "4", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "0545c390-e343-4439-b2c6-3dbf4039434b", 
+    "name" : "深圳市2019年第3期小汽车增量指标配置数量公告", 
+    "date" : "2019-03-08", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20190307/1551944076462_1.html", 
+    "type" : "5", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "c471e3f8-48e9-49fe-b50d-35a5a98a7577", 
+    "name" : "深圳市2019年第2期普通小汽车增量指标摇号结果公告", 
+    "date" : "2019-02-26", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20190226/1551145194278_1.html", 
+    "type" : "1", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "e1ad85ee-1579-468d-b469-1508842b145c", 
+    "name" : "深圳市2019年第2期小汽车增量指标竞价情况", 
+    "date" : "2019-02-25", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20190225/1551082305449_1.html", 
+    "type" : "2", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "65bc73f9-025d-4c0f-ba28-6c2973e3e0e4", 
+    "name" : "深圳市2019年第2期普通小汽车摇号公告", 
+    "date" : "2019-02-23", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20190223/1550885583589_1.html", 
+    "type" : "3", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "501a4d0f-f2a5-4e11-a3bd-5009560e4005", 
+    "name" : "深圳市2019年第2期小汽车增量指标竞价公告", 
+    "date" : "2019-02-15", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20190214/1550108948951_1.html", 
+    "type" : "4", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "7e93104e-caf2-44a9-be34-3294c6290d19", 
+    "name" : "深圳市2019年第2期小汽车增量指标配置数量公告", 
+    "date" : "2019-02-11", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20190202/1549099483263_1.html", 
+    "type" : "5", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "d7525c97-2d47-4c94-9304-e1cd4a143719", 
+    "name" : "深圳市2019年第1期普通小汽车增量指标摇号结果公告", 
+    "date" : "2019-01-28", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20190128/1548638559877_1.html", 
+    "type" : "1", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "5c89c58b-4b2a-489c-a05f-d062c477d9d5", 
+    "name" : "深圳市2019年第1期小汽车增量指标竞价情况", 
+    "date" : "2019-01-25", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20190125/1548405531698_1.html", 
+    "type" : "2", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "9935a5b7-a2c4-45b2-b66a-c2f8c86d0198", 
+    "name" : "深圳市2019年第1期普通小汽车摇号公告", 
+    "date" : "2019-01-22", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20190122/1548125139986_1.html", 
+    "type" : "3", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "3cc37081-d5e3-43ce-947e-0ae1b5f74154", 
+    "name" : "深圳市2019年第1期小汽车增量指标竞价公告", 
+    "date" : "2019-01-15", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20190115/1547516988765_1.html", 
+    "type" : "4", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "a185974e-b009-458b-bcf5-a38d18c8a8f6", 
+    "name" : "深圳市人民政府关于印发小汽车增量调控管理暂行规定的通知", 
+    "date" : "2019-01-11", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20190111/1547182542442_1.html", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "4c30ed12-cd13-4dd7-afaf-4668cc607e00", 
+    "name" : "深圳市交通运输委员会 深圳市发展和改革委员会等部门关于联合发布《深圳市小汽车增量调控管理实施细则》的通知", 
+    "date" : "2019-01-11", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20190111/1547180811440_1.html", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "73368e07-a3cd-45da-b8a5-8d56375b6e6c", 
+    "name" : "网站维护公告", 
+    "date" : "2019-01-10", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20190110/1547117453399_1.html", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "080a0b62-14cc-4b6c-8ba3-da75ba23f991", 
+    "name" : "深圳市2019年第1期小汽车增量指标配置数量公告", 
+    "date" : "2019-01-08", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20190108/1546910436936_1.html", 
+    "type" : "5", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "2fa374da-4e92-4a61-bf7e-1d9bee028e54", 
+    "name" : "深圳市2018年第12期普通小汽车增量指标摇号结果公告", 
+    "date" : "2018-12-26", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20181226/1545796239265_1.html", 
+    "type" : "1", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "346e8c6b-7dc7-4d04-903e-8e5158ccae2f", 
+    "name" : "深圳市2018年第12期小汽车增量指标竞价情况", 
+    "date" : "2018-12-25", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20181225/1545726421471_1.html", 
+    "type" : "2", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "6aba225f-533f-44e0-9f10-ac534a2f840a", 
+    "name" : "深圳市2018年第12期普通小汽车摇号公告", 
+    "date" : "2018-12-22", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20181222/1545445076277_1.html", 
+    "type" : "3", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "3e791ad2-a1f9-4d34-ab5b-87c9bbf0a1e7", 
+    "name" : "深圳市2018年第12期小汽车增量指标竞价公告", 
+    "date" : "2018-12-17", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20181217/1545011021169_1.html", 
+    "type" : "4", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "3ed8633c-7aba-4f4d-b564-142b377dda09", 
+    "name" : "深圳市2018年第12期小汽车增量指标配置数量公告", 
+    "date" : "2018-12-07", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20181207/1544145524124_1.html", 
+    "type" : "5", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "d9ac7927-97f0-4a6a-90d8-9fde19b39481", 
+    "name" : "网站维护公告", 
+    "date" : "2018-11-30", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20181130/1543571182186_1.html", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "33388619-db43-4ee2-b5ad-91961ecb979f", 
+    "name" : "深圳市2018年第11期小汽车增量指标竞价情况", 
+    "date" : "2018-11-26", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20181126/1543221433933_1.html", 
+    "type" : "2", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "934a6fcc-e4b0-4ab7-818c-8b447e3771af", 
+    "name" : "深圳市2018年第11期普通小汽车增量指标摇号结果公告", 
+    "date" : "2018-11-26", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20181126/1543204266893_1.html", 
+    "type" : "1", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "4a42c12f-add7-4347-8d8f-87609aaf07fd", 
+    "name" : "深圳市2018年第11期普通小汽车摇号公告", 
+    "date" : "2018-11-23", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20181123/1542939778701_1.html", 
+    "type" : "3", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "cc2ce446-9e7f-4bdd-a8bb-37e9f79017e9", 
+    "name" : "深圳市2018年第11期小汽车增量指标竞价公告", 
+    "date" : "2018-11-16", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20181113/1542074281723_1.html", 
+    "type" : "4", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "d03f4d7a-c52d-4292-89ca-cad4c8065a61", 
+    "name" : "深圳市2018年第11期小汽车增量指标配置数量公告", 
+    "date" : "2018-11-08", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20181108/1541639078366_1.html", 
+    "type" : "5", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "130d6edf-a44e-4936-aac0-76b60419c1ec", 
+    "name" : "深圳市2018年第10期普通小汽车增量指标摇号结果公告", 
+    "date" : "2018-10-26", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20181026/1540536022330_1.html", 
+    "type" : "1", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "6413836e-ed85-44e8-84c8-dc41b7b6d331", 
+    "name" : "深圳市2018年第10期小汽车增量指标竞价情况", 
+    "date" : "2018-10-25", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20181025/1540456587918_1.html", 
+    "type" : "2", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "5385f50b-5bd7-49f6-b7e3-9029648848fc", 
+    "name" : "深圳市2018年第10期普通小汽车摇号公告", 
+    "date" : "2018-10-23", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20181022/1540172216349_1.html", 
+    "type" : "3", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "f742b3c4-aebb-4c39-8a59-3135e48f451c", 
+    "name" : "深圳市2018年第10期小汽车增量指标竞价公告", 
+    "date" : "2018-10-15", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20181015/1539566716214_1.html", 
+    "type" : "4", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "7957b280-4960-402e-ad91-cf1423fa8ec4", 
+    "name" : "深圳市2018年第10期小汽车增量指标配置数量公告", 
+    "date" : "2018-10-08", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20181008/1538984931667_1.html", 
+    "type" : "5", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "894d05f5-e737-4537-8c38-9d7acf2768b5", 
+    "name" : "公告", 
+    "date" : "2018-09-28", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20180928/1538124129375_1.html", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "bc09b427-d874-433a-a99c-dc296d841e85", 
+    "name" : "深圳市2018年第9期普通小汽车增量指标摇号结果公告", 
+    "date" : "2018-09-26", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20180926/1537944743011_1.html", 
+    "type" : "1", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "b8e62c59-7da5-4f9c-a6bd-c18bb15600c2", 
+    "name" : "深圳市2018年第9期小汽车增量指标竞价情况", 
+    "date" : "2018-09-25", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20180925/1537863561181_1.html", 
+    "type" : "2", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "33a0d51b-9ca9-4229-bd61-38755b40c500", 
+    "name" : "深圳市2018年第9期普通小汽车摇号公告", 
+    "date" : "2018-09-22", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20180921/1537501927521_1.html", 
+    "type" : "3", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "1c9859cb-3d8f-4150-a60f-670b6a71630b", 
+    "name" : "深圳市2018年第9期小汽车增量指标竞价公告", 
+    "date" : "2018-09-14", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20180912/1536739039633_1.html", 
+    "type" : "4", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "8a6fe6a6-8f05-4c26-a5da-76ad5094236b", 
+    "name" : "深圳市2018年第9期小汽车增量指标配置数量公告", 
+    "date" : "2018-09-07", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20180907/1536288339748_1.html", 
+    "type" : "5", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "88095242-c01f-4ae6-a8fc-38126278088a", 
+    "name" : "深圳市2018年第8期小汽车增量指标竞价情况", 
+    "date" : "2018-08-27", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20180827/1535358548188_1.html", 
+    "type" : "2", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "f9955aba-7ba2-4e06-aba4-0c7e48ddd13f", 
+    "name" : "深圳市2018年第8期普通小汽车增量指标摇号结果公告", 
+    "date" : "2018-08-27", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20180827/1535334700866_1.html", 
+    "type" : "1", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "e2116d54-8a56-41eb-bc00-0a38436be7bc", 
+    "name" : "深圳市2018年第8期普通小汽车摇号公告", 
+    "date" : "2018-08-22", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20180821/1534841178571_1.html", 
+    "type" : "3", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "5db8398a-9da7-4207-8cdb-8c090ce457b0", 
+    "name" : "深圳市2018年第8期小汽车增量指标竞价公告", 
+    "date" : "2018-08-17", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20180817/1534468687979_1.html", 
+    "type" : "4", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "d063f633-375c-48be-8884-ae294d0fc6d4", 
+    "name" : "深圳市2018年第8期小汽车增量指标配置数量公告", 
+    "date" : "2018-08-07", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20180806/1533547210445_1.html", 
+    "type" : "5", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "7e06a3ce-3d7b-44e2-832a-98196a9d09cd", 
+    "name" : "深圳市2018年第7期普通小汽车增量指标摇号结果公告", 
+    "date" : "2018-07-26", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20180726/1532590123490_1.html", 
+    "type" : "1", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "bb1645b2-016a-453d-afc4-2e33b2037a8a", 
+    "name" : "深圳市2018年第7期小汽车增量指标竞价情况", 
+    "date" : "2018-07-25", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20180725/1532506636656_1.html", 
+    "type" : "2", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "3a82eab6-f2d6-498b-b5e0-516e569e6043", 
+    "name" : "深圳市2018年第7期普通小汽车摇号公告", 
+    "date" : "2018-07-22", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20180719/1531970613900_1.html", 
+    "type" : "3", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "0ded436c-d302-49a4-a743-091ca0022d4c", 
+    "name" : "深圳市2018年第7期小汽车增量指标竞价公告", 
+    "date" : "2018-07-16", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20180712/1531358730602_1.html", 
+    "type" : "4", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "54fe6bab-0350-4cfc-8baa-f61778788748", 
+    "name" : "深圳市2018年第7期小汽车增量指标配置数量公告", 
+    "date" : "2018-07-09", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20180709/1531098603565_1.html", 
+    "type" : "5", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "6aa03f1a-87bd-4006-8208-de68a3753cb0", 
+    "name" : "深圳市2018年第6期普通小汽车增量指标摇号结果公告", 
+    "date" : "2018-06-26", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20180626/1529993895089_1.html", 
+    "type" : "1", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "94707e86-a9ac-4a7f-b50a-366d6ffc4b7e", 
+    "name" : "深圳市2018年第6期小汽车增量指标竞价情况", 
+    "date" : "2018-06-25", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20180625/1529913677298_1.html", 
+    "type" : "2", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "5ae515b2-6da7-4b6f-9003-f282889fdf5d", 
+    "name" : "深圳市2018年第6期普通小汽车摇号公告", 
+    "date" : "2018-06-22", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20180622/1529632778918_1.html", 
+    "type" : "3", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "b2d2f798-0085-49d4-aa4c-6f1e1b8cb891", 
+    "name" : "深圳市2018年第6期小汽车增量指标竞价公告", 
+    "date" : "2018-06-14", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20180613/1528853438597_1.html", 
+    "type" : "4", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "83844c60-35cb-4bd7-8cc4-da8d1b4a815a", 
+    "name" : "深圳市2018年第6期小汽车增量指标配置数量公告", 
+    "date" : "2018-06-08", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20180608/1528423156532_1.html", 
+    "type" : "5", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "c14846bb-ef21-4005-8cf7-7ae8c4d54d8d", 
+    "name" : "深圳市2018年第5期普通小汽车增量指标摇号结果公告", 
+    "date" : "2018-05-28", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20180528/1527474484688_1.html", 
+    "type" : "1", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "7a3ba675-af13-4bcf-9ae4-fa8a67c063fa", 
+    "name" : "深圳市2018年第5期小汽车增量指标竞价情况", 
+    "date" : "2018-05-25", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20180525/1527235239915_1.html", 
+    "type" : "2", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "90bd524d-9149-424c-8df2-24d164554d0d", 
+    "name" : "深圳市2018年第5期普通小汽车摇号公告", 
+    "date" : "2018-05-22", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20180522/1526960497163_1.html", 
+    "type" : "3", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "ccd090eb-851b-408b-b2b7-c987ca9f8f13", 
+    "name" : "深圳市2018年第5期小汽车增量指标竞价公告", 
+    "date" : "2018-05-15", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20180515/1526347366070_1.html", 
+    "type" : "4", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "45b861b8-840b-42f4-9145-76d86059f3f3", 
+    "name" : "深圳市2018年第5期小汽车增量指标配置数量公告", 
+    "date" : "2018-05-08", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20180508/1525742645516_1.html", 
+    "type" : "5", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "d6fea00c-30b1-42f0-89ed-2670a625898c", 
+    "name" : "小汽车增量指标竞价系统暂停使用公告", 
+    "date" : "2018-04-28", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20180428/1524910776994_1.html", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "24df3b0c-ef19-4893-b741-875b73243c4c", 
+    "name" : "深圳市2018年第4期普通小汽车增量指标摇号结果公告", 
+    "date" : "2018-04-26", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20180426/1524710126168_1.html", 
+    "type" : "1", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "47582cc9-6e38-4424-bd6b-11577a00c9b8", 
+    "name" : "深圳市2018年第4期小汽车增量指标竞价情况", 
+    "date" : "2018-04-25", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20180425/1524644557471_1.html", 
+    "type" : "2", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "a4013e2b-d9e4-4d61-993f-a4e8e714ef87", 
+    "name" : "深圳市2018年第4期普通小汽车摇号公告", 
+    "date" : "2018-04-22", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20180422/1524361158539_1.html", 
+    "type" : "3", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "eaedea57-3bcd-4a69-bf19-264c70be9c94", 
+    "name" : "深圳市2018年第4期小汽车增量指标竞价公告", 
+    "date" : "2018-04-16", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20180416/1523842644064_1.html", 
+    "type" : "4", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "d3d63892-09f3-463a-9e1e-1ce8ea77c660", 
+    "name" : "深圳市2018年第4期小汽车增量指标配置数量公告", 
+    "date" : "2018-04-08", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20180408/1523160103855_1.html", 
+    "type" : "5", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "fc251833-646b-419c-bc79-0ae4d515f0c5", 
+    "name" : "网站维护公告", 
+    "date" : "2018-03-28", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20180328/1522203670719_1.html", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "f1b14e12-15d2-4df0-bf5b-a03185b59189", 
+    "name" : "深圳市2018年第3期小汽车增量指标竞价情况", 
+    "date" : "2018-03-26", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20180326/1522053074166_1.html", 
+    "type" : "2", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "afe8dbd2-4292-4756-9c74-71bd5b966f30", 
+    "name" : "深圳市2018年第3期普通小汽车增量指标摇号结果公告", 
+    "date" : "2018-03-26", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20180326/1522035089403_1.html", 
+    "type" : "1", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "1f63ffdf-a344-46b3-85f5-5ad038f6fc10", 
+    "name" : "深圳市2018年第3期普通小汽车摇号公告", 
+    "date" : "2018-03-22", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20180322/1521682541765_1.html", 
+    "type" : "3", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "20c384a9-44cd-40a1-a723-72b476f38dd8", 
+    "name" : "深圳市2018年第3期小汽车增量指标竞价公告", 
+    "date" : "2018-03-16", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20180315/1521102413059_1.html", 
+    "type" : "4", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "27ad45b5-45cb-4597-a413-4c8e01411d47", 
+    "name" : "深圳市2018年第3期小汽车增量指标配置数量公告", 
+    "date" : "2018-03-08", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20180308/1520474266509_1.html", 
+    "type" : "5", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "44d29e8d-6761-42a0-8403-1b2798c58f01", 
+    "name" : "通告", 
+    "date" : "2018-03-06", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20180305/1520217841672_1.html", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "adf824ea-be3b-4584-93b9-ef78cdeed857", 
+    "name" : "深圳市2018年第2期小汽车增量指标竞价情况", 
+    "date" : "2018-02-26", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20180226/1519634039024_1.html", 
+    "type" : "2", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "bb3af92c-9045-4a0c-ae09-3b66deccbc6c", 
+    "name" : "深圳市2018年第2期普通小汽车增量指标摇号结果公告", 
+    "date" : "2018-02-26", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20180223/1519353058045_1.html", 
+    "type" : "1", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "78855463-af7a-4fa0-9980-e7a24c795f41", 
+    "name" : "深圳市2018年第2期普通小汽车摇号公告", 
+    "date" : "2018-02-23", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20180223/1519352033850_1.html", 
+    "type" : "3", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "0fa1b16f-a7c5-49b5-b592-7fefd11e5214", 
+    "name" : "深圳市2018年第2期小汽车增量指标竞价公告", 
+    "date" : "2018-02-11", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20180211/1518313751985_1.html", 
+    "type" : "4", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "d5d3f281-41f2-4df8-8a62-b615d895501d", 
+    "name" : "网站维护公告", 
+    "date" : "2018-02-08", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20180208/1518083151575_1.html", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "38bc3a14-81d5-42d8-a858-554e557aacfa", 
+    "name" : "深圳市2018年第2期小汽车增量指标配置数量公告", 
+    "date" : "2018-02-08", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20180208/1518052712479_1.html", 
+    "type" : "5", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "1091111f-d05a-4b55-a622-53ae262c808f", 
+    "name" : "深圳市2018年第1期普通小汽车增量指标摇号结果公告", 
+    "date" : "2018-01-26", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20180126/1516947602817_1.html", 
+    "type" : "1", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "f2497a32-c6b8-4b21-9c3b-ca833213907d", 
+    "name" : "深圳市2018年第1期小汽车增量指标竞价情况", 
+    "date" : "2018-01-25", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20180125/1516871152927_1.html", 
+    "type" : "2", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "da6f5f80-5019-46da-9f27-8f0007f0c0ed", 
+    "name" : "深圳市2018年第1期普通小汽车摇号公告", 
+    "date" : "2018-01-22", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20180122/1516593386994_1.html", 
+    "type" : "3", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "4d27c051-1ae4-45b7-b032-bb0b311dda42", 
+    "name" : "深圳市交通运输委员会深圳市发展和改革委员会等部门关于重新发布《深圳市小汽车增量调控管理实施细则》的通知", 
+    "date" : "2018-01-19", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20180119/1516362764295_1.html", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "c8265290-341f-42a9-b92d-3d7c9e76b74b", 
+    "name" : "《深圳市小汽车增量调控管理实施细则》政策解读", 
+    "date" : "2018-01-19", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20180119/1516361384614_1.html", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "d74b2c52-d373-478b-8528-6bbbc563deb9", 
+    "name" : "深圳市2018年第1期小汽车增量指标竞价公告", 
+    "date" : "2018-01-15", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20180115/1515979191827_1.html", 
+    "type" : "4", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "2b896e8a-ea4f-4d96-89f8-2210730fd2ad", 
+    "name" : "深圳市2018年第1期小汽车增量指标配置数量公告", 
+    "date" : "2018-01-08", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20180108/1515391960170_1.html", 
+    "type" : "5", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "f1053433-f9f8-4412-8e06-07134249d445", 
+    "name" : "深圳市2017年第12期普通小汽车增量指标摇号结果公告", 
+    "date" : "2017-12-26", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20171226/1514270249960_1.html", 
+    "type" : "1", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "0aa37e24-873f-44f0-9cfd-e2b2f9f1ad66", 
+    "name" : "深圳市2017年第12期普通小汽车摇号公告", 
+    "date" : "2017-12-22", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20171222/1513929439321_1.html", 
+    "type" : "3", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "4f136b34-bba0-4045-b429-7847e9d65e2a", 
+    "name" : "深圳市2017年第12期小汽车增量指标竞价公告", 
+    "date" : "2017-12-15", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20171215/1513304703932_1.html", 
+    "type" : "4", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "7bc910dc-c8d7-458d-bcd4-76d7fe7acf00", 
+    "name" : "深圳市2017年第12期小汽车增量指标配置数量公告", 
+    "date" : "2017-12-08", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20171208/1512714613502_1.html", 
+    "type" : "5", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "c4f406c6-fa4c-46a4-8ecb-366ac2cbe3c8", 
+    "name" : "深圳市2017年第11期小汽车增量指标竞价情况", 
+    "date" : "2017-11-27", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20171127/1511773364226_1.html", 
+    "type" : "2", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "55c1c379-e233-49ba-bd47-c559d09c0c98", 
+    "name" : "深圳市2017年第11期普通小汽车增量指标摇号结果公告", 
+    "date" : "2017-11-27", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20171127/1511756408294_1.html", 
+    "type" : "1", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "f0b49f57-1c7d-414e-9b1a-f7a5f327b7f8", 
+    "name" : "深圳市2017年第11期普通小汽车摇号公告", 
+    "date" : "2017-11-22", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20171122/1511337165247_1.html", 
+    "type" : "3", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "d0553983-bd89-405a-a195-62ea7be99139", 
+    "name" : "深圳市2017年第11期小汽车增量指标竞价公告", 
+    "date" : "2017-11-17", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20171117/1510881463116_1.html", 
+    "type" : "4", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "a0305bc2-9de0-405f-9d3c-79d1b5015daf", 
+    "name" : "深圳市2017年第11期小汽车增量指标配置数量公告", 
+    "date" : "2017-11-09", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20171109/1510210369035_1.html", 
+    "type" : "5", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "af68b65a-3f75-4b55-8c37-638e5affc05c", 
+    "name" : "深圳市2017年第10期普通小汽车增量指标摇号结果公告", 
+    "date" : "2017-10-26", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20171026/1508985075019_1.html", 
+    "type" : "1", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "6a04fa33-193e-4893-a83f-3b893adb5066", 
+    "name" : "深圳市2017年第10期小汽车增量指标竞价情况", 
+    "date" : "2017-10-25", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20171025/1508923977966_1.html", 
+    "type" : "2", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "07d38b0e-f065-44b1-ba20-e0efed521962", 
+    "name" : "深圳市2017年第10期普通小汽车摇号公告", 
+    "date" : "2017-10-22", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20171022/1508639666818_1.html", 
+    "type" : "3", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "d482f041-d179-4eaf-95a8-cf6ce665a565", 
+    "name" : "深圳市2017年第10期小汽车增量指标竞价公告", 
+    "date" : "2017-10-17", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20171016/1508122258627_1.html", 
+    "type" : "4", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "d6494af3-d78a-49af-a8a9-52b41806bb85", 
+    "name" : "深圳市2017年第10期小汽车增量指标配置数量公告", 
+    "date" : "2017-10-09", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20171009/1507540930285_1.html", 
+    "type" : "5", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "2a04c919-7b78-416f-8e93-edc1f12379ce", 
+    "name" : "深圳市2017年第9期普通小汽车增量指标摇号结果公告", 
+    "date" : "2017-09-26", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20170926/1506397408454_1.html", 
+    "type" : "1", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "53734d90-6a53-4f6e-83dd-cea70e031878", 
+    "name" : "深圳市2017年第9期小汽车增量指标竞价情况", 
+    "date" : "2017-09-25", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20170925/1506328973498_1.html", 
+    "type" : "2", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "495734cb-f78e-463f-9823-ef4a5d858731", 
+    "name" : "深圳市2017年第9期普通小汽车摇号公告", 
+    "date" : "2017-09-22", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20170922/1506070106141_1.html", 
+    "type" : "3", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "eb7a83a9-9805-4b4b-9388-1d253a1e5df7", 
+    "name" : "深圳市2017年第9期小汽车增量指标竞价公告", 
+    "date" : "2017-09-15", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20170915/1505437881227_1.html", 
+    "type" : "4", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "90b9231c-8c09-4164-9859-01d0f8ccdec1", 
+    "name" : "深圳市2017年第9期小汽车增量指标配置数量公告", 
+    "date" : "2017-09-08", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20170908/1504850828892_1.html", 
+    "type" : "5", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "b5731549-eb43-44c8-9f0c-cfbf670b3e98", 
+    "name" : "深圳市交通运输委员会关于国Ⅰ排放标准汽油小汽车更新指标管理有关事项的通告", 
+    "date" : "2017-08-30", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20170830/1504079540020_1.html", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "6d7045c9-3f88-4eac-9a20-30894cd71d95", 
+    "name" : "深圳市2017年第8期普通小汽车增量指标摇号结果公告", 
+    "date" : "2017-08-28", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20170828/1503900206712_1.html", 
+    "type" : "1", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "b158745c-0d6a-44d4-baa8-11b503ebd182", 
+    "name" : "深圳市2017年第8期小汽车增量指标竞价情况", 
+    "date" : "2017-08-25", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20170825/1503648410340_1.html", 
+    "type" : "2", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "6ed140bf-d5c7-41a5-b377-da312bcf274b", 
+    "name" : "深圳市2017年第8期普通小汽车摇号公告", 
+    "date" : "2017-08-22", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20170822/1503396518542_1.html", 
+    "type" : "3", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "3cbc3a62-0245-40e8-b00e-888b2f234c9e", 
+    "name" : "关于优化申请小汽车更新指标办理条件的通知", 
+    "date" : "2017-08-18", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20170818/1503048715921_1.html", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "bf275585-16f7-4317-b88c-863dbce4c213", 
+    "name" : "深圳市2017年第8期小汽车增量指标竞价公告", 
+    "date" : "2017-08-15", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20170814/1502699902468_1.html", 
+    "type" : "4", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "2059dc4b-f18f-4a08-af60-31a4bec70177", 
+    "name" : "深圳市2017年第8期小汽车增量指标配置数量公告", 
+    "date" : "2017-08-08", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20170808/1502156088960_1.html", 
+    "type" : "5", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "5cb6cd9b-e0fb-4202-a6fb-73cbc2e01f52", 
+    "name" : "深圳市2017年第7期普通小汽车增量指标摇号结果公告", 
+    "date" : "2017-07-26", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20170726/1501057170362_1.html", 
+    "type" : "1", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "0eaf70f1-6383-493d-86e8-2e298f24d272", 
+    "name" : "深圳市2017年第7期小汽车增量指标竞价情况", 
+    "date" : "2017-07-25", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20170725/1500973966974_1.html", 
+    "type" : "2", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "96567342-8d20-48a1-a93e-e3caee137370", 
+    "name" : "深圳市2017年第7期普通小汽车摇号公告", 
+    "date" : "2017-07-22", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20170722/1500688975656_1.html", 
+    "type" : "3", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "49181cd6-e677-48fa-bb1a-e0ce17772c7b", 
+    "name" : "深圳市2017年第7期小汽车增量指标竞价公告", 
+    "date" : "2017-07-14", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20170714/1499995231544_1.html", 
+    "type" : "4", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "f6e70abc-9bfc-4b2d-8ba6-6d32473a27a2", 
+    "name" : "深圳市2017年第7期小汽车增量指标配置数量公告", 
+    "date" : "2017-07-07", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20170707/1499391656384_1.html", 
+    "type" : "5", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "d89fe27e-b428-41f4-a212-ad144df9f4ca", 
+    "name" : "深圳市2017年第6期小汽车增量指标竞价情况", 
+    "date" : "2017-06-26", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20170626/1498468595448_1.html", 
+    "type" : "2", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "0bcb1656-26ba-40c3-a886-c26cc60d8eee", 
+    "name" : "深圳市2017年第6期普通小汽车增量指标摇号结果公告", 
+    "date" : "2017-06-26", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20170626/1498466182345_1.html", 
+    "type" : "1", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "03938da0-2072-4bfa-8539-60197e60975a", 
+    "name" : "深圳市2017年第6期普通小汽车摇号公告", 
+    "date" : "2017-06-22", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20170622/1498127341204_1.html", 
+    "type" : "3", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "2792a867-962d-4786-9178-92a8a4f5ee8f", 
+    "name" : "深圳市2017年第6期小汽车增量指标竞价公告", 
+    "date" : "2017-06-16", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20170616/1497575868901_1.html", 
+    "type" : "4", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "11693fef-cd9d-414d-9e1d-258bacbca840", 
+    "name" : "深圳市2017年第6期小汽车增量指标配置数量公告", 
+    "date" : "2017-06-08", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20170608/1496885763300_1.html", 
+    "type" : "5", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "dec80053-39a1-4bb5-a02f-14ddce2c911f", 
+    "name" : "深圳市2017年第5期普通小汽车增量指标摇号结果公告", 
+    "date" : "2017-05-26", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20170525/1495706055881_1.html", 
+    "type" : "1", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "61388ba0-e6b5-4967-80a0-65b877d95745", 
+    "name" : "深圳市2017年第5期小汽车增量指标竞价情况", 
+    "date" : "2017-05-25", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20170525/1495703993733_1.html", 
+    "type" : "2", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "19c97e91-b9b9-43cf-85c0-824f15d4dcdc", 
+    "name" : "深圳市2017年第5期普通小汽车摇号公告", 
+    "date" : "2017-05-22", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20170522/1495424591809_1.html", 
+    "type" : "3", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "908d5121-f274-49a3-951f-a0de94e3e3e8", 
+    "name" : "深圳市2017年第5期小汽车增量指标竞价公告", 
+    "date" : "2017-05-15", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20170515/1494819429609_1.html", 
+    "type" : "4", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "f52ac852-0993-4f4e-afe7-c4e830242350", 
+    "name" : "深圳市2017年第5期小汽车增量指标配置数量公告", 
+    "date" : "2017-05-08", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20170508/1494207693958_1.html", 
+    "type" : "5", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "d2370789-e17b-4261-9ceb-62e395ea21b5", 
+    "name" : "深圳市2017年第4期普通小汽车增量指标摇号结果公告", 
+    "date" : "2017-04-26", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20170426/1493171671261_1.html", 
+    "type" : "1", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "46c1a0b7-7d93-4d7d-86c3-ed1660bd3fdd", 
+    "name" : "深圳市2017年第4期小汽车增量指标竞价情况", 
+    "date" : "2017-04-25", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20170425/1493111899447_1.html", 
+    "type" : "2", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "c98d08e8-3418-48ed-8649-184208283bad", 
+    "name" : "深圳市2017年第4期普通小汽车摇号公告", 
+    "date" : "2017-04-22", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20170422/1492829175313_1.html", 
+    "type" : "3", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "252a1f24-6568-46f4-bdf2-64c378185d88", 
+    "name" : "深圳市2017年第4期小汽车增量指标竞价公告", 
+    "date" : "2017-04-14", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20170414/1492138955546_1.html", 
+    "type" : "4", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "c1285d8c-703f-4092-899d-a7d6f6926788", 
+    "name" : "深圳市2017年第4期小汽车增量指标配置数量公告", 
+    "date" : "2017-04-07", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20170407/1491530738572_1.html", 
+    "type" : "5", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "9dff2bf1-ad2a-4fcd-aada-950f61745a19", 
+    "name" : "深圳市2017年第3期小汽车增量指标竞价情况", 
+    "date" : "2017-03-27", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20170327/1490603113523_1.html", 
+    "type" : "2", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "74c46560-4226-483b-b57a-ba806f8330ec", 
+    "name" : "深圳市2017年第3期普通小汽车增量指标摇号结果公告", 
+    "date" : "2017-03-27", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20170327/1490588981052_1.html", 
+    "type" : "1", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "b0d5d85f-ddee-4fdc-9b31-c5bf49b516fb", 
+    "name" : "深圳市2017年第3期普通小汽车摇号公告", 
+    "date" : "2017-03-22", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20170322/1490176561519_1.html", 
+    "type" : "3", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "9b26ba41-83fd-417f-a9f3-9a62321bec51", 
+    "name" : "深圳市2017年第3期小汽车增量指标竞价公告", 
+    "date" : "2017-03-17", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20170317/1489732711590_1.html", 
+    "type" : "4", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "a93b3f5c-1fac-4b34-90fc-8ce5a04d8bad", 
+    "name" : "深圳市2017年第3期小汽车增量指标配置数量公告", 
+    "date" : "2017-03-08", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20170308/1488940888076_1.html", 
+    "type" : "5", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "5f897a5f-6359-49df-a874-280288b59064", 
+    "name" : "深圳市2017年第2期小汽车增量指标竞价情况", 
+    "date" : "2017-02-27", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20170227/1488183822133_1.html", 
+    "type" : "2", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "39159152-55bc-40f7-b4f1-59d35997de37", 
+    "name" : "深圳市2017年第2期普通小汽车增量指标摇号结果公告", 
+    "date" : "2017-02-27", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20170227/1488182993701_1.html", 
+    "type" : "1", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "25391cd5-8fd5-4719-8fd0-0d53822f6f3b", 
+    "name" : "深圳市2017年第2期普通小汽车摇号公告", 
+    "date" : "2017-02-22", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20170222/1487758879850_1.html", 
+    "type" : "3", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "43ce30c3-73de-4b73-b638-ba74f5290ba3", 
+    "name" : "深圳市2017年第2期小汽车增量指标竞价公告", 
+    "date" : "2017-02-17", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20170217/1487294839684_1.html", 
+    "type" : "4", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "19a02797-1438-4be5-9447-34063de16945", 
+    "name" : "深圳市2017年第2期小汽车增量指标配置数量公告", 
+    "date" : "2017-02-08", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20170208/1486517769441_1.html", 
+    "type" : "5", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "ef606dea-aa7d-44e8-bf41-e3fb6b66cd33", 
+    "name" : "深圳市2017年第1期普通小汽车增量指标摇号结果公告", 
+    "date" : "2017-01-26", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20170126/1485411221983_1.html", 
+    "type" : "1", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "4f886f9b-146e-4889-b2d1-071e3921ebfb", 
+    "name" : "深圳市2017年第1期小汽车增量指标竞价情况", 
+    "date" : "2017-01-25", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20170125/1485337405683_1.html", 
+    "type" : "2", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "10db689f-eb37-46a4-b573-608bdabf6d2e", 
+    "name" : "深圳市2017年第1期普通小汽车摇号公告", 
+    "date" : "2017-01-22", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20170122/1485090056998_1.html", 
+    "type" : "3", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "3c9f8eab-888e-4053-a4fa-da39c48edc89", 
+    "name" : "深圳市2017年第1期小汽车增量指标竞价公告", 
+    "date" : "2017-01-16", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20170116/1484531551943_1.html", 
+    "type" : "4", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "3362f284-3231-4e35-9168-29d76ec7b7b7", 
+    "name" : "深圳市2017年第1期小汽车增量指标配置数量公告", 
+    "date" : "2017-01-06", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20170106/1483669941431_1.html", 
+    "type" : "5", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "fa770b29-2f2b-4338-9e50-5b259cb47855", 
+    "name" : "深圳市2016年第12期小汽车增量指标竞价情况", 
+    "date" : "2016-12-26", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20161226/1482741033285_1.html", 
+    "type" : "2", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "ac731c7a-133d-4d8b-a34e-1a72f06ea40f", 
+    "name" : "深圳市2016年第12期普通小汽车增量指标摇号结果公告", 
+    "date" : "2016-12-26", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20161226/1482717940789_1.html", 
+    "type" : "1", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "bfbebcb6-e485-4f94-9332-dae2eb2e8846", 
+    "name" : "深圳市2016年第12期普通小汽车摇号公告", 
+    "date" : "2016-12-22", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20161222/1482399076017_1.html", 
+    "type" : "3", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "e0a6183a-e409-4acf-9840-b1eb943de5c7", 
+    "name" : "深圳市2016年第12期小汽车增量指标竞价公告", 
+    "date" : "2016-12-16", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20161216/1481852538619_1.html", 
+    "type" : "4", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "52f09d6b-5da8-4a1c-833b-674769e9b5e7", 
+    "name" : "网站维护公告", 
+    "date" : "2016-12-08", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20161208/1481167378992_1.html", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "5782d45e-3d8f-4c1b-be24-8439c8d14027", 
+    "name" : "深圳市2016年第12期小汽车增量指标配置数量公告", 
+    "date" : "2016-12-08", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20161206/1480991747122_1.html", 
+    "type" : "5", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "ea7f1f33-2400-4820-aab8-f21a753b6fcd", 
+    "name" : "深圳市2016年第11期普通小汽车增量指标摇号结果公告", 
+    "date" : "2016-11-28", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20161128/1480317319594_1.html", 
+    "type" : "1", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "42528ae4-32a0-4b3f-b426-b35635d07333", 
+    "name" : "深圳市2016年第11期小汽车增量指标竞价情况", 
+    "date" : "2016-11-25", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20161125/1480065075229_1.html", 
+    "type" : "2", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "a0bd1e95-e6dd-40fc-92e8-671ef5f5708e", 
+    "name" : "深圳市2016年第11期普通小汽车摇号公告", 
+    "date" : "2016-11-22", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20161122/1479812468698_1.html", 
+    "type" : "3", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "cca5fc48-c55c-4b45-ba77-f36faa156a49", 
+    "name" : "深圳市2016年第11期小汽车增量指标竞价公告", 
+    "date" : "2016-11-15", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20161115/1479174182359_1.html", 
+    "type" : "4", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "5adfd008-11a5-4a59-abb7-c463ab4dfa0f", 
+    "name" : "深圳市2016年第11期小汽车增量指标配置数量公告", 
+    "date" : "2016-11-08", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20161108/1478588302059_1.html", 
+    "type" : "5", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "13c6c037-1522-4496-8281-836e884636c6", 
+    "name" : "深圳市2016年第10期普通小汽车增量指标摇号结果公告", 
+    "date" : "2016-10-26", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20161026/1477471332777_1.html", 
+    "type" : "1", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "a21d764a-da5d-44d3-a98b-1da3d8f48b67", 
+    "name" : "深圳市2016年第10期小汽车增量指标竞价情况", 
+    "date" : "2016-10-25", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20161025/1477387042067_1.html", 
+    "type" : "2", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "f7e51e09-7d89-404d-b369-621f40dd947b", 
+    "name" : "深圳市2016年第10期普通小汽车摇号公告", 
+    "date" : "2016-10-22", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20161022/1477129641296_1.html", 
+    "type" : "3", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "22f80cc3-f699-4849-89aa-4e546f9783e1", 
+    "name" : "深圳市2016年第10期小汽车增量指标竞价公告", 
+    "date" : "2016-10-17", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20161017/1476692588663_1.html", 
+    "type" : "4", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "9aa1e726-6982-4327-80cd-729e3d90a1fd", 
+    "name" : "深圳市2016年第10期小汽车增量指标配置数量公告", 
+    "date" : "2016-10-08", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20161008/1475911212764_1.html", 
+    "type" : "5", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "2363718a-287b-4355-be84-9e56d4f9d50e", 
+    "name" : "深圳市2016年第9期小汽车增量指标竞价情况", 
+    "date" : "2016-09-26", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20160926/1474879050842_1.html", 
+    "type" : "2", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "cf2a3616-76da-442e-94b1-acda4549751a", 
+    "name" : "深圳市2016年第9期普通小汽车增量指标摇号结果公告", 
+    "date" : "2016-09-26", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20160926/1474876936606_1.html", 
+    "type" : "1", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "0d61f745-ea9b-450e-949e-04c4403fab2e", 
+    "name" : "深圳市2016年第9期普通小汽车摇号公告", 
+    "date" : "2016-09-22", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20160922/1474535960054_1.html", 
+    "type" : "3", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "a699494d-4171-47e5-8ca1-25e5b77fd868", 
+    "name" : "深圳市2016年第9期小汽车增量指标竞价公告", 
+    "date" : "2016-09-18", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20160918/1474181480250_1.html", 
+    "type" : "4", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "c185aabc-165c-470e-8ed6-bac3b0d77031", 
+    "name" : "深圳市2016年第9期小汽车增量指标配置数量公告", 
+    "date" : "2016-09-06", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20160906/1473125591206_1.html", 
+    "type" : "5", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "02860839-7c90-41e1-9703-32c728f8fea8", 
+    "name" : "深圳市2016年第8期普通小汽车增量指标摇号结果公告", 
+    "date" : "2016-08-26", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20160826/1472199292700_1.html", 
+    "type" : "1", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "d5d96609-892b-4ff9-b904-0bc68a7bb122", 
+    "name" : "深圳市2016年第8期小汽车增量指标竞价情况", 
+    "date" : "2016-08-25", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20160825/1472114772266_1.html", 
+    "type" : "2", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "fcab5414-12fc-4938-99c7-dafe6788ba29", 
+    "name" : "深圳市2016年第8期普通小汽车摇号公告", 
+    "date" : "2016-08-22", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20160822/1471867396450_1.html", 
+    "type" : "3", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "94bcc0dd-0e24-4ff7-88ff-691d080eb9c6", 
+    "name" : "深圳市2016年第8期小汽车增量指标竞价公告", 
+    "date" : "2016-08-15", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20160815/1471226431910_1.html", 
+    "type" : "4", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "9aa3eca4-0580-4c6b-8f84-37aa60feaf50", 
+    "name" : "深圳市2016年第8期小汽车增量指标配置数量公告", 
+    "date" : "2016-08-08", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20160808/1470622687223_1.html", 
+    "type" : "5", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "95b09834-293a-4bde-8b32-1bb1a0638b60", 
+    "name" : "深圳市2016年第7期普通小汽车增量指标摇号结果公告", 
+    "date" : "2016-07-27", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20160726/1469522438032_1.html", 
+    "type" : "1", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "4b869f31-c5f6-4304-b35a-3284c6dbf677", 
+    "name" : "深圳市2016年第7期小汽车增量指标竞价情况", 
+    "date" : "2016-07-25", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20160725/1469439530738_1.html", 
+    "type" : "2", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "1f412c1a-3005-464a-91e2-6901414a29ff", 
+    "name" : "深圳市2016年第7期普通小汽车摇号公告", 
+    "date" : "2016-07-22", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20160722/1469180153869_1.html", 
+    "type" : "3", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "ab2310ba-fa8d-426a-9050-42d1e44dec1c", 
+    "name" : "深圳市2016年第7期小汽车增量指标竞价公告", 
+    "date" : "2016-07-15", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20160715/1468551184946_1.html", 
+    "type" : "4", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "dacd08ce-8669-4ab8-870c-9ae04bd3be0f", 
+    "name" : "深圳市2016年第7期小汽车增量指标配置数量公告", 
+    "date" : "2016-07-11", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20160708/1467961793907_1.html", 
+    "type" : "5", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "ba646c18-354c-4e74-8e22-cff7c261c7ea", 
+    "name" : "深圳市2016年第6期普通小汽车增量指标摇号结果公告", 
+    "date" : "2016-06-27", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20160627/1467016184051_1.html", 
+    "type" : "1", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "21d36789-6fb5-45b1-a078-cd8812a2fbd0", 
+    "name" : "深圳市2016年第6期小汽车增量指标竞价情况", 
+    "date" : "2016-06-27", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20160627/1467015742634_1.html", 
+    "type" : "2", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "dac616a5-34e8-4f9a-9fe1-d7d47fca81e5", 
+    "name" : "深圳市2016年第6期普通小汽车摇号公告", 
+    "date" : "2016-06-23", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20160623/1466652702461_1.html", 
+    "type" : "3", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "07998db5-5342-467a-b398-2221afc45dc4", 
+    "name" : "深圳市小汽车增量调控竞价平台微信版上线", 
+    "date" : "2016-06-22", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20160622/1466556695905_1.html", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "9c11007b-6605-460a-a073-ebb4b59477d3", 
+    "name" : "深圳市2016年第6期小汽车增量指标竞价公告", 
+    "date" : "2016-06-17", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20160617/1466127266857_1.html", 
+    "type" : "4", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "e37d0859-6917-42a6-840c-c423d52b4386", 
+    "name" : "深圳市2016年第6期小汽车增量指标配置数量公告", 
+    "date" : "2016-06-07", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20160607/1465262722231_1.html", 
+    "type" : "5", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "f525b3be-e0f5-4fc9-afbc-f58f94fc54cd", 
+    "name" : "关于2016年新能源小汽车增量指标配置有关事项的通知", 
+    "date" : "2016-05-31", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20160531/1464687072550_1.html", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "c57c6df3-3d54-4282-9b68-1bb3374f4368", 
+    "name" : "深圳市2016年第5期普通小汽车增量指标摇号结果公告", 
+    "date" : "2016-05-26", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20160526/1464255154698_1.html", 
+    "type" : "1", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "40b7bd4e-3eff-4b81-a69d-ef567f67ecba", 
+    "name" : "深圳市2016年第5期小汽车增量指标竞价情况", 
+    "date" : "2016-05-25", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20160525/1464166827197_1.html", 
+    "type" : "2", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "089fe5c3-a1c5-4ed7-a0bb-a1cf59f6048a", 
+    "name" : "深圳市2016年第5期普通小汽车摇号公告", 
+    "date" : "2016-05-23", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20160523/1463966449903_1.html", 
+    "type" : "3", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "1938ace5-41e8-435e-a7ea-27d8d50b3473", 
+    "name" : "深圳市2016年第5期小汽车增量指标竞价公告", 
+    "date" : "2016-05-16", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20160516/1463361795622_1.html", 
+    "type" : "4", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "26161c7f-6979-4c0c-a027-c1b3e569fa78", 
+    "name" : "深圳市2016年第5期小汽车增量指标配置数量公告", 
+    "date" : "2016-05-06", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20160506/1462498350609_1.html", 
+    "type" : "5", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "21757bbb-febc-4052-9489-babea82afe09", 
+    "name" : "深圳市2016年第4期普通小汽车增量指标摇号结果公告", 
+    "date" : "2016-04-26", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20160426/1461659523411_1.html", 
+    "type" : "1", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "9aa00f27-9a4c-40b8-97c9-d47603c97d71", 
+    "name" : "深圳市2016年第4期小汽车增量指标竞价情况", 
+    "date" : "2016-04-25", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20160425/1461573556060_1.html", 
+    "type" : "2", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "9abfb104-a33e-4d8c-badb-f2c22801eb7c", 
+    "name" : "深圳市2016年第4期普通小汽车摇号公告", 
+    "date" : "2016-04-22", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20160422/1461316924131_1.html", 
+    "type" : "3", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "e3e28156-2a22-4b94-84e0-7bfc8e4091ed", 
+    "name" : "深圳市2016年第4期小汽车增量指标竞价公告", 
+    "date" : "2016-04-18", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20160418/1460945081160_1.html", 
+    "type" : "4", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "6b60b5be-0a21-4772-b1ad-34241efde3e7", 
+    "name" : "深圳市2016年第4期小汽车增量指标配置数量公告", 
+    "date" : "2016-04-07", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20160407/1459999491728_1.html", 
+    "type" : "5", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "93dcce7a-e006-4457-9ec9-13804d0f6085", 
+    "name" : "深圳市2016年第3期普通小汽车增量指标摇号结果公告", 
+    "date" : "2016-03-28", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20160328/1459152795382_1.html", 
+    "type" : "1", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "f36a0b0c-e005-464b-9bf8-d5d480794402", 
+    "name" : "深圳市2016年第3期小汽车增量指标竞价情况", 
+    "date" : "2016-03-25", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20160325/1458895069912_1.html", 
+    "type" : "2", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "64a05f0f-2675-4962-a21f-17ba057e4f3a", 
+    "name" : "深圳市2016年第3期普通小汽车摇号公告", 
+    "date" : "2016-03-22", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20160322/1458636271386_1.html", 
+    "type" : "3", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "bd0426ff-8790-4019-b513-45ca2cf24d1f", 
+    "name" : "深圳市2016年第3期小汽车增量指标竞价公告", 
+    "date" : "2016-03-15", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20160315/1458004877069_1.html", 
+    "type" : "4", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "52937f69-046c-495d-81be-2ad484510a9f", 
+    "name" : "深圳市2016年第3期小汽车增量指标配置数量公告", 
+    "date" : "2016-03-07", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20160307/1457319264439_1.html", 
+    "type" : "5", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "6d781fd3-861a-4c09-9839-6788371f569b", 
+    "name" : "深圳市2016年第2期普通小汽车增量指标摇号结果公告", 
+    "date" : "2016-02-26", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20160226/1456475420045_1.html", 
+    "type" : "1", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "a95ad3c8-2aab-4b87-bee6-0f888c3057d2", 
+    "name" : "深圳市2016年第2期小汽车增量指标竞价情况", 
+    "date" : "2016-02-25", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20160225/1456390495500_1.html", 
+    "type" : "2", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "7c688399-8c27-4824-baf4-2b0b9c7ff6c7", 
+    "name" : "深圳市2016年第2期普通小汽车摇号公告", 
+    "date" : "2016-02-23", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20160223/1456190061058_1.html", 
+    "type" : "3", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "5445a96b-d101-4297-a979-f782c8883188", 
+    "name" : "深圳市2016年第2期小汽车增量指标竞价公告", 
+    "date" : "2016-02-15", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20160215/1455505279281_1.html", 
+    "type" : "4", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "05ddd741-b015-4e34-94a5-39a6d6e4a529", 
+    "name" : "深圳市2016年第2期小汽车增量指标配置数量公告", 
+    "date" : "2016-02-04", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20160204/1454561377207_1.html", 
+    "type" : "5", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "521a8dba-f59c-4f04-a0a1-77b77b0ec688", 
+    "name" : "深圳市2016年第1期普通小汽车增量指标摇号结果公告", 
+    "date" : "2016-01-26", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20160126/1453795951801_1.html", 
+    "type" : "1", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "0631378f-a684-4c79-abd0-b3a60f91cf87", 
+    "name" : "深圳市2016年第1期小汽车增量指标竞价情况", 
+    "date" : "2016-01-25", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20160125/1453716057876_1.html", 
+    "type" : "2", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "8f074ea3-5db9-4851-a56a-de18cc9cb36a", 
+    "name" : "深圳市2016年第1期普通小汽车摇号公告", 
+    "date" : "2016-01-22", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20160122/1453455832177_1.html", 
+    "type" : "3", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "b2c5dc76-ee40-4832-acd8-e10162ce3447", 
+    "name" : "深圳市2016年第1期小汽车增量指标竞价公告", 
+    "date" : "2016-01-15", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20160115/1452820442074_1.html", 
+    "type" : "4", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "2de8898a-d0ea-4d5d-8a5c-d376d1090a1f", 
+    "name" : "深圳市2016年第1期小汽车增量指标配置数量公告", 
+    "date" : "2016-01-08", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20160108/1452220324660_1.html", 
+    "type" : "5", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "822ec686-f0a8-44f6-ad9f-77d47cd8744d", 
+    "name" : "深圳市2015年第11期普通小汽车增量指标摇号结果公告", 
+    "date" : "2015-12-28", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20151228/1451295323605_1.html", 
+    "type" : "1", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "4304d446-f760-440d-86e0-33614228ce71", 
+    "name" : "深圳市2015年第11期小汽车增量指标竞价情况( 更正）", 
+    "date" : "2015-12-28", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20151225/1451031172589_1.html", 
+    "type" : "2", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "6738db6e-344e-4085-9793-c2bb34acc1f6", 
+    "name" : "深圳市2015年第11期普通小汽车摇号公告", 
+    "date" : "2015-12-23", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20151223/1450839689225_1.html", 
+    "type" : "3", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "8a718da3-3061-4669-94e7-822a2c608d24", 
+    "name" : "深圳市2015年第11期小汽车增量指标竞价公告", 
+    "date" : "2015-12-15", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20151215/1450143684003_1.html", 
+    "type" : "4", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "a31ff225-b1ab-41ce-93e2-fb1c755eb3e8", 
+    "name" : "深圳市2015年第11期小汽车增量指标配置数量公告(更正)", 
+    "date" : "2015-12-08", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20151208/1449537740944_1.html", 
+    "type" : "5", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "266a3719-d4b1-456a-8aa2-5563dcb7b706", 
+    "name" : "关于存量二手车公证书逾期未打印指标证明文件问题解决办法的公告", 
+    "date" : "2015-11-27", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20151127/1448616647063_1.html", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "c848647c-c88f-4ff2-8839-307804860382", 
+    "name" : "深圳市2015年第10期普通小汽车增量指标摇号结果公告", 
+    "date" : "2015-11-26", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20151126/1448532199752_1.html", 
+    "type" : "1", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "9718d8e7-69a6-48cf-b29e-4367b7a0f0ee", 
+    "name" : "2015年第10期深圳市小汽车增量指标竞价情况", 
+    "date" : "2015-11-25", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20151125/1448444054682_1.html", 
+    "type" : "2", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "97ec3782-1dee-4b7b-81ab-954aaa07c924", 
+    "name" : "深圳市2015年第10期普通小汽车摇号公告", 
+    "date" : "2015-11-23", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20151123/1448244891865_1.html", 
+    "type" : "3", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "bc671cb5-002c-4e54-9a32-ed74d0a1a814", 
+    "name" : "深圳市2015年第10期小汽车增量指标竞价公告", 
+    "date" : "2015-11-16", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20151116/1447638431360_1.html", 
+    "type" : "4", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "754cf9a3-013e-401f-917e-6ab4523f3693", 
+    "name" : "深圳市2015年第10期小汽车增量指标配置数量公告", 
+    "date" : "2015-11-06", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20151106/1446774334846_1.html", 
+    "type" : "5", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "b0a9a17b-e02a-4043-8c96-45bc88e8d3f3", 
+    "name" : "2015年第9期深圳市小汽车增量指标竞价情况", 
+    "date" : "2015-10-26", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20151026/1445850153571_1.html", 
+    "type" : "2", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "671e0bfe-bf77-4867-8a5f-0108a8b15a94", 
+    "name" : "深圳市2015年第9期小汽车增量指标摇号结果公告", 
+    "date" : "2015-10-26", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20151026/1445849098980_1.html", 
+    "type" : "1", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "ecc1cf0e-4120-4abe-b935-bc22ad2efa63", 
+    "name" : "2015年度第9期普通小汽车摇号公告", 
+    "date" : "2015-10-22", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20151022/1445496107657_1.html", 
+    "type" : "3", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "41436f75-01ab-459c-8d6e-7b6b4413e5ef", 
+    "name" : "深圳市2015年租赁电动小汽车指标摇号结果公告", 
+    "date" : "2015-10-13", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20151013/1444724463990_1.html", 
+    "type" : "1", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "795767fb-a656-47ea-9160-24187344e237", 
+    "name" : "深圳市2015年度待配置电动小汽车增量指标配置方式公告", 
+    "date" : "2015-10-13", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20151013/1444700761386_1.html", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "85bff694-723f-438f-b786-6952d28e60ba", 
+    "name" : "深圳市2015年第9期普通小汽车增量指标配置数量公告", 
+    "date" : "2015-10-10", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20151010/1444466649889_1.html", 
+    "type" : "5", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "79b6e46f-f99c-46d8-a4b3-d3f289319f74", 
+    "name" : "深圳市2015年第8期小汽车增量指标摇号结果公告", 
+    "date" : "2015-09-28", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20150928/1443430010816_1.html", 
+    "type" : "1", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "78b5ffcb-14c6-43e6-84be-3247d60f7ff3", 
+    "name" : "关于推迟汽车租赁电动小汽车增量指标摇号活动的紧急通告", 
+    "date" : "2015-09-28", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20150928/1443419501669_1.html", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "576f8861-5a4e-40ee-808a-8582b7750538", 
+    "name" : "“深圳小汽车调控”微信公众号今日上线", 
+    "date" : "2015-09-28", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20150928/1443405015015_1.html", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "d9ae3ec6-06ca-4682-95b5-2befd3f654db", 
+    "name" : "2015年第8期深圳市小汽车增量指标竞价情况", 
+    "date" : "2015-09-25", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20150925/1443168709745_1.html", 
+    "type" : "2", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "67451bde-999b-4e6d-acfa-73576a7e591d", 
+    "name" : "电动小汽车租赁专项业务审核结果公告", 
+    "date" : "2015-09-23", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20150923/1442978897907_1.html", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "eac06808-0c54-4ddf-acde-6aa4d843db2a", 
+    "name" : "深圳市2015年第8期小汽车增量指标摇号公告", 
+    "date" : "2015-09-23", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20150923/1442978761682_1.html", 
+    "type" : "3", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "5caba319-36fd-46ee-b15c-e23de732c9a7", 
+    "name" : "深圳市2015年第8期小汽车增量指标竞价公告", 
+    "date" : "2015-09-15", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20150915/1442281209834_1.html", 
+    "type" : "4", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "71fbd61c-4c0f-439c-81ec-700ab68b8b19", 
+    "name" : "第8期调整后电动小汽车增量指标网上申请系统今日开通", 
+    "date" : "2015-09-14", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20150914/1442220918042_1.html", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "f563daee-07f6-45d1-8547-f9841718f05e", 
+    "name" : "2015年第8期符合《关于2015年度待配置电动小汽车增量指标配置有关事宜的通知》要求的电动小汽车增量指标申请有关报名事项的公告", 
+    "date" : "2015-09-08", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20150908/1441679842701_1.html", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "3683644a-f4ee-4c1b-9fd2-22ccc73281d1", 
+    "name" : "关于2015年度待配置电动小汽车增量指标配置有关事宜的通知", 
+    "date" : "2015-09-08", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20150908/1441679724328_1.html", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "85700404-9e5b-4cbc-928f-136e01baf3c4", 
+    "name" : "深圳市2015年第8期小汽车增量指标配置数量公告", 
+    "date" : "2015-09-08", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20150908/1441679490981_1.html", 
+    "type" : "5", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "baf5a989-c8a2-4132-b502-99e4377e0ee0", 
+    "name" : "网站维护公告", 
+    "date" : "2015-08-27", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20150827/1440663372355_1.html", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "aa375ad8-f404-4e05-8014-ada3d05441fa", 
+    "name" : "深圳市2015年第7期小汽车增量指标摇号结果公告", 
+    "date" : "2015-08-26", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20150826/1440579632870_1.html", 
+    "type" : "1", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "eefdf1b0-8cdb-4a0b-afd3-8a8b8a4e366f", 
+    "name" : "深圳市2015年第7期小汽车增量指标竞价情况", 
+    "date" : "2015-08-25", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20150825/1440496164903_1.html", 
+    "type" : "2", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "32760de7-788c-4830-ab7b-1717ed27365a", 
+    "name" : "深圳市2015年第7期小汽车增量指标摇号公告", 
+    "date" : "2015-08-23", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20150823/1440302744834_1.html", 
+    "type" : "3", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "02529a8d-59db-4f81-9948-c790eb5b204f", 
+    "name" : "深圳市2015年第7期小汽车增量指标竞价公告", 
+    "date" : "2015-08-17", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20150817/1439775213064_1.html", 
+    "type" : "4", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "02c82dbc-03e2-4419-8547-e5c82fa8a8ba", 
+    "name" : "调整后的电动小汽车增量指标网上申请系统今日开通", 
+    "date" : "2015-08-14", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20150814/1439543285601_1.html", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "f33948a6-92c7-4e6a-8fd8-8966a31853d0", 
+    "name" : "2015年第7期符合《关于加强新能源汽车推广应用调整电动小汽车增量指标调控政策的通知》要求的电动小汽车增量指标申请有关报名事项的公告", 
+    "date" : "2015-08-09", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20150809/1439107374620_1.html", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "619f55a2-f078-42c6-8e4e-9076488a9057", 
+    "name" : "深圳市交通运输委员会 深圳市发展和改革委员会关于加强新能源汽车推广应用调整电动小汽车增量指标调控政策的通知", 
+    "date" : "2015-08-09", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20150809/1439106649557_1.html", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "d354d809-6a8d-4e4f-9666-692f9733e87a", 
+    "name" : "深圳市2015年第7期小汽车增量指标配置数量公告", 
+    "date" : "2015-08-05", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20150805/1438766832500_1.html", 
+    "type" : "5", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "6ee845f1-41f1-4075-bc7f-5337274a85ba", 
+    "name" : "网站维护公告", 
+    "date" : "2015-08-04", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20150804/1438674285022_1.html", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "79459e10-7e93-46c7-84a8-61c39fa45800", 
+    "name" : "深圳市2015年第6期小汽车增量指标摇号结果公告", 
+    "date" : "2015-07-27", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20150727/1437989229474_1.html", 
+    "type" : "1", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "6e6bd423-1a2a-4ec2-a0aa-1e1f475e38cc", 
+    "name" : "深圳市2015年第6期小汽车增量指标竞价情况", 
+    "date" : "2015-07-27", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20150727/1437988552514_1.html", 
+    "type" : "2", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "d19882f1-5082-49b1-a18f-2936c743d360", 
+    "name" : "深圳市2015年第6期小汽车增量指标摇号公告", 
+    "date" : "2015-07-23", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20150723/1437621009411_1.html", 
+    "type" : "3", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "6303f319-18d1-41a7-adc9-0cf1ed1182b2", 
+    "name" : "深圳市2015年第6期小汽车 增量指标竞价公告", 
+    "date" : "2015-07-17", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20150717/1437099373510_1.html", 
+    "type" : "4", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "bbe041c1-14e3-4cac-b4ec-441e69b941a9", 
+    "name" : "深圳市2015年第6期小汽车增量指标配置数量公告", 
+    "date" : "2015-07-07", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20150707/1436232098206_1.html", 
+    "type" : "5", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "fa1c28b0-97d2-41aa-8174-feed01edd8c7", 
+    "name" : "深圳市2015年第5期小汽车增量指标摇号结果公告", 
+    "date" : "2015-06-26", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20150626/1435308927011_1.html", 
+    "type" : "1", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "0b8d83a4-668b-4a94-9047-5f83eef3ddf5", 
+    "name" : "深圳市2015年第5期小汽车增量指标竞价情况", 
+    "date" : "2015-06-25", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20150625/1435223078390_1.html", 
+    "type" : "2", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "795e53b7-babb-4b46-8ee6-d235be729a80", 
+    "name" : "深圳市2015年第5期小汽车增量指标摇号公告", 
+    "date" : "2015-06-23", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20150623/1435024880172_1.html", 
+    "type" : "3", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "10c81213-226f-48fb-aa81-a6f9fdaa5b20", 
+    "name" : "网站维护公告", 
+    "date" : "2015-06-16", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20150616/1434438469451_1.html", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "58c81314-d160-41a8-9c8a-18d2b6666efe", 
+    "name" : "深圳市2015年第5期小汽车增量指标竞价公告", 
+    "date" : "2015-06-15", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20150615/1434333070256_1.html", 
+    "type" : "4", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "5581c41b-4429-417e-b2c6-572d37bbc12e", 
+    "name" : "深圳市2015年第5期小汽车增量指标配置数量公告", 
+    "date" : "2015-06-03", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20150603/1433298406156_1.html", 
+    "type" : "5", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "dc96565d-c75b-43d1-bfff-820e67cb4e8f", 
+    "name" : "深圳市2015年第4期小汽车增量指标摇号结果公告", 
+    "date" : "2015-05-26", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20150526/1432631433514_1.html", 
+    "type" : "1", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "dd176c50-7996-49a8-9903-fc7de8dfa199", 
+    "name" : "深圳市2015年第4期小汽车增量指标竞价情况", 
+    "date" : "2015-05-25", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20150525/1432547570301_1.html", 
+    "type" : "2", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "2915f962-77ea-4255-9771-deed7de2a82a", 
+    "name" : "深圳市2015年第4期小汽车增量指标摇号公告", 
+    "date" : "2015-05-22", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20150522/1432282440678_1.html", 
+    "type" : "3", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "d879b463-ecc2-476e-a7e1-1d91740d182c", 
+    "name" : "深圳市2015年第4期小汽车增量指标竞价公告", 
+    "date" : "2015-05-14", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20150513/1431508641527_1.html", 
+    "type" : "4", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "e171e277-29bb-486e-9c32-18752ee2019a", 
+    "name" : "深圳市2015年第4期小汽车增量指标配置数量公告", 
+    "date" : "2015-05-06", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20150506/1430897088390_1.html", 
+    "type" : "5", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "14eb88fa-4052-4def-9f19-1dab040f9e58", 
+    "name" : "深圳市2015年第3期小汽车增量指标摇号结果公告", 
+    "date" : "2015-04-27", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20150427/1430131197589_1.html", 
+    "type" : "1", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "f43d4828-ecc0-4506-b825-3e71525de61b", 
+    "name" : "深圳市2015年第3期小汽车增量指标竞价情况", 
+    "date" : "2015-04-27", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20150427/1430125237450_1.html", 
+    "type" : "2", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "cb5cf599-40ef-41c1-be10-187fcb256b1d", 
+    "name" : "深圳市2015年第3期小汽车增量指标竞价公告", 
+    "date" : "2015-04-23", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20150423/1429757750928_1.html", 
+    "type" : "4", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "4371c1ea-c308-425c-9b9c-0c224e0e7907", 
+    "name" : "深圳市2015年第3期小汽车增量指标摇号公告", 
+    "date" : "2015-04-21", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20150421/1429584331562_1.html", 
+    "type" : "3", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "fadb45b0-7329-4479-8bd8-df990fef0741", 
+    "name" : "关于申请存量二手车指标相关注意事项", 
+    "date" : "2015-04-03", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20150403/1428057261302_1.html", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "cdf608fb-7b5e-4606-ad1b-039481c43dbf", 
+    "name" : "深圳市2015年第3期小汽车增量指标配置数量公告", 
+    "date" : "2015-04-02", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/20150402/1427959283471_1.html", 
+    "type" : "5", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "1525a009-dd5d-49f1-8c84-93498f1e4048", 
+    "name" : "深圳市2015年第2期小汽车增量指标摇号结果公告", 
+    "date" : "2015-03-27", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/2015326/1427361977023_1.html", 
+    "type" : "1", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "d0744bf5-0ba2-4f9c-8f2b-22c7f11232e4", 
+    "name" : "深圳市2015年第2期小汽车增量指标竞价情况", 
+    "date" : "2015-03-25", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/2015325/1427278924471_1.html", 
+    "type" : "2", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "acedd82f-50f8-4547-a97f-ffb9d30631b8", 
+    "name" : "存量二手车指标申请开通公告", 
+    "date" : "2015-03-27", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/2015321/1426952701890_1.html", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "c5c99508-79cb-44d8-8f12-f6bae1558e7f", 
+    "name" : "深圳市2015年第2期小汽车增量指标摇号公告", 
+    "date" : "2015-03-19", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/2015319/1426748333738_1.html", 
+    "type" : "3", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "d1582e93-c06c-4552-9de6-3cfdb28c3762", 
+    "name" : "深圳市2015年第2期小汽车增量指标竞价公告", 
+    "date" : "2015-03-16", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/2015316/1426471396977_1.html", 
+    "type" : "4", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "3ede493e-3146-41de-b01c-31cbdcfb7239", 
+    "name" : "深圳市2015年第2期小汽车增量指标配置数量公告", 
+    "date" : "2015-03-16", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/2015316/1426471230228_1.html", 
+    "type" : "5", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "776a7c59-07d9-43ae-9122-c23cf2d77a2a", 
+    "name" : "深圳市2015年第1期小汽车增量指标竞价情况", 
+    "date" : "2015-03-16", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/2015310/1425979869874_1.html", 
+    "type" : "2", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "24285fa6-1c11-4767-865e-a69b7dee7822", 
+    "name" : "深圳市2015年第1期小汽车增量指标摇号结果公告", 
+    "date" : "2015-03-15", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/2015310/1425975715942_1.html", 
+    "type" : "1", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "8b2243ac-093f-4142-88fd-6bde1e2deb15", 
+    "name" : "深圳市2015年第1期小汽车增量指标摇号公告", 
+    "date" : "2015-02-16", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/2015216/1424077658496_1.html", 
+    "type" : "3", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "7e7f21c3-a22e-4e74-beac-65b47cc88ec6", 
+    "name" : "深圳市2015年第1期小汽车增量指标竞价公告", 
+    "date" : "2015-02-12", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/2015212/1423704050477_1.html", 
+    "type" : "4", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "52554892-8b5a-4a6a-adf4-bd09a149b915", 
+    "name" : "关于2015年深圳市小汽车增量指标配置数量的公告", 
+    "date" : "2015-02-12", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/2015212/1423703493059_1.html", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}
+{ 
+    "_id" : "19bdc160-791d-4f38-aff7-526e81d8c58a", 
+    "name" : "深圳市小汽车指标网上申请开通", 
+    "date" : "2015-01-23", 
+    "href" : "http://xqctk.jtys.sz.gov.cn/gbl/2015123/1421968489233_1.html", 
+    "used" : true, 
+    "_class" : "com.car.data.entity.NoticeInfo"
+}

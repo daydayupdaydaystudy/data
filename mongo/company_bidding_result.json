@@ -1,0 +1,960 @@
+{ 
+    "_id" : "93dbbd25-7dab-43cc-90fb-ac91f8de9ac3", 
+    "issueNum" : "201501", 
+    "deployNum" : "533", 
+    "actualNum" : "37", 
+    "firstAveragePrice" : "20341", 
+    "secondAveragePrice" : "22711", 
+    "minPrice" : "10100", 
+    "averagePrice" : "33240", 
+    "minPriceOfferNum" : "1", 
+    "minPriceDealNum" : "1", 
+    "dealNUm" : "25", 
+    "payNum" : "22", 
+    "_class" : "com.car.data.entity.CompanyBiddingResult"
+}
+{ 
+    "_id" : "7b213c46-419c-4815-b108-911dfc2a36d6", 
+    "issueNum" : "201502", 
+    "deployNum" : "1044", 
+    "actualNum" : "127", 
+    "firstAveragePrice" : "14723", 
+    "secondAveragePrice" : "14813", 
+    "minPrice" : "10000", 
+    "averagePrice" : "18539", 
+    "minPriceOfferNum" : "4", 
+    "minPriceDealNum" : "4", 
+    "dealNUm" : "88", 
+    "payNum" : "83", 
+    "_class" : "com.car.data.entity.CompanyBiddingResult"
+}
+{ 
+    "_id" : "099419ed-93fc-49eb-89bb-3c834e2dd462", 
+    "issueNum" : "201503", 
+    "deployNum" : "1494", 
+    "actualNum" : "334", 
+    "firstAveragePrice" : "12897", 
+    "secondAveragePrice" : "13275", 
+    "minPrice" : "10000", 
+    "averagePrice" : "15102", 
+    "minPriceOfferNum" : "10", 
+    "minPriceDealNum" : "10", 
+    "dealNUm" : "248", 
+    "payNum" : "238", 
+    "_class" : "com.car.data.entity.CompanyBiddingResult"
+}
+{ 
+    "_id" : "60c9292c-13c8-4e7b-bb9e-27c04fffcb03", 
+    "issueNum" : "201504", 
+    "deployNum" : "1656", 
+    "actualNum" : "502", 
+    "firstAveragePrice" : "12631", 
+    "secondAveragePrice" : "12957", 
+    "minPrice" : "10000", 
+    "averagePrice" : "14179", 
+    "minPriceOfferNum" : "21", 
+    "minPriceDealNum" : "21", 
+    "dealNUm" : "372", 
+    "payNum" : "371", 
+    "_class" : "com.car.data.entity.CompanyBiddingResult"
+}
+{ 
+    "_id" : "2cf6292c-87e6-4a4c-86c5-f42b9b9958fe", 
+    "issueNum" : "201505", 
+    "deployNum" : "1685", 
+    "actualNum" : "572", 
+    "firstAveragePrice" : "12656", 
+    "secondAveragePrice" : "13025", 
+    "minPrice" : "10000", 
+    "averagePrice" : "14218", 
+    "minPriceOfferNum" : "24", 
+    "minPriceDealNum" : "24", 
+    "dealNUm" : "398", 
+    "payNum" : "396", 
+    "_class" : "com.car.data.entity.CompanyBiddingResult"
+}
+{ 
+    "_id" : "49bf63dc-f2bd-4f25-9ca6-228a546718f5", 
+    "issueNum" : "201506", 
+    "deployNum" : "1689", 
+    "actualNum" : "641", 
+    "firstAveragePrice" : "12891", 
+    "secondAveragePrice" : "13355", 
+    "minPrice" : "10000", 
+    "averagePrice" : "14676", 
+    "minPriceOfferNum" : "20", 
+    "minPriceDealNum" : "20", 
+    "dealNUm" : "452", 
+    "payNum" : "449", 
+    "_class" : "com.car.data.entity.CompanyBiddingResult"
+}
+{ 
+    "_id" : "29a3dc51-fd98-4eff-93f2-f071293e9a72", 
+    "issueNum" : "201507", 
+    "deployNum" : "1640", 
+    "actualNum" : "746", 
+    "firstAveragePrice" : "12615", 
+    "secondAveragePrice" : "12919", 
+    "minPrice" : "10000", 
+    "averagePrice" : "14030", 
+    "minPriceOfferNum" : "41", 
+    "minPriceDealNum" : "41", 
+    "dealNUm" : "507", 
+    "payNum" : "502", 
+    "_class" : "com.car.data.entity.CompanyBiddingResult"
+}
+{ 
+    "_id" : "5cf298e0-0aca-4ea1-8011-096c57bae808", 
+    "issueNum" : "201508", 
+    "deployNum" : "1538", 
+    "actualNum" : "861", 
+    "firstAveragePrice" : "11842", 
+    "secondAveragePrice" : "12048", 
+    "minPrice" : "10000", 
+    "averagePrice" : "13294", 
+    "minPriceOfferNum" : "56", 
+    "minPriceDealNum" : "56", 
+    "dealNUm" : "552", 
+    "payNum" : "546", 
+    "_class" : "com.car.data.entity.CompanyBiddingResult"
+}
+{ 
+    "_id" : "b9025ae6-eec7-4ac6-ae35-3b7d45c0c84e", 
+    "issueNum" : "201509", 
+    "deployNum" : "1392", 
+    "actualNum" : "830", 
+    "firstAveragePrice" : "11278", 
+    "secondAveragePrice" : "11610", 
+    "minPrice" : "10000", 
+    "averagePrice" : "12472", 
+    "minPriceOfferNum" : "64", 
+    "minPriceDealNum" : "64", 
+    "dealNUm" : "520", 
+    "payNum" : "514", 
+    "_class" : "com.car.data.entity.CompanyBiddingResult"
+}
+{ 
+    "_id" : "9c826ead-cda1-45ca-8c02-3f0de24abd06", 
+    "issueNum" : "201510", 
+    "deployNum" : "1278", 
+    "actualNum" : "834", 
+    "firstAveragePrice" : "11278", 
+    "secondAveragePrice" : "11564", 
+    "minPrice" : "10000", 
+    "averagePrice" : "12187", 
+    "minPriceOfferNum" : "56", 
+    "minPriceDealNum" : "56", 
+    "dealNUm" : "479", 
+    "payNum" : "477", 
+    "_class" : "com.car.data.entity.CompanyBiddingResult"
+}
+{ 
+    "_id" : "860ac0a6-5bb4-46ee-b72e-3ffb639c2a18", 
+    "issueNum" : "201511", 
+    "deployNum" : "1202", 
+    "actualNum" : "870", 
+    "firstAveragePrice" : "11043", 
+    "secondAveragePrice" : "11271", 
+    "minPrice" : "10000", 
+    "averagePrice" : "12101", 
+    "minPriceOfferNum" : "55", 
+    "minPriceDealNum" : "55", 
+    "dealNUm" : "531", 
+    "payNum" : "528", 
+    "_class" : "com.car.data.entity.CompanyBiddingResult"
+}
+{ 
+    "_id" : "c13c51ad-6af3-4b43-aa25-67062239bdc5", 
+    "issueNum" : "201601", 
+    "deployNum" : "400", 
+    "actualNum" : "488", 
+    "firstAveragePrice" : "11543", 
+    "secondAveragePrice" : "11766", 
+    "minPrice" : "10000", 
+    "averagePrice" : "12453", 
+    "minPriceOfferNum" : "45", 
+    "minPriceDealNum" : "45", 
+    "dealNUm" : "399", 
+    "payNum" : "395", 
+    "_class" : "com.car.data.entity.CompanyBiddingResult"
+}
+{ 
+    "_id" : "15653a8c-174d-49de-9527-a5f586237275", 
+    "issueNum" : "201602", 
+    "deployNum" : "405", 
+    "actualNum" : "621", 
+    "firstAveragePrice" : "11202", 
+    "secondAveragePrice" : "11372", 
+    "minPrice" : "10300", 
+    "averagePrice" : "12343", 
+    "minPriceOfferNum" : "1", 
+    "minPriceDealNum" : "1", 
+    "dealNUm" : "405", 
+    "payNum" : "403", 
+    "_class" : "com.car.data.entity.CompanyBiddingResult"
+}
+{ 
+    "_id" : "11e1b73e-26f8-4c6e-ad68-bef8a125f5f2", 
+    "issueNum" : "201603", 
+    "deployNum" : "402", 
+    "actualNum" : "804", 
+    "firstAveragePrice" : "11360", 
+    "secondAveragePrice" : "11659", 
+    "minPrice" : "11700", 
+    "averagePrice" : "13365", 
+    "minPriceOfferNum" : "9", 
+    "minPriceDealNum" : "4", 
+    "dealNUm" : "402", 
+    "payNum" : "399", 
+    "_class" : "com.car.data.entity.CompanyBiddingResult"
+}
+{ 
+    "_id" : "5d4b3641-71ac-4349-a410-eda2d1bf5079", 
+    "issueNum" : "201604", 
+    "deployNum" : "403", 
+    "actualNum" : "1013", 
+    "firstAveragePrice" : "12584", 
+    "secondAveragePrice" : "13115", 
+    "minPrice" : "14000", 
+    "averagePrice" : "15630", 
+    "minPriceOfferNum" : "30", 
+    "minPriceDealNum" : "16", 
+    "dealNUm" : "403", 
+    "payNum" : "402", 
+    "_class" : "com.car.data.entity.CompanyBiddingResult"
+}
+{ 
+    "_id" : "efbac31b-fbe7-40f4-8bca-0583a42124ce", 
+    "issueNum" : "201605", 
+    "deployNum" : "401", 
+    "actualNum" : "1329", 
+    "firstAveragePrice" : "14944", 
+    "secondAveragePrice" : "15647", 
+    "minPrice" : "18000", 
+    "averagePrice" : "19546", 
+    "minPriceOfferNum" : "104", 
+    "minPriceDealNum" : "34", 
+    "dealNUm" : "401", 
+    "payNum" : "401", 
+    "_class" : "com.car.data.entity.CompanyBiddingResult"
+}
+{ 
+    "_id" : "c22baff7-fdc2-4865-8971-0ffe931abaf5", 
+    "issueNum" : "201606", 
+    "deployNum" : "400", 
+    "actualNum" : "1663", 
+    "firstAveragePrice" : "19044", 
+    "secondAveragePrice" : "20609", 
+    "minPrice" : "25800", 
+    "averagePrice" : "27933", 
+    "minPriceOfferNum" : "18", 
+    "minPriceDealNum" : "17", 
+    "dealNUm" : "400", 
+    "payNum" : "397", 
+    "_class" : "com.car.data.entity.CompanyBiddingResult"
+}
+{ 
+    "_id" : "9c6c341c-ee3a-418f-8829-bd552484bc98", 
+    "issueNum" : "201607", 
+    "deployNum" : "403", 
+    "actualNum" : "1857", 
+    "firstAveragePrice" : "23143", 
+    "secondAveragePrice" : "25051", 
+    "minPrice" : "34000", 
+    "averagePrice" : "37103", 
+    "minPriceOfferNum" : "8", 
+    "minPriceDealNum" : "1", 
+    "dealNUm" : "403", 
+    "payNum" : "400", 
+    "_class" : "com.car.data.entity.CompanyBiddingResult"
+}
+{ 
+    "_id" : "6b88683f-9d82-48d5-9095-ad0cf2497697", 
+    "issueNum" : "201608", 
+    "deployNum" : "403", 
+    "actualNum" : "1774", 
+    "firstAveragePrice" : "27066", 
+    "secondAveragePrice" : "29281", 
+    "minPrice" : "40100", 
+    "averagePrice" : "44094", 
+    "minPriceOfferNum" : "17", 
+    "minPriceDealNum" : "16", 
+    "dealNUm" : "403", 
+    "payNum" : "393", 
+    "_class" : "com.car.data.entity.CompanyBiddingResult"
+}
+{ 
+    "_id" : "d21d7e89-a90a-4b6f-9ad2-14a468456fbd", 
+    "issueNum" : "201609", 
+    "deployNum" : "410", 
+    "actualNum" : "1639", 
+    "firstAveragePrice" : "30477", 
+    "secondAveragePrice" : "33258", 
+    "minPrice" : "44800", 
+    "averagePrice" : "48830", 
+    "minPriceOfferNum" : "4", 
+    "minPriceDealNum" : "4", 
+    "dealNUm" : "410", 
+    "payNum" : "403", 
+    "_class" : "com.car.data.entity.CompanyBiddingResult"
+}
+{ 
+    "_id" : "d3d79218-e7df-4dad-bb1a-6be93ab3981a", 
+    "issueNum" : "201610", 
+    "deployNum" : "407", 
+    "actualNum" : "1322", 
+    "firstAveragePrice" : "33647", 
+    "secondAveragePrice" : "36606", 
+    "minPrice" : "36000", 
+    "averagePrice" : "48169", 
+    "minPriceOfferNum" : "3", 
+    "minPriceDealNum" : "2", 
+    "dealNUm" : "407", 
+    "payNum" : "399", 
+    "_class" : "com.car.data.entity.CompanyBiddingResult"
+}
+{ 
+    "_id" : "576eef4b-82f8-4331-9c34-8fe36a7cc737", 
+    "issueNum" : "201611", 
+    "deployNum" : "408", 
+    "actualNum" : "1224", 
+    "firstAveragePrice" : "33610", 
+    "secondAveragePrice" : "36106", 
+    "minPrice" : "10200", 
+    "averagePrice" : "41794", 
+    "minPriceOfferNum" : "2", 
+    "minPriceDealNum" : "2", 
+    "dealNUm" : "408", 
+    "payNum" : "390", 
+    "_class" : "com.car.data.entity.CompanyBiddingResult"
+}
+{ 
+    "_id" : "fe373785-c00b-4a34-8ce9-0436bd99ca1f", 
+    "issueNum" : "201612", 
+    "deployNum" : "418", 
+    "actualNum" : "1396", 
+    "firstAveragePrice" : "20199", 
+    "secondAveragePrice" : "20565", 
+    "minPrice" : "15100", 
+    "averagePrice" : "28632", 
+    "minPriceOfferNum" : "25", 
+    "minPriceDealNum" : "6", 
+    "dealNUm" : "418", 
+    "payNum" : "412", 
+    "_class" : "com.car.data.entity.CompanyBiddingResult"
+}
+{ 
+    "_id" : "c36f4e61-0739-4cd9-b38a-26ad4febdbad", 
+    "issueNum" : "201701", 
+    "deployNum" : "400", 
+    "actualNum" : "658", 
+    "firstAveragePrice" : "13192", 
+    "secondAveragePrice" : "13680", 
+    "minPrice" : "15000", 
+    "averagePrice" : "18952", 
+    "minPriceOfferNum" : "26", 
+    "minPriceDealNum" : "5", 
+    "dealNUm" : "400", 
+    "payNum" : "398", 
+    "_class" : "com.car.data.entity.CompanyBiddingResult"
+}
+{ 
+    "_id" : "8b6e245b-3633-4c27-9551-03536d4a0a16", 
+    "issueNum" : "201702", 
+    "deployNum" : "402", 
+    "actualNum" : "941", 
+    "firstAveragePrice" : "15558", 
+    "secondAveragePrice" : "16143", 
+    "minPrice" : "19800", 
+    "averagePrice" : "22377", 
+    "minPriceOfferNum" : "18", 
+    "minPriceDealNum" : "2", 
+    "dealNUm" : "402", 
+    "payNum" : "400", 
+    "_class" : "com.car.data.entity.CompanyBiddingResult"
+}
+{ 
+    "_id" : "2a2284f1-9ceb-46d8-8bb2-23ff37611307", 
+    "issueNum" : "201703", 
+    "deployNum" : "402", 
+    "actualNum" : "1346", 
+    "firstAveragePrice" : "19327", 
+    "secondAveragePrice" : "20964", 
+    "minPrice" : "26400", 
+    "averagePrice" : "28903", 
+    "minPriceOfferNum" : "1", 
+    "minPriceDealNum" : "1", 
+    "dealNUm" : "402", 
+    "payNum" : "402", 
+    "_class" : "com.car.data.entity.CompanyBiddingResult"
+}
+{ 
+    "_id" : "a64a9c29-2bd0-4f6c-a0f2-776d4bfa12d7", 
+    "issueNum" : "201704", 
+    "deployNum" : "400", 
+    "actualNum" : "1624", 
+    "firstAveragePrice" : "24528", 
+    "secondAveragePrice" : "26521", 
+    "minPrice" : "34800", 
+    "averagePrice" : "36857", 
+    "minPriceOfferNum" : "11", 
+    "minPriceDealNum" : "1", 
+    "dealNUm" : "400", 
+    "payNum" : "395", 
+    "_class" : "com.car.data.entity.CompanyBiddingResult"
+}
+{ 
+    "_id" : "f18ed832-561d-4d1d-9aba-0f50af6a75eb", 
+    "issueNum" : "201705", 
+    "deployNum" : "405", 
+    "actualNum" : "1678", 
+    "firstAveragePrice" : "27736", 
+    "secondAveragePrice" : "30396", 
+    "minPrice" : "40000", 
+    "averagePrice" : "42775", 
+    "minPriceOfferNum" : "48", 
+    "minPriceDealNum" : "34", 
+    "dealNUm" : "405", 
+    "payNum" : "403", 
+    "_class" : "com.car.data.entity.CompanyBiddingResult"
+}
+{ 
+    "_id" : "c31ab62c-5f7a-4629-ab07-96a8d108216d", 
+    "issueNum" : "201706", 
+    "deployNum" : "402", 
+    "actualNum" : "1546", 
+    "firstAveragePrice" : "31837", 
+    "secondAveragePrice" : "34025", 
+    "minPrice" : "45000", 
+    "averagePrice" : "47794", 
+    "minPriceOfferNum" : "80", 
+    "minPriceDealNum" : "48", 
+    "dealNUm" : "402", 
+    "payNum" : "397", 
+    "_class" : "com.car.data.entity.CompanyBiddingResult"
+}
+{ 
+    "_id" : "9410e5b6-45bb-446b-b71b-b6bfecc6d4c4", 
+    "issueNum" : "201707", 
+    "deployNum" : "405", 
+    "actualNum" : "1367", 
+    "firstAveragePrice" : "35061", 
+    "secondAveragePrice" : "37398", 
+    "minPrice" : "45100", 
+    "averagePrice" : "49973", 
+    "minPriceOfferNum" : "11", 
+    "minPriceDealNum" : "8", 
+    "dealNUm" : "405", 
+    "payNum" : "403", 
+    "_class" : "com.car.data.entity.CompanyBiddingResult"
+}
+{ 
+    "_id" : "a5b45775-8e19-4d01-b4e3-6b399d828fed", 
+    "issueNum" : "201708", 
+    "deployNum" : "402", 
+    "actualNum" : "1449", 
+    "firstAveragePrice" : "32311", 
+    "secondAveragePrice" : "33700", 
+    "minPrice" : "45000", 
+    "averagePrice" : "49743", 
+    "minPriceOfferNum" : "27", 
+    "minPriceDealNum" : "6", 
+    "dealNUm" : "402", 
+    "payNum" : "399", 
+    "_class" : "com.car.data.entity.CompanyBiddingResult"
+}
+{ 
+    "_id" : "6606af68-8ce8-4736-8493-0bbfd09911d0", 
+    "issueNum" : "201709", 
+    "deployNum" : "403", 
+    "actualNum" : "1406", 
+    "firstAveragePrice" : "37006", 
+    "secondAveragePrice" : "40252", 
+    "minPrice" : "49500", 
+    "averagePrice" : "53133", 
+    "minPriceOfferNum" : "3", 
+    "minPriceDealNum" : "2", 
+    "dealNUm" : "403", 
+    "payNum" : "402", 
+    "_class" : "com.car.data.entity.CompanyBiddingResult"
+}
+{ 
+    "_id" : "a96e7f05-663f-447a-be2e-095e8182dee6", 
+    "issueNum" : "201710", 
+    "deployNum" : "401", 
+    "actualNum" : "1348", 
+    "firstAveragePrice" : "40588", 
+    "secondAveragePrice" : "44500", 
+    "minPrice" : "45900", 
+    "averagePrice" : "56278", 
+    "minPriceOfferNum" : "1", 
+    "minPriceDealNum" : "1", 
+    "dealNUm" : "401", 
+    "payNum" : "396", 
+    "_class" : "com.car.data.entity.CompanyBiddingResult"
+}
+{ 
+    "_id" : "0302476a-68f4-45a2-a483-a9131c95d131", 
+    "issueNum" : "201711", 
+    "deployNum" : "405", 
+    "actualNum" : "1704", 
+    "firstAveragePrice" : "45338", 
+    "secondAveragePrice" : "45165", 
+    "minPrice" : "57000", 
+    "averagePrice" : "61714", 
+    "minPriceOfferNum" : "65", 
+    "minPriceDealNum" : "11", 
+    "dealNUm" : "405", 
+    "payNum" : "403", 
+    "_class" : "com.car.data.entity.CompanyBiddingResult"
+}
+{ 
+    "_id" : "1040fea0-9845-417f-8304-819aecd837a8", 
+    "issueNum" : "201712", 
+    "deployNum" : "402", 
+    "actualNum" : "1654", 
+    "firstAveragePrice" : "52035", 
+    "secondAveragePrice" : "54437", 
+    "minPrice" : "67000", 
+    "averagePrice" : "71070", 
+    "minPriceOfferNum" : "101", 
+    "minPriceDealNum" : "71", 
+    "dealNUm" : "402", 
+    "payNum" : "401", 
+    "_class" : "com.car.data.entity.CompanyBiddingResult"
+}
+{ 
+    "_id" : "5b5408db-d956-49d1-854a-ca74c2a025cb", 
+    "issueNum" : "201801", 
+    "deployNum" : "400", 
+    "actualNum" : "851", 
+    "firstAveragePrice" : "45939", 
+    "secondAveragePrice" : "48455", 
+    "minPrice" : "60000", 
+    "averagePrice" : "70044", 
+    "minPriceOfferNum" : "11", 
+    "minPriceDealNum" : "8", 
+    "dealNUm" : "400", 
+    "payNum" : "394", 
+    "_class" : "com.car.data.entity.CompanyBiddingResult"
+}
+{ 
+    "_id" : "ae23d7fd-b84d-4ef5-9c0a-b5f3bb6dc6b2", 
+    "issueNum" : "201802", 
+    "deployNum" : "406", 
+    "actualNum" : "1434", 
+    "firstAveragePrice" : "31968", 
+    "secondAveragePrice" : "33056", 
+    "minPrice" : "49500", 
+    "averagePrice" : "57580", 
+    "minPriceOfferNum" : "4", 
+    "minPriceDealNum" : "2", 
+    "dealNUm" : "406", 
+    "payNum" : "403", 
+    "_class" : "com.car.data.entity.CompanyBiddingResult"
+}
+{ 
+    "_id" : "3f94f1c4-9496-4efd-9faf-45b35eea4ab7", 
+    "issueNum" : "201803", 
+    "deployNum" : "403", 
+    "actualNum" : "1465", 
+    "firstAveragePrice" : "38436", 
+    "secondAveragePrice" : "41677", 
+    "minPrice" : "60000", 
+    "averagePrice" : "65190", 
+    "minPriceOfferNum" : "70", 
+    "minPriceDealNum" : "25", 
+    "dealNUm" : "403", 
+    "payNum" : "401", 
+    "_class" : "com.car.data.entity.CompanyBiddingResult"
+}
+{ 
+    "_id" : "629d94f0-e0f6-412a-a3f8-da543c5b3e98", 
+    "issueNum" : "201804", 
+    "deployNum" : "402", 
+    "actualNum" : "1445", 
+    "firstAveragePrice" : "41403", 
+    "secondAveragePrice" : "44981", 
+    "minPrice" : "65900", 
+    "averagePrice" : "70838", 
+    "minPriceOfferNum" : "1", 
+    "minPriceDealNum" : "1", 
+    "dealNUm" : "402", 
+    "payNum" : "400", 
+    "_class" : "com.car.data.entity.CompanyBiddingResult"
+}
+{ 
+    "_id" : "e785808a-2b93-4d69-8458-a00fef3c4b27", 
+    "issueNum" : "201805", 
+    "deployNum" : "402", 
+    "actualNum" : "1350", 
+    "firstAveragePrice" : "49549", 
+    "secondAveragePrice" : "53717", 
+    "minPrice" : "66000", 
+    "averagePrice" : "76075", 
+    "minPriceOfferNum" : "5", 
+    "minPriceDealNum" : "4", 
+    "dealNUm" : "402", 
+    "payNum" : "398", 
+    "_class" : "com.car.data.entity.CompanyBiddingResult"
+}
+{ 
+    "_id" : "ce7e295b-be44-4143-b688-fa78f2bb229a", 
+    "issueNum" : "201806", 
+    "deployNum" : "404", 
+    "actualNum" : "1185", 
+    "firstAveragePrice" : "44746", 
+    "secondAveragePrice" : "51228", 
+    "minPrice" : "35000", 
+    "averagePrice" : "68130", 
+    "minPriceOfferNum" : "3", 
+    "minPriceDealNum" : "2", 
+    "dealNUm" : "404", 
+    "payNum" : "396", 
+    "_class" : "com.car.data.entity.CompanyBiddingResult"
+}
+{ 
+    "_id" : "1fc12422-ddbc-4823-bbc7-930d4e2b33d2", 
+    "issueNum" : "201807", 
+    "deployNum" : "408", 
+    "actualNum" : "1049", 
+    "firstAveragePrice" : "36473", 
+    "secondAveragePrice" : "37869", 
+    "minPrice" : "10000", 
+    "averagePrice" : "45984", 
+    "minPriceOfferNum" : "4", 
+    "minPriceDealNum" : "4", 
+    "dealNUm" : "325", 
+    "payNum" : "318", 
+    "_class" : "com.car.data.entity.CompanyBiddingResult"
+}
+{ 
+    "_id" : "7f98a82f-21e1-4d5d-ae10-3874e966214e", 
+    "issueNum" : "201808", 
+    "deployNum" : "490", 
+    "actualNum" : "1116", 
+    "firstAveragePrice" : "19059", 
+    "secondAveragePrice" : "20230", 
+    "minPrice" : "10100", 
+    "averagePrice" : "27399", 
+    "minPriceOfferNum" : "2", 
+    "minPriceDealNum" : "1", 
+    "dealNUm" : "490", 
+    "payNum" : "484", 
+    "_class" : "com.car.data.entity.CompanyBiddingResult"
+}
+{ 
+    "_id" : "e5a05072-b869-4ede-976c-8afba38f501a", 
+    "issueNum" : "201809", 
+    "deployNum" : "406", 
+    "actualNum" : "1626", 
+    "firstAveragePrice" : "14429", 
+    "secondAveragePrice" : "14659", 
+    "minPrice" : "19000", 
+    "averagePrice" : "24411", 
+    "minPriceOfferNum" : "3", 
+    "minPriceDealNum" : "2", 
+    "dealNUm" : "406", 
+    "payNum" : "404", 
+    "_class" : "com.car.data.entity.CompanyBiddingResult"
+}
+{ 
+    "_id" : "11176094-d7b2-4de1-a048-0a393cc8a5b5", 
+    "issueNum" : "201810", 
+    "deployNum" : "402", 
+    "actualNum" : "2059", 
+    "firstAveragePrice" : "17503", 
+    "secondAveragePrice" : "18483", 
+    "minPrice" : "28500", 
+    "averagePrice" : "31195", 
+    "minPriceOfferNum" : "14", 
+    "minPriceDealNum" : "2", 
+    "dealNUm" : "402", 
+    "payNum" : "400", 
+    "_class" : "com.car.data.entity.CompanyBiddingResult"
+}
+{ 
+    "_id" : "1eec54cb-443d-4188-b977-12ae54b13fa1", 
+    "issueNum" : "201811", 
+    "deployNum" : "402", 
+    "actualNum" : "2600", 
+    "firstAveragePrice" : "20335", 
+    "secondAveragePrice" : "22046", 
+    "minPrice" : "38000", 
+    "averagePrice" : "40984", 
+    "minPriceOfferNum" : "29", 
+    "minPriceDealNum" : "13", 
+    "dealNUm" : "402", 
+    "payNum" : "399", 
+    "_class" : "com.car.data.entity.CompanyBiddingResult"
+}
+{ 
+    "_id" : "1aa5e279-9206-422b-9870-9fc99be2d5d0", 
+    "issueNum" : "201812", 
+    "deployNum" : "403", 
+    "actualNum" : "2776", 
+    "firstAveragePrice" : "24209", 
+    "secondAveragePrice" : "26263", 
+    "minPrice" : "48000", 
+    "averagePrice" : "51861", 
+    "minPriceOfferNum" : "23", 
+    "minPriceDealNum" : "21", 
+    "dealNUm" : "403", 
+    "payNum" : "402", 
+    "_class" : "com.car.data.entity.CompanyBiddingResult"
+}
+{ 
+    "_id" : "ff5fad1c-f44e-4b4b-a85f-14f816974a98", 
+    "issueNum" : "201901", 
+    "deployNum" : "400", 
+    "actualNum" : "1401", 
+    "firstAveragePrice" : "20699", 
+    "secondAveragePrice" : "22591", 
+    "minPrice" : "39200", 
+    "averagePrice" : "46582", 
+    "minPriceOfferNum" : "1", 
+    "minPriceDealNum" : "1", 
+    "dealNUm" : "400", 
+    "payNum" : "394", 
+    "_class" : "com.car.data.entity.CompanyBiddingResult"
+}
+{ 
+    "_id" : "27035fea-68d7-465d-918d-c3e2096f2c88", 
+    "issueNum" : "201902", 
+    "deployNum" : "406", 
+    "actualNum" : "2005", 
+    "firstAveragePrice" : "21776", 
+    "secondAveragePrice" : "24034", 
+    "minPrice" : "45200", 
+    "averagePrice" : "49815", 
+    "minPriceOfferNum" : "9", 
+    "minPriceDealNum" : "2", 
+    "dealNUm" : "406", 
+    "payNum" : "405", 
+    "_class" : "com.car.data.entity.CompanyBiddingResult"
+}
+{ 
+    "_id" : "a0855b5a-553b-48b2-af2a-69921b8cd73f", 
+    "issueNum" : "201903", 
+    "deployNum" : "401", 
+    "actualNum" : "2319", 
+    "firstAveragePrice" : "27920", 
+    "secondAveragePrice" : "30806", 
+    "minPrice" : "53800", 
+    "averagePrice" : "57284", 
+    "minPriceOfferNum" : "18", 
+    "minPriceDealNum" : "10", 
+    "dealNUm" : "401", 
+    "payNum" : "398", 
+    "_class" : "com.car.data.entity.CompanyBiddingResult"
+}
+{ 
+    "_id" : "92e24cc1-e5ba-4f80-9cb3-725e930e8047", 
+    "issueNum" : "201904", 
+    "deployNum" : "403", 
+    "actualNum" : "2266", 
+    "firstAveragePrice" : "31816", 
+    "secondAveragePrice" : "34325", 
+    "minPrice" : "59800", 
+    "averagePrice" : "63604", 
+    "minPriceOfferNum" : "11", 
+    "minPriceDealNum" : "1", 
+    "dealNUm" : "403", 
+    "payNum" : "398", 
+    "_class" : "com.car.data.entity.CompanyBiddingResult"
+}
+{ 
+    "_id" : "df03f528-ba7e-41ba-b527-1d6afb2bcf44", 
+    "issueNum" : "201905", 
+    "deployNum" : "405", 
+    "actualNum" : "2075", 
+    "firstAveragePrice" : "35285", 
+    "secondAveragePrice" : "37621", 
+    "minPrice" : "60000", 
+    "averagePrice" : "67108", 
+    "minPriceOfferNum" : "29", 
+    "minPriceDealNum" : "4", 
+    "dealNUm" : "405", 
+    "payNum" : "399", 
+    "_class" : "com.car.data.entity.CompanyBiddingResult"
+}
+{ 
+    "_id" : "30303747-2d44-4440-9644-775ace369f9f", 
+    "issueNum" : "201906", 
+    "deployNum" : "2206", 
+    "actualNum" : "2347", 
+    "firstAveragePrice" : "19201", 
+    "secondAveragePrice" : "20815", 
+    "minPrice" : "10000", 
+    "averagePrice" : "27416", 
+    "minPriceOfferNum" : "27", 
+    "minPriceDealNum" : "27", 
+    "dealNUm" : "1557", 
+    "payNum" : "1504", 
+    "_class" : "com.car.data.entity.CompanyBiddingResult"
+}
+{ 
+    "_id" : "ab6c0d23-354f-4389-b954-514c81d0fc07", 
+    "issueNum" : "201907", 
+    "deployNum" : "2002", 
+    "actualNum" : "1880", 
+    "firstAveragePrice" : "13056", 
+    "secondAveragePrice" : "13598", 
+    "minPrice" : "10000", 
+    "averagePrice" : "16490", 
+    "minPriceOfferNum" : "37", 
+    "minPriceDealNum" : "37", 
+    "dealNUm" : "1064", 
+    "payNum" : "1056", 
+    "_class" : "com.car.data.entity.CompanyBiddingResult"
+}
+{ 
+    "_id" : "f26c431f-bc55-48c0-9799-e49395e9338b", 
+    "issueNum" : "201908", 
+    "deployNum" : "2246", 
+    "actualNum" : "2330", 
+    "firstAveragePrice" : "11281", 
+    "secondAveragePrice" : "11536", 
+    "minPrice" : "10000", 
+    "averagePrice" : "13051", 
+    "minPriceOfferNum" : "112", 
+    "minPriceDealNum" : "112", 
+    "dealNUm" : "1531", 
+    "payNum" : "1525", 
+    "_class" : "com.car.data.entity.CompanyBiddingResult"
+}
+{ 
+    "_id" : "45c3788c-9504-45b1-a58b-c816e2c9bab4", 
+    "issueNum" : "201909", 
+    "deployNum" : "1121", 
+    "actualNum" : "2047", 
+    "firstAveragePrice" : "11189", 
+    "secondAveragePrice" : "11543", 
+    "minPrice" : "10000", 
+    "averagePrice" : "13290", 
+    "minPriceOfferNum" : "45", 
+    "minPriceDealNum" : "45", 
+    "dealNUm" : "1029", 
+    "payNum" : "1020", 
+    "_class" : "com.car.data.entity.CompanyBiddingResult"
+}
+{ 
+    "_id" : "4b79bc7c-fa2b-49b4-bf7a-6bbba83d90a6", 
+    "issueNum" : "201910", 
+    "deployNum" : "501", 
+    "actualNum" : "2055", 
+    "firstAveragePrice" : "11310", 
+    "secondAveragePrice" : "11544", 
+    "minPrice" : "13100", 
+    "averagePrice" : "15391", 
+    "minPriceOfferNum" : "37", 
+    "minPriceDealNum" : "32", 
+    "dealNUm" : "501", 
+    "payNum" : "499", 
+    "_class" : "com.car.data.entity.CompanyBiddingResult"
+}
+{ 
+    "_id" : "c92cf667-f2f6-485d-8530-68c3780f7ee3", 
+    "issueNum" : "201911", 
+    "deployNum" : "402", 
+    "actualNum" : "2649", 
+    "firstAveragePrice" : "13070", 
+    "secondAveragePrice" : "13853", 
+    "minPrice" : "18600", 
+    "averagePrice" : "20416", 
+    "minPriceOfferNum" : "24", 
+    "minPriceDealNum" : "18", 
+    "dealNUm" : "402", 
+    "payNum" : "401", 
+    "_class" : "com.car.data.entity.CompanyBiddingResult"
+}
+{ 
+    "_id" : "20c5b768-1f7f-4ff0-a9eb-519174cdb8af", 
+    "issueNum" : "201912", 
+    "deployNum" : "401", 
+    "actualNum" : "2946", 
+    "firstAveragePrice" : "15331", 
+    "secondAveragePrice" : "16199", 
+    "minPrice" : "25200", 
+    "averagePrice" : "28233", 
+    "minPriceOfferNum" : "15", 
+    "minPriceDealNum" : "3", 
+    "dealNUm" : "401", 
+    "payNum" : "399", 
+    "_class" : "com.car.data.entity.CompanyBiddingResult"
+}
+{ 
+    "_id" : "6ef3d6ca-08d7-432b-ad01-38fc0ca2cf6e", 
+    "issueNum" : "202002", 
+    "deployNum" : "800", 
+    "actualNum" : "2734", 
+    "firstAveragePrice" : "13456", 
+    "secondAveragePrice" : "13986", 
+    "minPrice" : "20300", 
+    "averagePrice" : "25847", 
+    "minPriceOfferNum" : "14", 
+    "minPriceDealNum" : "14", 
+    "dealNUm" : "800", 
+    "payNum" : "788", 
+    "_class" : "com.car.data.entity.CompanyBiddingResult"
+}
+{ 
+    "_id" : "644ab234-6d01-4bdc-b1ef-5fe9ca363013", 
+    "issueNum" : "202003", 
+    "deployNum" : "412", 
+    "actualNum" : "2498", 
+    "firstAveragePrice" : "16203", 
+    "secondAveragePrice" : "17417", 
+    "minPrice" : "29500", 
+    "averagePrice" : "31144", 
+    "minPriceOfferNum" : "74", 
+    "minPriceDealNum" : "68", 
+    "dealNUm" : "412", 
+    "payNum" : "411", 
+    "_class" : "com.car.data.entity.CompanyBiddingResult"
+}
+{ 
+    "_id" : "8877200a-6fae-4d2b-9452-531d08af4454", 
+    "issueNum" : "202004", 
+    "deployNum" : "401", 
+    "actualNum" : "2696", 
+    "firstAveragePrice" : "18689", 
+    "secondAveragePrice" : "19950", 
+    "minPrice" : "36800", 
+    "averagePrice" : "39043", 
+    "minPriceOfferNum" : "40", 
+    "minPriceDealNum" : "5", 
+    "dealNUm" : "401", 
+    "payNum" : "396", 
+    "_class" : "com.car.data.entity.CompanyBiddingResult"
+}
+{ 
+    "_id" : "f7e1c2d4-cda5-4ac9-a2b0-7c0cb119b8d0", 
+    "issueNum" : "202005", 
+    "deployNum" : "405", 
+    "actualNum" : "2716", 
+    "firstAveragePrice" : "21168", 
+    "secondAveragePrice" : "23296", 
+    "minPrice" : "43800", 
+    "averagePrice" : "46680", 
+    "minPriceOfferNum" : "80", 
+    "minPriceDealNum" : "27", 
+    "dealNUm" : "405", 
+    "payNum" : "401", 
+    "_class" : "com.car.data.entity.CompanyBiddingResult"
+}
+{ 
+    "_id" : "b953f1b3-9744-4891-9d4d-0955ae6de688", 
+    "issueNum" : "202006", 
+    "deployNum" : "404", 
+    "actualNum" : "2647", 
+    "firstAveragePrice" : "23970", 
+    "secondAveragePrice" : "26712", 
+    "minPrice" : "50000", 
+    "averagePrice" : "52887", 
+    "minPriceOfferNum" : "44", 
+    "minPriceDealNum" : "16", 
+    "dealNUm" : "404", 
+    "payNum" : "403", 
+    "_class" : "com.car.data.entity.CompanyBiddingResult"
+}

@@ -1,0 +1,780 @@
+{ 
+    "_id" : "56fe6015-f684-4d3d-96e1-a59d53d0dd24", 
+    "issueNum" : "202007", 
+    "description" : "2020年07月单位指标配置", 
+    "deployDate" : "2020-07-27", 
+    "deployDateTime" : "2020-07-27 15:29:30", 
+    "applyNum" : "16669", 
+    "normNum" : "400", 
+    "initialValue" : "319214", 
+    "lotRate" : "0.0240", 
+    "_class" : "com.car.data.entity.CompanyRecord"
+}
+{ 
+    "_id" : "5adfc753-206e-490c-b240-9080bfcd238c", 
+    "issueNum" : "202006", 
+    "description" : "2020年06月单位指标配置", 
+    "deployDate" : "2020-06-28", 
+    "deployDateTime" : "2020-06-28 15:29:32", 
+    "applyNum" : "15490", 
+    "normNum" : "400", 
+    "initialValue" : "738160", 
+    "lotRate" : "0.0258", 
+    "_class" : "com.car.data.entity.CompanyRecord"
+}
+{ 
+    "_id" : "cd5c3a25-a995-4c68-adbe-b205132ae128", 
+    "issueNum" : "202005", 
+    "description" : "2020年05月单位指标配置", 
+    "deployDate" : "2020-05-26", 
+    "deployDateTime" : "2020-05-26 15:18:21", 
+    "applyNum" : "13849", 
+    "normNum" : "400", 
+    "initialValue" : "123142", 
+    "lotRate" : "0.0289", 
+    "_class" : "com.car.data.entity.CompanyRecord"
+}
+{ 
+    "_id" : "ca357c49-423f-48e4-90b3-a6dff71184d6", 
+    "issueNum" : "202004", 
+    "description" : "2020年04月单位指标配置", 
+    "deployDate" : "2020-04-26", 
+    "deployDateTime" : "2020-04-26 15:17:49", 
+    "applyNum" : "12092", 
+    "normNum" : "400", 
+    "initialValue" : "642155", 
+    "lotRate" : "0.0331", 
+    "_class" : "com.car.data.entity.CompanyRecord"
+}
+{ 
+    "_id" : "08ffb951-cef7-4ef3-9590-54c95f0388df", 
+    "issueNum" : "202003", 
+    "description" : "2020年03月单位指标配置", 
+    "deployDate" : "2020-03-26", 
+    "deployDateTime" : "2020-03-26 15:17:12", 
+    "applyNum" : "9074", 
+    "normNum" : "400", 
+    "initialValue" : "942783", 
+    "lotRate" : "0.0441", 
+    "_class" : "com.car.data.entity.CompanyRecord"
+}
+{ 
+    "_id" : "65385f4a-2207-4b6e-b944-bcc6b6742138", 
+    "issueNum" : "202002", 
+    "description" : "2020年02月单位指标配置", 
+    "deployDate" : "2020-02-26", 
+    "deployDateTime" : "2020-02-26 15:21:39", 
+    "applyNum" : "6593", 
+    "normNum" : "800", 
+    "initialValue" : "217126", 
+    "lotRate" : "0.1213", 
+    "_class" : "com.car.data.entity.CompanyRecord"
+}
+{ 
+    "_id" : "16826a94-6323-4b42-9a9f-c8b27d5bb2d1", 
+    "issueNum" : "201912", 
+    "description" : "2019年12月单位指标配置", 
+    "deployDate" : "2019-12-26", 
+    "deployDateTime" : "2019-12-26 15:31:33", 
+    "applyNum" : "17959", 
+    "normNum" : "400", 
+    "initialValue" : "967920", 
+    "lotRate" : "0.0223", 
+    "_class" : "com.car.data.entity.CompanyRecord"
+}
+{ 
+    "_id" : "16f64f4b-3f7f-493c-95f5-4deef2a5a4e1", 
+    "issueNum" : "201911", 
+    "description" : "2019年11月单位指标配置", 
+    "deployDate" : "2019-11-26", 
+    "deployDateTime" : "2019-11-26 15:32:05", 
+    "applyNum" : "17948", 
+    "normNum" : "400", 
+    "initialValue" : "440196", 
+    "lotRate" : "0.0223", 
+    "_class" : "com.car.data.entity.CompanyRecord"
+}
+{ 
+    "_id" : "9a31d081-331e-494a-ab16-dc9b8c1b2b58", 
+    "issueNum" : "201910", 
+    "description" : "2019年10月单位指标配置", 
+    "deployDate" : "2019-10-28", 
+    "deployDateTime" : "2019-10-28 15:29:31", 
+    "applyNum" : "18100", 
+    "normNum" : "400", 
+    "initialValue" : "751413", 
+    "lotRate" : "0.0221", 
+    "_class" : "com.car.data.entity.CompanyRecord"
+}
+{ 
+    "_id" : "a54d5985-11e0-4eb0-8f43-e07871cebce0", 
+    "issueNum" : "201909", 
+    "description" : "2019年09月单位指标配置", 
+    "deployDate" : "2019-09-26", 
+    "deployDateTime" : "2019-09-26 15:29:08", 
+    "applyNum" : "18399", 
+    "normNum" : "400", 
+    "initialValue" : "586599", 
+    "lotRate" : "0.0217", 
+    "_class" : "com.car.data.entity.CompanyRecord"
+}
+{ 
+    "_id" : "a316fdbe-fb9e-4703-96f2-7e6e7abfdf71", 
+    "issueNum" : "201908", 
+    "description" : "2019年08月单位指标配置", 
+    "deployDate" : "2019-08-26", 
+    "deployDateTime" : "2019-08-26 15:31:15", 
+    "applyNum" : "19095", 
+    "normNum" : "700", 
+    "initialValue" : "867009", 
+    "lotRate" : "0.0367", 
+    "_class" : "com.car.data.entity.CompanyRecord"
+}
+{ 
+    "_id" : "34b8ff89-2064-4bac-bb45-7c8841e36191", 
+    "issueNum" : "201907", 
+    "description" : "2019年07月单位指标配置", 
+    "deployDate" : "2019-07-26", 
+    "deployDateTime" : "2019-07-26 15:31:28", 
+    "applyNum" : "20627", 
+    "normNum" : "700", 
+    "initialValue" : "802524", 
+    "lotRate" : "0.0339", 
+    "_class" : "com.car.data.entity.CompanyRecord"
+}
+{ 
+    "_id" : "588058fb-0b43-4949-b39e-60920a8c5d4d", 
+    "issueNum" : "201906", 
+    "description" : "2019年06月单位指标配置", 
+    "deployDate" : "2019-07-05", 
+    "deployDateTime" : "2019-07-05 15:30:47", 
+    "applyNum" : "21197", 
+    "normNum" : "1000", 
+    "initialValue" : "523419", 
+    "lotRate" : "0.0472", 
+    "_class" : "com.car.data.entity.CompanyRecord"
+}
+{ 
+    "_id" : "8198c46d-d93a-467d-bcb4-71ec9f96ee6c", 
+    "issueNum" : "201905", 
+    "description" : "2019年05月单位指标配置", 
+    "deployDate" : "2019-05-27", 
+    "deployDateTime" : "2019-05-27 15:31:08", 
+    "applyNum" : "19360", 
+    "normNum" : "400", 
+    "initialValue" : "749547", 
+    "lotRate" : "0.0207", 
+    "_class" : "com.car.data.entity.CompanyRecord"
+}
+{ 
+    "_id" : "b4628ffc-0e1b-4d36-aee4-c910c9da3098", 
+    "issueNum" : "201904", 
+    "description" : "2019年04月单位指标配置", 
+    "deployDate" : "2019-04-26", 
+    "deployDateTime" : "2019-04-26 15:32:30", 
+    "applyNum" : "17336", 
+    "normNum" : "400", 
+    "initialValue" : "313648", 
+    "lotRate" : "0.0231", 
+    "_class" : "com.car.data.entity.CompanyRecord"
+}
+{ 
+    "_id" : "9341156d-611c-4b6f-8c5f-92c3ba0aa33f", 
+    "issueNum" : "201903", 
+    "description" : "2019年03月单位指标配置", 
+    "deployDate" : "2019-03-26", 
+    "deployDateTime" : "2019-03-26 15:30:01", 
+    "applyNum" : "14014", 
+    "normNum" : "400", 
+    "initialValue" : "356975", 
+    "lotRate" : "0.0285", 
+    "_class" : "com.car.data.entity.CompanyRecord"
+}
+{ 
+    "_id" : "2d396cb3-d1c7-4c83-b342-f0e06937bfaa", 
+    "issueNum" : "201902", 
+    "description" : "2019年02月单位指标配置", 
+    "deployDate" : "2019-02-26", 
+    "deployDateTime" : "2019-02-26 15:30:16", 
+    "applyNum" : "8786", 
+    "normNum" : "400", 
+    "initialValue" : "474100", 
+    "lotRate" : "0.0455", 
+    "_class" : "com.car.data.entity.CompanyRecord"
+}
+{ 
+    "_id" : "4c296204-a401-46b6-8494-529e3e4b9dfc", 
+    "issueNum" : "201901", 
+    "description" : "2019年01月单位指标配置", 
+    "deployDate" : "2019-01-28", 
+    "deployDateTime" : "2019-01-28 15:32:19", 
+    "applyNum" : "5382", 
+    "normNum" : "400", 
+    "initialValue" : "352014", 
+    "lotRate" : "0.0743", 
+    "_class" : "com.car.data.entity.CompanyRecord"
+}
+{ 
+    "_id" : "9d9cf729-d771-4fea-8c8c-0804b7964721", 
+    "issueNum" : "201812", 
+    "description" : "2018年12月单位指标配置", 
+    "deployDate" : "2018-12-26", 
+    "deployDateTime" : "2018-12-26 15:30:47", 
+    "applyNum" : "23046", 
+    "normNum" : "400", 
+    "initialValue" : "120571", 
+    "lotRate" : "0.0174", 
+    "_class" : "com.car.data.entity.CompanyRecord"
+}
+{ 
+    "_id" : "93fc5119-5f3f-4fa8-896c-b84dcffd63cd", 
+    "issueNum" : "201811", 
+    "description" : "2018年11月单位指标配置", 
+    "deployDate" : "2018-11-26", 
+    "deployDateTime" : "2018-11-26 15:28:17", 
+    "applyNum" : "23577", 
+    "normNum" : "400", 
+    "initialValue" : "707520", 
+    "lotRate" : "0.0170", 
+    "_class" : "com.car.data.entity.CompanyRecord"
+}
+{ 
+    "_id" : "7c9d77d4-f39b-41a5-892e-3bbef9062dc3", 
+    "issueNum" : "201810", 
+    "description" : "2018年10月单位指标配置", 
+    "deployDate" : "2018-10-26", 
+    "deployDateTime" : "2018-10-26 15:27:33", 
+    "applyNum" : "22909", 
+    "normNum" : "400", 
+    "initialValue" : "681866", 
+    "lotRate" : "0.0175", 
+    "_class" : "com.car.data.entity.CompanyRecord"
+}
+{ 
+    "_id" : "ec3501ec-2722-4d37-851d-566d745276eb", 
+    "issueNum" : "201809", 
+    "description" : "2018年09月单位指标配置", 
+    "deployDate" : "2018-09-26", 
+    "deployDateTime" : "2018-09-26 15:29:15", 
+    "applyNum" : "23473", 
+    "normNum" : "400", 
+    "initialValue" : "662840", 
+    "lotRate" : "0.0170", 
+    "_class" : "com.car.data.entity.CompanyRecord"
+}
+{ 
+    "_id" : "c2695851-d9b7-48e9-856d-dc7ad6c3790c", 
+    "issueNum" : "201808", 
+    "description" : "2018年08月单位指标配置", 
+    "deployDate" : "2018-08-27", 
+    "deployDateTime" : "2018-08-27 15:28:47", 
+    "applyNum" : "24074", 
+    "normNum" : "400", 
+    "initialValue" : "955316", 
+    "lotRate" : "0.0166", 
+    "_class" : "com.car.data.entity.CompanyRecord"
+}
+{ 
+    "_id" : "9d1c0922-935e-4ded-b41b-651453925a3d", 
+    "issueNum" : "201807", 
+    "description" : "2018年07月单位指标配置", 
+    "deployDate" : "2018-07-26", 
+    "deployDateTime" : "2018-07-26 15:29:31", 
+    "applyNum" : "25065", 
+    "normNum" : "400", 
+    "initialValue" : "600636", 
+    "lotRate" : "0.0160", 
+    "_class" : "com.car.data.entity.CompanyRecord"
+}
+{ 
+    "_id" : "762b2a54-0de6-4aa7-a2d6-5e9605cce631", 
+    "issueNum" : "201806", 
+    "description" : "2018年06月单位指标配置", 
+    "deployDate" : "2018-06-26", 
+    "deployDateTime" : "2018-06-26 15:29:11", 
+    "applyNum" : "24486", 
+    "normNum" : "400", 
+    "initialValue" : "292759", 
+    "lotRate" : "0.0163", 
+    "_class" : "com.car.data.entity.CompanyRecord"
+}
+{ 
+    "_id" : "d85f726b-e43a-46e0-aca4-a60a08276935", 
+    "issueNum" : "201805", 
+    "description" : "2018年05月单位指标配置", 
+    "deployDate" : "2018-05-28", 
+    "deployDateTime" : "2018-05-28 15:29:13", 
+    "applyNum" : "23092", 
+    "normNum" : "400", 
+    "initialValue" : "701234", 
+    "lotRate" : "0.0173", 
+    "_class" : "com.car.data.entity.CompanyRecord"
+}
+{ 
+    "_id" : "e5f4c3e0-f35a-4166-8386-d362d24ec581", 
+    "issueNum" : "201804", 
+    "description" : "2018年04月单位指标配置", 
+    "deployDate" : "2018-04-26", 
+    "deployDateTime" : "2018-04-26 15:29:41", 
+    "applyNum" : "21848", 
+    "normNum" : "400", 
+    "initialValue" : "763718", 
+    "lotRate" : "0.0183", 
+    "_class" : "com.car.data.entity.CompanyRecord"
+}
+{ 
+    "_id" : "db2b1ccd-34ff-450f-a6a8-415b3bb94a01", 
+    "issueNum" : "201803", 
+    "description" : "2018年03月单位指标配置", 
+    "deployDate" : "2018-03-26", 
+    "deployDateTime" : "2018-03-26 15:28:50", 
+    "applyNum" : "18971", 
+    "normNum" : "400", 
+    "initialValue" : "103004", 
+    "lotRate" : "0.0211", 
+    "_class" : "com.car.data.entity.CompanyRecord"
+}
+{ 
+    "_id" : "89258804-1c81-443e-8f62-67bc8aac110a", 
+    "issueNum" : "201802", 
+    "description" : "2018年02月单位指标配置", 
+    "deployDate" : "2018-02-26", 
+    "deployDateTime" : "2018-02-26 15:32:00", 
+    "applyNum" : "15731", 
+    "normNum" : "400", 
+    "initialValue" : "753315", 
+    "lotRate" : "0.0254", 
+    "_class" : "com.car.data.entity.CompanyRecord"
+}
+{ 
+    "_id" : "a4d648b5-0c81-4569-8d6b-d525c337ba9f", 
+    "issueNum" : "201801", 
+    "description" : "2018年01月单位指标配置", 
+    "deployDate" : "2018-01-26", 
+    "deployDateTime" : "2018-01-26 15:32:28", 
+    "applyNum" : "8305", 
+    "normNum" : "400", 
+    "initialValue" : "616514", 
+    "lotRate" : "0.0482", 
+    "_class" : "com.car.data.entity.CompanyRecord"
+}
+{ 
+    "_id" : "4c38fd3f-9257-4f24-8722-a2ed85681420", 
+    "issueNum" : "201712", 
+    "description" : "2017年12月单位指标配置", 
+    "deployDate" : "2017-12-26", 
+    "deployDateTime" : "2017-12-26 15:51:53", 
+    "applyNum" : "13004", 
+    "normNum" : "400", 
+    "initialValue" : "022753", 
+    "lotRate" : "0.0308", 
+    "_class" : "com.car.data.entity.CompanyRecord"
+}
+{ 
+    "_id" : "7dd2b75a-90eb-47d2-a903-cbfa7a2d4d28", 
+    "issueNum" : "201711", 
+    "description" : "2017年11月单位指标配置", 
+    "deployDate" : "2017-11-27", 
+    "deployDateTime" : "2017-11-27 15:45:35", 
+    "applyNum" : "12757", 
+    "normNum" : "400", 
+    "initialValue" : "574535", 
+    "lotRate" : "0.0314", 
+    "_class" : "com.car.data.entity.CompanyRecord"
+}
+{ 
+    "_id" : "9d5153df-e51d-4c8a-80ed-2745df80cf95", 
+    "issueNum" : "201710", 
+    "description" : "2017年10月单位指标配置", 
+    "deployDate" : "2017-10-26", 
+    "deployDateTime" : "2017-10-26 15:30:17", 
+    "applyNum" : "12340", 
+    "normNum" : "400", 
+    "initialValue" : "334398", 
+    "lotRate" : "0.0324", 
+    "_class" : "com.car.data.entity.CompanyRecord"
+}
+{ 
+    "_id" : "6462e595-deae-4aaa-b69e-1d2a7db84038", 
+    "issueNum" : "201709", 
+    "description" : "2017年09月单位指标配置", 
+    "deployDate" : "2017-09-26", 
+    "deployDateTime" : "2017-09-26 15:33:13", 
+    "applyNum" : "11962", 
+    "normNum" : "400", 
+    "initialValue" : "369010", 
+    "lotRate" : "0.0334", 
+    "_class" : "com.car.data.entity.CompanyRecord"
+}
+{ 
+    "_id" : "1cdbf360-21e5-4031-9c2c-be22dc477ced", 
+    "issueNum" : "201708", 
+    "description" : "2017年08月单位指标配置", 
+    "deployDate" : "2017-08-28", 
+    "deployDateTime" : "2017-08-28 15:32:36", 
+    "applyNum" : "10892", 
+    "normNum" : "400", 
+    "initialValue" : "203411", 
+    "lotRate" : "0.0367", 
+    "_class" : "com.car.data.entity.CompanyRecord"
+}
+{ 
+    "_id" : "d2999110-8dbb-4c19-966e-392244305d0e", 
+    "issueNum" : "201707", 
+    "description" : "2017年07月单位指标配置", 
+    "deployDate" : "2017-07-26", 
+    "deployDateTime" : "2017-07-26 15:32:38", 
+    "applyNum" : "10208", 
+    "normNum" : "400", 
+    "initialValue" : "705313", 
+    "lotRate" : "0.0392", 
+    "_class" : "com.car.data.entity.CompanyRecord"
+}
+{ 
+    "_id" : "a4f4bc39-6193-48a4-8022-f6efeb5329ad", 
+    "issueNum" : "201706", 
+    "description" : "2017年06月单位指标配置", 
+    "deployDate" : "2017-06-26", 
+    "deployDateTime" : "2017-06-26 15:39:26", 
+    "applyNum" : "9403", 
+    "normNum" : "400", 
+    "initialValue" : "574486", 
+    "lotRate" : "0.0425", 
+    "_class" : "com.car.data.entity.CompanyRecord"
+}
+{ 
+    "_id" : "96b7e37d-132c-4650-959f-54d4dfd5bec4", 
+    "issueNum" : "201705", 
+    "description" : "2017年05月单位指标配置", 
+    "deployDate" : "2017-05-26", 
+    "deployDateTime" : "2017-05-26 15:29:55", 
+    "applyNum" : "9080", 
+    "normNum" : "400", 
+    "initialValue" : "106855", 
+    "lotRate" : "0.0441", 
+    "_class" : "com.car.data.entity.CompanyRecord"
+}
+{ 
+    "_id" : "db678b92-d855-4b11-ab8f-a36829095394", 
+    "issueNum" : "201704", 
+    "description" : "2017年04月单位指标配置", 
+    "deployDate" : "2017-04-26", 
+    "deployDateTime" : "2017-04-26 15:34:19", 
+    "applyNum" : "7780", 
+    "normNum" : "400", 
+    "initialValue" : "258003", 
+    "lotRate" : "0.0514", 
+    "_class" : "com.car.data.entity.CompanyRecord"
+}
+{ 
+    "_id" : "3c5a63e3-a15e-4e5b-b047-23555fca8382", 
+    "issueNum" : "201703", 
+    "description" : "2017年03月单位指标配置", 
+    "deployDate" : "2017-03-27", 
+    "deployDateTime" : "2017-03-27 15:34:28", 
+    "applyNum" : "5890", 
+    "normNum" : "400", 
+    "initialValue" : "245981", 
+    "lotRate" : "0.0679", 
+    "_class" : "com.car.data.entity.CompanyRecord"
+}
+{ 
+    "_id" : "12c11079-3388-49aa-a125-373453dbd5f7", 
+    "issueNum" : "201702", 
+    "description" : "2017年02月单位指标配置", 
+    "deployDate" : "2017-02-27", 
+    "deployDateTime" : "2017-02-27 15:28:35", 
+    "applyNum" : "3628", 
+    "normNum" : "400", 
+    "initialValue" : "799041", 
+    "lotRate" : "0.1103", 
+    "_class" : "com.car.data.entity.CompanyRecord"
+}
+{ 
+    "_id" : "17797ab1-b536-49ec-bfb0-f04b0bea5c19", 
+    "issueNum" : "201701", 
+    "description" : "2017年01月单位指标配置", 
+    "deployDate" : "2017-01-26", 
+    "deployDateTime" : "2017-01-26 15:30:08", 
+    "applyNum" : "1749", 
+    "normNum" : "400", 
+    "initialValue" : "627409", 
+    "lotRate" : "0.2287", 
+    "_class" : "com.car.data.entity.CompanyRecord"
+}
+{ 
+    "_id" : "f6bb35bb-ab21-4b3d-bbef-948865fb859e", 
+    "issueNum" : "201612", 
+    "description" : "2016年12月单位指标配置", 
+    "deployDate" : "2016-12-26", 
+    "deployDateTime" : "2016-12-26 15:34:31", 
+    "applyNum" : "7564", 
+    "normNum" : "400", 
+    "initialValue" : "731340", 
+    "lotRate" : "0.0529", 
+    "_class" : "com.car.data.entity.CompanyRecord"
+}
+{ 
+    "_id" : "a78c3276-1da2-4b03-bf55-f125ac250fc0", 
+    "issueNum" : "201611", 
+    "description" : "2016年11月单位指标配置", 
+    "deployDate" : "2016-11-28", 
+    "deployDateTime" : "2016-11-28 15:34:02", 
+    "applyNum" : "7494", 
+    "normNum" : "400", 
+    "initialValue" : "781214", 
+    "lotRate" : "0.0534", 
+    "_class" : "com.car.data.entity.CompanyRecord"
+}
+{ 
+    "_id" : "9f63d3c8-0dcc-4ac3-9968-f4f1704d608a", 
+    "issueNum" : "201610", 
+    "description" : "2016年10月单位指标配置", 
+    "deployDate" : "2016-10-26", 
+    "deployDateTime" : "2016-10-26 15:29:44", 
+    "applyNum" : "7378", 
+    "normNum" : "400", 
+    "initialValue" : "371100", 
+    "lotRate" : "0.0542", 
+    "_class" : "com.car.data.entity.CompanyRecord"
+}
+{ 
+    "_id" : "82be6c83-03c3-4596-b2d1-912703ce3e39", 
+    "issueNum" : "201609", 
+    "description" : "2016年09月单位指标配置", 
+    "deployDate" : "2016-09-26", 
+    "deployDateTime" : "2016-09-26 15:25:46", 
+    "applyNum" : "7162", 
+    "normNum" : "400", 
+    "initialValue" : "918514", 
+    "lotRate" : "0.0559", 
+    "_class" : "com.car.data.entity.CompanyRecord"
+}
+{ 
+    "_id" : "35fb0b94-d113-45d7-bcf0-6be58f948321", 
+    "issueNum" : "201608", 
+    "description" : "2016年08月单位指标配置", 
+    "deployDate" : "2016-08-26", 
+    "deployDateTime" : "2016-08-26 15:33:07", 
+    "applyNum" : "6858", 
+    "normNum" : "400", 
+    "initialValue" : "752674", 
+    "lotRate" : "0.0583", 
+    "_class" : "com.car.data.entity.CompanyRecord"
+}
+{ 
+    "_id" : "f64f0aa7-7787-44b5-8e31-08e932680348", 
+    "issueNum" : "201607", 
+    "description" : "2016年07月单位指标配置", 
+    "deployDate" : "2016-07-26", 
+    "deployDateTime" : "2016-07-26 15:27:02", 
+    "applyNum" : "6138", 
+    "normNum" : "400", 
+    "initialValue" : "379850", 
+    "lotRate" : "0.0652", 
+    "_class" : "com.car.data.entity.CompanyRecord"
+}
+{ 
+    "_id" : "2b4244d1-79b7-4b98-af3f-554f8db73270", 
+    "issueNum" : "201606", 
+    "description" : "2016年06月单位指标配置", 
+    "deployDate" : "2016-06-27", 
+    "deployDateTime" : "2016-06-27 15:31:03", 
+    "applyNum" : "5502", 
+    "normNum" : "400", 
+    "initialValue" : "990338", 
+    "lotRate" : "0.0727", 
+    "_class" : "com.car.data.entity.CompanyRecord"
+}
+{ 
+    "_id" : "c04eb595-4063-4596-8c32-b737315ee176", 
+    "issueNum" : "201605", 
+    "description" : "2016年05月单位指标配置", 
+    "deployDate" : "2016-05-26", 
+    "deployDateTime" : "2016-05-26 15:26:09", 
+    "applyNum" : "4519", 
+    "normNum" : "400", 
+    "initialValue" : "767527", 
+    "lotRate" : "0.0885", 
+    "_class" : "com.car.data.entity.CompanyRecord"
+}
+{ 
+    "_id" : "6f8906ad-179c-4ea8-96af-ae4631715910", 
+    "issueNum" : "201604", 
+    "description" : "2016年04月单位指标配置", 
+    "deployDate" : "2016-04-26", 
+    "deployDateTime" : "2016-04-26 15:26:23", 
+    "applyNum" : "3936", 
+    "normNum" : "400", 
+    "initialValue" : "392932", 
+    "lotRate" : "0.1016", 
+    "_class" : "com.car.data.entity.CompanyRecord"
+}
+{ 
+    "_id" : "89ad70c3-8052-448d-9eb0-8f9fccef43b4", 
+    "issueNum" : "201603", 
+    "description" : "2016年03月单位指标配置", 
+    "deployDate" : "2016-03-28", 
+    "deployDateTime" : "2016-03-28 15:30:26", 
+    "applyNum" : "3082", 
+    "normNum" : "400", 
+    "initialValue" : "657287", 
+    "lotRate" : "0.1298", 
+    "_class" : "com.car.data.entity.CompanyRecord"
+}
+{ 
+    "_id" : "70303ed6-bc74-4c8b-8bfe-c746c5807598", 
+    "issueNum" : "201602", 
+    "description" : "2016年02月单位指标配置", 
+    "deployDate" : "2016-02-26", 
+    "deployDateTime" : "2016-02-26 15:28:25", 
+    "applyNum" : "2199", 
+    "normNum" : "400", 
+    "initialValue" : "442587", 
+    "lotRate" : "0.1819", 
+    "_class" : "com.car.data.entity.CompanyRecord"
+}
+{ 
+    "_id" : "0efdb974-aec5-464d-993b-3ea9f9767b39", 
+    "issueNum" : "201601", 
+    "description" : "2016年01月单位指标配置", 
+    "deployDate" : "2016-01-26", 
+    "deployDateTime" : "2016-01-26 15:28:39", 
+    "applyNum" : "1076", 
+    "normNum" : "400", 
+    "initialValue" : "322570", 
+    "lotRate" : "0.3717", 
+    "_class" : "com.car.data.entity.CompanyRecord"
+}
+{ 
+    "_id" : "2379af18-264f-445d-872a-612129014989", 
+    "issueNum" : "201512", 
+    "description" : "2015年12月单位指标配置", 
+    "deployDate" : "2015-12-28", 
+    "deployDateTime" : "2015-12-28 15:28:21", 
+    "applyNum" : "4472", 
+    "normNum" : "401", 
+    "initialValue" : "275794", 
+    "lotRate" : "0.0897", 
+    "_class" : "com.car.data.entity.CompanyRecord"
+}
+{ 
+    "_id" : "e64fc3b2-1a8c-450f-a44b-1ca328f8020a", 
+    "issueNum" : "201511", 
+    "description" : "2015年11月单位指标配置", 
+    "deployDate" : "2015-11-26", 
+    "deployDateTime" : "2015-11-26 15:28:10", 
+    "applyNum" : "4503", 
+    "normNum" : "400", 
+    "initialValue" : "348692", 
+    "lotRate" : "0.0888", 
+    "_class" : "com.car.data.entity.CompanyRecord"
+}
+{ 
+    "_id" : "5759552d-6eb6-44e6-aa5d-d659adb60210", 
+    "issueNum" : "201510", 
+    "description" : "2015年10月单位指标配置", 
+    "deployDate" : "2015-10-26", 
+    "deployDateTime" : "2015-10-26 15:27:42", 
+    "applyNum" : "4468", 
+    "normNum" : "400", 
+    "initialValue" : "464827", 
+    "lotRate" : "0.0895", 
+    "_class" : "com.car.data.entity.CompanyRecord"
+}
+{ 
+    "_id" : "6001fabf-579b-426b-9a5a-fca449b05d51", 
+    "issueNum" : "201509", 
+    "description" : "2015年09月单位指标配置", 
+    "deployDate" : "2015-09-28", 
+    "deployDateTime" : "2015-09-28 15:29:52", 
+    "applyNum" : "4331", 
+    "normNum" : "400", 
+    "initialValue" : "328625", 
+    "lotRate" : "0.0924", 
+    "_class" : "com.car.data.entity.CompanyRecord"
+}
+{ 
+    "_id" : "ae99f286-50b7-49d7-a17a-c26e1969a028", 
+    "issueNum" : "201508", 
+    "description" : "2015年08月单位指标配置", 
+    "deployDate" : "2015-08-26", 
+    "deployDateTime" : "2015-08-26 15:30:04", 
+    "applyNum" : "4268", 
+    "normNum" : "400", 
+    "initialValue" : "994605", 
+    "lotRate" : "0.0937", 
+    "_class" : "com.car.data.entity.CompanyRecord"
+}
+{ 
+    "_id" : "48e87df7-60f8-4cc0-9e08-a3e7e54f3eca", 
+    "issueNum" : "201507", 
+    "description" : "2015年07月单位指标配置", 
+    "deployDate" : "2015-07-27", 
+    "deployDateTime" : "2015-07-27 15:27:23", 
+    "applyNum" : "4164", 
+    "normNum" : "400", 
+    "initialValue" : "331419", 
+    "lotRate" : "0.0961", 
+    "_class" : "com.car.data.entity.CompanyRecord"
+}
+{ 
+    "_id" : "2346418d-170f-47a5-b5ed-d85efbdb802a", 
+    "issueNum" : "201506", 
+    "description" : "2015年06月单位指标配置", 
+    "deployDate" : "2015-06-26", 
+    "deployDateTime" : "2015-06-26 15:29:32", 
+    "applyNum" : "3947", 
+    "normNum" : "400", 
+    "initialValue" : "737847", 
+    "lotRate" : "0.1013", 
+    "_class" : "com.car.data.entity.CompanyRecord"
+}
+{ 
+    "_id" : "0cbb6c0b-b39f-42e2-b778-08b412409add", 
+    "issueNum" : "201505", 
+    "description" : "2015年05月单位指标配置", 
+    "deployDate" : "2015-05-26", 
+    "deployDateTime" : "2015-05-26 15:31:52", 
+    "applyNum" : "3581", 
+    "normNum" : "400", 
+    "initialValue" : "331158", 
+    "lotRate" : "0.1117", 
+    "_class" : "com.car.data.entity.CompanyRecord"
+}
+{ 
+    "_id" : "7f242695-e6cd-4fe2-a33b-663c7509c903", 
+    "issueNum" : "201504", 
+    "description" : "2015年04月单位指标配置", 
+    "deployDate" : "2015-04-27", 
+    "deployDateTime" : "2015-04-27 15:30:32", 
+    "applyNum" : "2611", 
+    "normNum" : "533", 
+    "initialValue" : "533973", 
+    "lotRate" : "0.2041", 
+    "_class" : "com.car.data.entity.CompanyRecord"
+}
+{ 
+    "_id" : "c3cad469-ce35-4368-8c93-cd90fcdf0162", 
+    "issueNum" : "201503", 
+    "description" : "2015年03月单位指标配置", 
+    "deployDate" : "2015-03-26", 
+    "deployDateTime" : "2015-03-26 15:33:11", 
+    "applyNum" : "1208", 
+    "normNum" : "542", 
+    "initialValue" : "922279", 
+    "lotRate" : "0.4487", 
+    "_class" : "com.car.data.entity.CompanyRecord"
+}
+{ 
+    "_id" : "21d09818-a023-4db3-9196-8e60de95f7e6", 
+    "issueNum" : "201502", 
+    "description" : "2015年02月单位指标配置", 
+    "deployDate" : "2015-03-09", 
+    "deployDateTime" : "2015-03-09 15:34:13", 
+    "applyNum" : "524", 
+    "normNum" : "533", 
+    "initialValue" : "362805", 
+    "lotRate" : "1.0172", 
+    "_class" : "com.car.data.entity.CompanyRecord"
+}

@@ -1,0 +1,12 @@
+{ 
+    "_id" : "7f64fa80-f4e1-42b3-ad85-0c30577b9c32", 
+    "date" : "2020-08-12", 
+    "counts" : "0", 
+    "_class" : "com.car.data.entity.VisitRecord"
+}
+{ 
+    "_id" : "6c054156-4adb-4213-9521-a437b816f4a7", 
+    "date" : "2020-08-13", 
+    "counts" : "81", 
+    "_class" : "com.car.data.entity.VisitRecord"
+}
