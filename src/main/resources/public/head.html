@@ -1,0 +1,39 @@
+<link type="text/css" rel="stylesheet" href="/js/layui/css/layui.css">
+<script src="/js/layui/layui.js"></script>
+<ul id="switchNav" class="layui-nav" lay-filter="switchNav">
+    <li class="layui-nav-item layui-this" id="first"><a href="#">首页</a></li>
+    <li class="layui-nav-item" id="personLottery"><a href="#">个人摇号</a></li>
+    <li class="layui-nav-item" id="personBidding"><a href="#">个人竞价</a></li>
+    <li class="layui-nav-item" id="companyLottery"><a href="#">单位摇号</a></li>
+    <li class="layui-nav-item" id="companyBidding"><a href="#">单位竞价</a></li>
+    <li class="layui-nav-item" id="about"><a href="#">关于本站</a></li>
+</ul>
+
+<script>
+    //注意进度条依赖 element 模块，否则无法进行正常渲染和功能性操作
+    layui.use('element', function(){
+        var element = layui.element;
+        var $ = layui.jquery;
+        element.on('nav(switchNav)',function (elem) {
+            // console.log(elem);
+        })
+        $("#first").click(function () {
+            $(parent.document).find("#menuFrame").attr("src", "./2.html");
+        });
+        $("#personBidding").click(function () {
+            $(parent.document).find("#menuFrame").attr("src", "/view/personBidding.html");
+        });
+        $("#personLottery").click(function () {
+            $(parent.document).find("#menuFrame").attr("src", "/view/personLottery.html");
+        });
+        $("#companyLottery").click(function () {
+            $(parent.document).find("#menuFrame").attr("src", "/view/companyLottery.html");
+        });
+        $("#companyBidding").click(function () {
+            $(parent.document).find("#menuFrame").attr("src", "/view/companyBidding.html");
+        });
+        $("#about").click(function () {
+            $(parent.document).find("#menuFrame").attr("src", "/view/about.html");
+        });
+    });
+</script>

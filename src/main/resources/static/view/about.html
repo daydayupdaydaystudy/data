@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>深圳市小汽车摇号统计分析</title>
+    <script src="/js/amcharts4/core.js"></script>
+    <script src="/js/amcharts4/charts.js"></script>
+    <script src="/js/amcharts4/themes/animated.js"></script>
+    <script src="/js/amcharts4/themes/kelly.js"></script>
+    <script src="/js/amcharts4/lang/de_CH.js"></script>
+    <script src="/webjars/jquery/2.1.1/jquery.js"></script>
+    <script src="/js/amcharts4/plugins/rangeSelector.js"></script>
+    <style>
+        .charts{
+            width: 70%;
+            height: 500px;
+            margin: auto;
+        }
+        h1{
+            margin-left: 20%;
+        }
+    </style>
+</head>
+<body>
+<script>
+    am4core.ready(function() {
+        am4core.useTheme(am4themes_animated);
+        var chart = am4core.create("visits", am4charts.XYChart);
+        $.ajax({
+            url : "/about/visits",
+            type : "POST",
+            success : function(data){
+                chart.data = data
+            },
+            error : function(error){
+                alert(error)
+            }
+        });
+        chart.dateFormatter.inputDateFormat = "yyyy-MM-dd";
+        var dateAxis = chart.xAxes.push(new am4charts.DateAxis());
+        var valueAxis = chart.yAxes.push(new am4charts.ValueAxis());
+        var series = chart.series.push(new am4charts.LineSeries());
+        series.dataFields.valueY = "counts";
+        series.dataFields.dateX = "date";
+        series.tooltipText = "{value}"
+        series.strokeWidth = 2;
+        series.minBulletDistance = 15;
+
+// Drop-shaped tooltips
+        series.tooltip.background.cornerRadius = 20;
+        series.tooltip.background.strokeOpacity = 0;
+        series.tooltip.pointerOrientation = "vertical";
+        series.tooltip.label.minWidth = 40;
+        series.tooltip.label.minHeight = 40;
+        series.tooltip.label.textAlign = "middle";
+        series.tooltip.label.textValign = "middle";
+
+// Make bullets grow on hover
+        var bullet = series.bullets.push(new am4charts.CircleBullet());
+        bullet.circle.strokeWidth = 2;
+        bullet.circle.radius = 4;
+        bullet.circle.fill = am4core.color("#fff");
+
+        var bullethover = bullet.states.create("hover");
+        bullethover.properties.scale = 1.3;
+
+// Make a panning cursor
+        chart.cursor = new am4charts.XYCursor();
+        chart.cursor.behavior = "panXY";
+        chart.cursor.xAxis = dateAxis;
+        chart.cursor.snapToSeries = series;
+
+// Create vertical scrollbar and place it before the value axis
+        chart.scrollbarY = new am4core.Scrollbar();
+        chart.scrollbarY.parent = chart.leftAxesContainer;
+        chart.scrollbarY.toBack();
+
+// Create a horizontal scrollbar with previe and place it underneath the date axis
+        chart.scrollbarX = new am4charts.XYChartScrollbar();
+        chart.scrollbarX.series.push(series);
+        chart.scrollbarX.parent = chart.bottomAxesContainer;
+
+        dateAxis.start = 0.79;
+        dateAxis.keepSelection = true;
+
+
+    }); // end am4core.ready()
+</script>
+<h1>每日浏览量</h1>
+<div class="charts" id="visits"></div>
+</body>
+</html>

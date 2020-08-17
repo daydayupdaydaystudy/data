@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>深圳市小汽车摇号统计分析</title>
+    <script src="/js/amcharts4/core.js"></script>
+    <script src="/js/amcharts4/charts.js"></script>
+    <script src="/js/amcharts4/themes/animated.js"></script>
+    <script src="/js/amcharts4/themes/kelly.js"></script>
+    <script src="/js/amcharts4/lang/de_CH.js"></script>
+    <script src="/webjars/jquery/2.1.1/jquery.js"></script>
+    <script src="/js/amcharts4/plugins/rangeSelector.js"></script>
+    <script src="/js/amcharts4/plugins/wordCloud.js"></script>
+    <style>
+        .charts{
+            width: 70%;
+            height: 500px;
+            margin: auto;
+        }
+        h1{
+            margin-left: 20%;
+        }
+        .selector {
+            width: 70%;
+            height: 30px;
+            margin: auto;
+        }
+    </style>
+</head>
+<body>
+<script>
+    am4core.ready(function () {
+        am4core.useTheme(am4themes_animated);
+        var chart = am4core.create("lotteryNormNum", am4charts.XYChart);
+        chart.hiddenState.properties.opacity = 0; // this creates initial fade-in
+        $.ajax({
+            url : "/company/lotteryNormNum",
+            type : "POST",
+            success : function(data){
+                chart.data = data
+            },
+            error : function(error){
+                alert(error)
+            }
+        });
+
+        var categoryAxis = chart.xAxes.push(new am4charts.CategoryAxis());
+        categoryAxis.renderer.grid.template.location = 0;
+        categoryAxis.dataFields.category = "issueNum";
+        categoryAxis.renderer.minGridDistance = 40;
+        categoryAxis.fontSize = 11;
+
+        var valueAxis = chart.yAxes.push(new am4charts.ValueAxis());
+        valueAxis.min = 0;
+        valueAxis.max = 1000;
+        valueAxis.strictMinMax = true;
+        valueAxis.renderer.minGridDistance = 30;
+
+        var series = chart.series.push(new am4charts.ColumnSeries());
+        series.dataFields.categoryX = "issueNum";
+        series.dataFields.valueY = "normNum";
+        series.columns.template.tooltipText = "{valueY.value}";
+        series.columns.template.tooltipY = 0;
+        series.columns.template.strokeOpacity = 0;
+
+        series.columns.template.adapter.add("fill", function (fill, target) {
+            return chart.colors.getIndex(target.dataItem.index);
+        });
+    }); // end am4core.ready()
+</script>
+<!--<script>-->
+<!--    am4core.ready(function() {-->
+<!--        am4core.useTheme(am4themes_animated);-->
+<!--        var chart = am4core.create("personLotteryApplyNum", am4charts.XYChart);-->
+<!--        chart.language.locale["_date_issueNum"] = "yyyy";-->
+<!--        chart.language.locale["_date_month"] = "MM期";-->
+<!--        $.ajax({-->
+<!--            url : "/person/lotteryApplyNum",-->
+<!--            type : "POST",-->
+<!--            success : function(data){-->
+<!--                chart.data = data-->
+<!--            },-->
+<!--            error : function(error){-->
+<!--                alert(error)-->
+<!--            }-->
+<!--        });-->
+
+<!--        var dateAxis = chart.xAxes.push(new am4charts.DateAxis());-->
+<!--        dateAxis.renderer.minGridDistance = 60;-->
+
+<!--        var valueAxis = chart.yAxes.push(new am4charts.ValueAxis());-->
+<!--        var series = chart.series.push(new am4charts.LineSeries());-->
+<!--        series.dataFields.valueY = "applyNum";-->
+<!--        series.dataFields.dateX = "issueNum";-->
+<!--        series.tooltipText = "{applyNum}"-->
+<!--        series.tooltip.pointerOrientation = "vertical";-->
+
+<!--        chart.cursor = new am4charts.XYCursor();-->
+<!--        chart.cursor.snapToSeries = series;-->
+<!--        chart.cursor.xAxis = dateAxis;-->
+
+<!--        chart.scrollbarX = new am4core.Scrollbar();-->
+<!--        var selector = new am4plugins_rangeSelector.DateAxisRangeSelector();-->
+<!--        selector.container = document.getElementById("selectordiv2");-->
+<!--        selector.axis = dateAxis;-->
+<!--    }); // end am4core.ready()-->
+<!--</script>-->
+<script>
+    am4core.ready(function () {
+        am4core.useTheme(am4themes_animated);
+        var chart = am4core.create("lotteryApplyNum", am4charts.XYChart);
+        chart.colors.step = 2;
+        $.ajax({
+            url : "/company/lotteryApplyNum",
+            type : "POST",
+            success : function(data){
+                chart.data = data
+            },
+            error : function(error){
+                alert(error)
+            }
+        });
+        var dateAxis = chart.xAxes.push(new am4charts.DateAxis());
+        dateAxis.renderer.minGridDistance = 60;
+        function createAxisAndSeries(field, name, opposite, bullet) {
+            var valueAxis = chart.yAxes.push(new am4charts.ValueAxis());
+            if (chart.yAxes.indexOf(valueAxis) != 0) {
+                valueAxis.syncWithAxis = chart.yAxes.getIndex(0);
+            }
+            var series = chart.series.push(new am4charts.LineSeries());
+            series.dataFields.valueY = field;
+            series.dataFields.dateX = "issueNum";
+            series.strokeWidth = 2;
+            series.yAxis = valueAxis;
+            series.name = name;
+            series.tooltipText = "{name}: [bold]{valueY}[/]";
+            series.tensionX = 0.8;
+            series.showOnInit = true;
+            if (field === "lotRate"){
+                series.tooltipText = "{dateX.formatDate('yyyy年MM期')}: {valueY.formatNumber('#.00%')}";
+            } else {
+                series.tooltipText = "{dateX.formatDate('yyyy年MM期')}: {valueY.formatNumber('#.')}";
+            }
+            var interfaceColors = new am4core.InterfaceColorSet();
+            valueAxis.renderer.line.strokeOpacity = 1;
+            valueAxis.renderer.line.strokeWidth = 2;
+            valueAxis.renderer.line.stroke = series.stroke;
+            valueAxis.renderer.labels.template.fill = series.stroke;
+            valueAxis.renderer.opposite = opposite;
+        }
+        createAxisAndSeries("lotRate", "中签率%", false, "circle");
+        createAxisAndSeries("applyNum", "有效编码数", true, "triangle");
+        chart.legend = new am4charts.Legend();
+        chart.cursor = new am4charts.XYCursor();
+
+        var selector = new am4plugins_rangeSelector.DateAxisRangeSelector();
+        selector.container = document.getElementById("selectordiv2");
+        selector.axis = dateAxis;
+    }); // end am4core.ready()
+</script>
+<!--<script>-->
+<!--    am4core.ready(function() {-->
+<!--        am4core.useTheme(am4themes_animated);-->
+<!--        var chart = am4core.create("lotteryNameTop", am4plugins_wordCloud.WordCloud);-->
+<!--        var series = chart.series.push(new am4plugins_wordCloud.WordCloudSeries());-->
+
+<!--        series.accuracy = 4;-->
+<!--        series.step = 15;-->
+<!--        series.rotationThreshold = 0.7;-->
+<!--        series.maxCount = 200;-->
+<!--        series.minWordLength = 2;-->
+<!--        series.labels.template.margin(4,4,4,4);-->
+<!--        series.maxFontSize = am4core.percent(30);-->
+<!--        series.dataFields.word = "name";-->
+<!--        series.dataFields.value = "points";-->
+<!--        $.ajax({-->
+<!--            url : "/company/lotteryNameTop",-->
+<!--            type : "POST",-->
+<!--            success : function(data){-->
+<!--                series.data = data;-->
+<!--            },-->
+<!--            error : function(error){-->
+<!--                alert(error)-->
+<!--            }-->
+<!--        });-->
+<!--        series.colors = new am4core.ColorSet();-->
+<!--        series.colors.passOptions = {}; // makes it loop-->
+<!--        series.angles = [0,-90];-->
+<!--        series.fontWeight = "700"-->
+<!--    }); // end am4core.ready()-->
+<!--</script>-->
+<script>
+    am4core.ready(function() {
+        am4core.useTheme(am4themes_animated);
+        var chart = am4core.create("chartdiv", am4charts.PieChart);
+        $.ajax({
+            url : "/company/lotteryInitNum",
+            type : "POST",
+            success : function(data){
+                chart.data = data;
+            },
+            error : function(error){
+                alert(error)
+            }
+        });
+
+        chart.innerRadius = am4core.percent(50);
+        var pieSeries = chart.series.push(new am4charts.PieSeries());
+        pieSeries.dataFields.value = "count";
+        pieSeries.dataFields.category = "number";
+        pieSeries.slices.template.stroke = am4core.color("#fff");
+        pieSeries.slices.template.strokeWidth = 2;
+        pieSeries.slices.template.strokeOpacity = 1;
+        pieSeries.hiddenState.properties.opacity = 1;
+        pieSeries.hiddenState.properties.endAngle = -90;
+        pieSeries.hiddenState.properties.startAngle = -90;
+
+    }); // end am4core.ready()
+</script>
+
+
+
+<h1>每期投放指标数</h1>
+<div class="charts" id="lotteryNormNum"></div>
+<br>
+<br>
+<br>
+<h1>有效编吗数/中签率走势</h1>
+<div class="selector" id="selectordiv2"></div>
+<div class="charts" id="lotteryApplyNum"></div>
+<!--<br>-->
+<!--<br>-->
+<!--<br>-->
+<!--<h1>中签姓名Top100</h1>-->
+<!--<div class="charts" id="lotteryNameTop"></div>-->
+<br>
+<br>
+<br>
+<h1>随机因子统计</h1>
+<div class="charts" id="chartdiv"></div>
+</body>
+</html>

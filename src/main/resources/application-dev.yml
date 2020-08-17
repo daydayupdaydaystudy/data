@@ -1,0 +1,13 @@
+server:
+  port: 8090
+
+spring:
+  data:
+    mongodb:
+      host: 120.24.25.136
+      port: 25016
+      database: car
+car-config:
+  apply-info-url: https://apply.jtys.sz.gov.cn/apply/app/status/norm/person
+  notice-info-url: http://xqctk.jtys.sz.gov.cn/gbl/
+
